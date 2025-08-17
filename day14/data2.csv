@@ -1,0 +1,9 @@
+order_id,customer,product,category,quantity,price,date,status
+1,Francis,Laptop,Electronics,1,55000,2025-01-05,Delivered
+2,Ana,Phone,Electronics,2,25000,2025-01-07,Cancelled
+3,Miguel,Protein Powder,Health,3,1200,2025-01-10,Delivered
+4,Sofia,Bike,Fitness,1,15000,2025-02-01,Delivered
+5,Carlo,Yoga Mat,Fitness,5,800,2025-02-02,Pending
+6,Liza,Creatine,Health,2,900,2025-02-03,Delivered
+7,David,Headphones,Electronics,1,3000,2025-02-04,Delivered
+8,Maria,Treadmill,Fitness,1,45000,2025-02-05,Cancelled

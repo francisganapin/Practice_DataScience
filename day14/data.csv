@@ -1,0 +1,11 @@
+id,first_name,last_name,email,phone_number,membership_type,start_date,end_date,status
+1,Francis,Ganapin,francis@example.com,09171234567,Gold,2025-01-01,2025-12-31,Active
+2,Ana,Santos,ana.santos@example.com,09181234567,Silver,2025-02-15,2025-08-15,Active
+3,Mark,Reyes,mark.reyes@example.com,09201234567,Bronze,2024-09-01,2025-09-01,Active
+4,Maria,Lopez,maria.lopez@example.com,09191234567,Gold,2025-03-01,2026-03-01,Active
+5,John,Cruz,john.cruz@example.com,09211234567,Silver,2024-11-15,2025-05-15,Expired
+6,Liza,Delos Santos,liza.ds@example.com,09301234567,Bronze,2025-04-01,2025-10-01,Active
+7,Carlos,Manalo,carlos.manalo@example.com,09181230000,Gold,2025-01-15,2026-01-15,Active
+8,Grace,Fernandez,grace.fernandez@example.com,09351234567,Silver,2025-02-01,2025-08-01,Active
+9,Paulo,Diaz,paulo.diaz@example.com,09251234567,Bronze,2024-07-01,2025-07-01,Active
+10,Sofia,Ramos,sofia.ramos@example.com,09171235555,Gold,2025-05-01,2026-05-01,Active
