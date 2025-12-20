@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price,Stock
+1,ProductA,Electronics,500,50
+2,ProductB,Electronics,700,30
+3,ProductC,Furniture,300,20
+4,ProductD,Furniture,900,15
+5,ProductE,Clothing,400,100
+6,ProductF,Clothing,800,60
+7,ProductG,Beauty,600,40
+8,ProductH,Beauty,1000,25
+9,ProductI,Books,750,80
+10,ProductJ,Books,650,90

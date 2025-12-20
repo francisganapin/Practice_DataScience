@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Price,Stock,Rating
+1,Laptop Pro 15,Computers,1200,50,4.5
+2,Wireless Mouse,Accessories,25,200,4.2
+3,4K Monitor,Monitors,300,80,4.7
+4,Gaming Keyboard,Accessories,75,150,4.6
+5,Smartphone X,Mobile,999,100,4.8
+6,Tablet Z,Mobile,450,120,4.3
+7,External SSD 1TB,Storage,150,60,4.4
+8,Noise Cancelling Headphones,Audio,200,70,4.5
+9,Smartwatch Series 5,Wearables,350,90,4.6
+10,VR Headset,Accessories,400,40,4.7
+11,Desktop PC,Computers,800,30,4.4
+12,Portable Charger,Accessories,30,300,4.1
+13,Router AX3000,Networking,120,110,4.3
+14,Webcam HD,Accessories,50,250,4.2
+15,Smart Speaker,Audio,100,180,4.5
+16,Graphics Card RTX 3080,Components,700,20,4.9
+17,Mechanical Hard Drive 2TB,Storage,80,100,4.0
+18,Wireless Earbuds,Audio,150,200,4.6
+19,Smart Thermostat,Smart Home,250,60,4.4
+20,Drone Pro 4K,Cameras,1200,15,4.8

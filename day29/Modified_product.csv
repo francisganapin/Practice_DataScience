@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price,Stock,Discounted_Price,Price_Range
+1,ProductA,Electronics,500,50,450.0,High
+2,ProductB,Electronics,700,30,630.0,
+3,ProductC,Furniture,300,20,270.0,High
+4,ProductD,Furniture,900,15,810.0,
+5,ProductE,Clothing,400,100,360.0,High
+6,ProductF,Clothing,800,60,720.0,
+7,ProductG,Beauty,600,40,540.0,
+8,ProductH,Beauty,1000,25,900.0,
+9,ProductI,Books,750,80,675.0,
+10,ProductJ,Books,650,90,585.0,
