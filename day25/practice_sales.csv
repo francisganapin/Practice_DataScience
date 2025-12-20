@@ -1,0 +1,11 @@
+order_id,customer_name,product,category,quantity,unit_price,order_date,region
+1001,Alice Johnson,Laptop,Electronics,2,899.99,2024-01-15,North
+1002,Bob Smith,Headphones,Electronics,5,49.99,2024-01-16,South
+1003,Carol Davis,Office Chair,Furniture,3,199.99,2024-01-17,East
+1004,David Brown,Keyboard,Electronics,10,79.99,2024-01-18,West
+1005,Eve Wilson,Desk,Furniture,1,349.99,2024-01-19,North
+1006,Frank Miller,Mouse,Electronics,8,29.99,2024-01-20,South
+1007,Grace Lee,Monitor,Electronics,4,299.99,2024-01-21,East
+1008,Henry Taylor,Bookshelf,Furniture,2,149.99,2024-01-22,West
+1009,Ivy Anderson,Webcam,Electronics,6,89.99,2024-01-23,North
+1010,Jack Thomas,Filing Cabinet,Furniture,1,179.99,2024-01-24,South

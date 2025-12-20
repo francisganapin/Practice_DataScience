@@ -1,0 +1,6 @@
+sale_id,date,product,category,price,quantity,customer_id
+1,2025-01-02,Office Chair,Chair,2500,1,C001
+2,2025-01-03,Dining Table,Table,8500,1,C002
+3,2025-01-03,Sofa Set,Sofa,15000,1,C003
+4,2025-01-04,Bar Stool,Chair,1800,2,C004
+5,2025-01-05,Coffee Table,Table,3200,1,C001
