@@ -1,0 +1,21 @@
+InvoiceID,Branch,City,CustomerType,Gender,ProductLine,UnitPrice,Quantity,Tax,Total,Date,Time,Payment,Rating
+1001,A,Yangon,Member,Female,Health and beauty,74.69,7,26.14,548.97,1/5/2019,13:08,Ewallet,9.1
+1002,C,Naypyitaw,Normal,Female,Electronic accessories,15.28,5,3.82,80.22,3/8/2019,10:29,Cash,9.6
+1003,A,Yangon,Normal,Male,Home and lifestyle,46.33,7,16.22,340.52,3/3/2019,13:23,Credit card,7.4
+1004,B,Mandalay,Member,Male,Health and beauty,58.22,8,20.38,427.94,1/27/2019,20:33,Ewallet,8.4
+1005,A,Yangon,Normal,Male,Sports and travel,86.31,7,30.21,634.38,2/8/2019,10:37,Ewallet,5.3
+1006,C,Naypyitaw,Normal,Male,Electronic accessories,85.39,7,29.89,627.62,3/25/2019,18:30,Ewallet,4.5
+1007,B,Mandalay,Member,Female,Electronic accessories,68.84,6,20.65,433.69,2/25/2019,9:59,Cash,7.2
+1008,C,Naypyitaw,Normal,Female,Electronic accessories,66.12,5,16.53,347.13,2/24/2019,14:32,Cash,6.8
+1009,A,Yangon,Member,Female,Health and beauty,25.78,9,11.60,243.62,1/15/2019,16:38,Credit card,5.1
+1010,B,Mandalay,Member,Male,Health and beauty,44.56,3,6.68,140.36,2/14/2019,11:45,Ewallet,8.9
+1011,C,Naypyitaw,Member,Female,Sports and travel,15.67,4,3.13,65.81,1/22/2019,19:22,Cash,4.2
+1012,A,Yangon,Normal,Male,Electronic accessories,33.99,2,3.40,71.38,3/11/2019,12:15,Credit card,6.5
+1013,B,Mandalay,Normal,Female,Home and lifestyle,88.45,6,26.54,557.24,1/30/2019,15:55,Ewallet,9.3
+1014,A,Yangon,Member,Male,Health and beauty,92.11,1,4.61,96.72,2/18/2019,14:02,Cash,7.8
+1015,C,Naypyitaw,Member,Female,Sports and travel,55.55,8,22.22,466.62,3/19/2019,17:40,Credit card,8.1
+1016,B,Mandalay,Normal,Male,Electronic accessories,77.77,5,19.44,408.29,1/12/2019,10:10,Ewallet,6.9
+1017,A,Yangon,Member,Female,Home and lifestyle,22.22,9,10.00,209.98,2/5/2019,13:50,Cash,5.7
+1018,C,Naypyitaw,Normal,Male,Health and beauty,33.33,4,6.67,139.99,3/2/2019,16:20,Credit card,7.5
+1019,B,Mandalay,Member,Female,Sports and travel,44.44,7,15.55,326.63,1/9/2019,11:30,Ewallet,8.8
+1020,A,Yangon,Normal,Male,Electronic accessories,99.99,2,10.00,209.98,2/28/2019,18:05,Cash,9.9
