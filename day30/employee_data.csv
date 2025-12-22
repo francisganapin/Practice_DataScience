@@ -1,0 +1,21 @@
+EmployeeID,Name,Department,Salary,JoiningDate,PerformanceRating,Age,City
+E001,John Doe,IT,75000,2020-01-15,4.5,28,New York
+E002,Jane Smith,HR,60000,2019-03-22,4.2,32,Chicago
+E003,Michael Brown,Finance,85000,2018-07-10,4.8,35,San Francisco
+E004,Emily Davis,Marketing,62000,2021-05-05,3.9,26,New York
+E005,Chris Wilson,IT,78000,2019-11-12,4.6,29,Chicago
+E006,Sarah Johnson,Finance,90000,2017-09-01,4.9,38,San Francisco
+E007,David Lee,HR,58000,2022-02-18,3.5,24,Austin
+E008,Laura White,Marketing,65000,2020-08-30,4.1,27,Austin
+E009,Robert Miller,IT,72000,2021-12-01,4.0,26,Chicago
+E010,Jessica Taylor,Finance,82000,2019-06-15,4.4,31,New York
+E011,Daniel Anderson,IT,80000,2018-04-20,4.7,33,San Francisco
+E012,Lisa Thomas,HR,61000,2020-10-10,4.3,29,Austin
+E013,James Jackson,Marketing,63000,2021-01-25,3.8,25,Chicago
+E014,Karen Moore,Finance,88000,2017-11-05,4.8,36,New York
+E015,Brian Martin,IT,76000,2020-05-14,4.2,28,Austin
+E016,Nancy Garcia,HR,59000,2022-06-01,3.6,23,San Francisco
+E017,George Martinez,Marketing,66000,2019-09-19,4.5,30,New York
+E018,Betty Robinson,IT,79000,2018-12-12,4.6,34,Chicago
+E019,Kevin Clark,Finance,84000,2020-03-03,4.3,32,Austin
+E020,Sandra Rodriguez,Marketing,64000,2021-07-22,4.0,27,San Francisco
