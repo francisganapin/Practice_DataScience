@@ -1,0 +1,16 @@
+Order_ID,Product,Category,Amount,Date,Region
+1001,Laptop,Electronics,1200,2024-01-15,North
+1002,Mouse,Electronics,25,2024-01-16,South
+1003,Chair,Furniture,150,2024-01-17,East
+1004,Desk,Furniture,300,2024-01-18,West
+1005,Phone,Electronics,800,2024-01-19,North
+1006,Headphones,Electronics,100,2024-01-20,South
+1007,Monitor,Electronics,200,2024-01-21,East
+1008,Keyboard,Electronics,50,2024-01-22,West
+1009,Table,Furniture,250,2024-01-23,North
+1010,Lamp,Furniture,40,2024-01-24,South
+1011,Laptop,Electronics,1200,2024-01-25,East
+1012,Chair,Furniture,150,2024-01-26,West
+1013,Phone,Electronics,800,2024-01-27,South
+1014,Mouse,Electronics,25,2024-01-28,North
+1015,Desk,Furniture,300,2024-01-29,East
