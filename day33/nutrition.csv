@@ -1,0 +1,51 @@
+food_id,food_name,category,serving_size_g,calories,protein_g,carbs_g,fat_g,fiber_g,sugar_g,sodium_mg,cholesterol_mg,vitamin_a_iu,vitamin_c_mg,calcium_mg,iron_mg,is_vegetarian,is_vegan,is_gluten_free
+1,Grilled Chicken Breast,Protein,150,248,46.5,0,5.4,0,0,126,130,26,0,21,1.5,No,No,Yes
+2,Brown Rice,Grains,195,216,5,45,1.8,3.5,0.7,10,0,0,0,20,1.1,Yes,Yes,Yes
+3,Broccoli,Vegetables,91,31,2.5,6,0.4,2.4,1.5,30,0,567,81,43,0.7,Yes,Yes,Yes
+4,Salmon Fillet,Protein,170,367,39.3,0,22,0,0,98,109,87,0,18,1.3,No,No,Yes
+5,Quinoa,Grains,185,222,8.1,39.4,3.6,5.2,1.6,13,0,9,0,31,2.8,Yes,Yes,Yes
+6,Spinach,Vegetables,30,7,0.9,1.1,0.1,0.7,0.1,24,0,2813,8.4,30,0.8,Yes,Yes,Yes
+7,Greek Yogurt,Dairy,170,100,17,6,0.7,0,4,65,10,0,0,187,0.1,Yes,No,Yes
+8,Almonds,Nuts,28,164,6,6.1,14.2,3.5,1.2,0,0,1,0,76,1.1,Yes,Yes,Yes
+9,Sweet Potato,Vegetables,200,180,4,41,0.2,6.6,13,72,0,28058,39.2,76,1.4,Yes,Yes,Yes
+10,Eggs,Protein,100,155,12.6,1.1,10.6,0,1.1,124,373,540,0,56,1.8,Yes,No,Yes
+11,Oatmeal,Grains,234,158,6,27,3,4,1,115,0,0,0,21,2.1,Yes,Yes,No
+12,Banana,Fruits,118,105,1.3,27,0.4,3.1,14.4,1,0,76,10.3,6,0.3,Yes,Yes,Yes
+13,Apple,Fruits,182,95,0.5,25,0.3,4.4,19,2,0,98,8.4,11,0.2,Yes,Yes,Yes
+14,Avocado,Fruits,201,322,4,17,29,13.5,1.3,14,0,293,20,24,1.1,Yes,Yes,Yes
+15,Tofu,Protein,126,94,10,2.3,5,0.4,0.5,9,0,0,0,434,2.4,Yes,Yes,Yes
+16,White Bread,Grains,30,79,2.7,15,1,0.6,1.5,147,0,0,0,36,1,Yes,Yes,No
+17,Cheddar Cheese,Dairy,28,113,7,0.4,9.3,0,0.1,174,28,284,0,202,0.2,Yes,No,Yes
+18,Lentils,Legumes,198,230,18,40,0.8,15.6,3.6,4,0,8,3,38,6.6,Yes,Yes,Yes
+19,Chicken Thigh,Protein,130,229,28.5,0,11.8,0,0,104,143,56,0,13,1.4,No,No,Yes
+20,Tuna,Protein,142,191,42.1,0,1.3,0,0,83,77,65,0,23,1.9,No,No,Yes
+21,Pasta,Grains,140,220,8.1,43,1.3,2.5,0.8,1,0,0,0,10,1.8,Yes,Yes,No
+22,Orange,Fruits,131,62,1.2,15.4,0.2,3.1,12.2,0,0,295,69.7,52,0.1,Yes,Yes,Yes
+23,Milk (Whole),Dairy,244,149,8,12,8,0,12.3,105,24,395,0,276,0.1,Yes,No,Yes
+24,Peanut Butter,Nuts,32,188,8,6,16,1.9,3,136,0,0,0,14,0.6,Yes,Yes,Yes
+25,Carrots,Vegetables,128,52,1.2,12.3,0.3,3.6,6.1,88,0,21384,7.6,42,0.4,Yes,Yes,Yes
+26,Beef Steak,Protein,221,614,58,0,40,0,0,130,197,0,0,28,5.3,No,No,Yes
+27,Cottage Cheese,Dairy,226,206,28,6,9,0,5,706,34,140,0,187,0.3,Yes,No,Yes
+28,Chickpeas,Legumes,164,269,14.5,45,4.3,12.5,8,11,0,44,2.1,80,4.7,Yes,Yes,Yes
+29,Blueberries,Fruits,148,84,1.1,21,0.5,3.6,15,1,0,80,14.4,9,0.4,Yes,Yes,Yes
+30,Cauliflower,Vegetables,107,27,2.1,5.3,0.3,2.1,2,32,0,1,51.6,24,0.4,Yes,Yes,Yes
+31,Turkey Breast,Protein,140,189,40,0,2.1,0,0,91,97,0,0,14,1.5,No,No,Yes
+32,Black Beans,Legumes,172,227,15.2,41,0.9,15,0.3,1,0,10,0,46,3.6,Yes,Yes,Yes
+33,Mango,Fruits,165,99,1.4,25,0.6,2.6,23,2,0,1785,60.1,18,0.3,Yes,Yes,Yes
+34,Walnuts,Nuts,28,185,4.3,3.9,18.5,1.9,0.7,1,0,6,0.4,28,0.8,Yes,Yes,Yes
+35,Kale,Vegetables,67,33,2.2,6,0.5,1.3,0,29,0,10302,80.4,101,1.1,Yes,Yes,Yes
+36,Pork Chop,Protein,179,291,35.7,0,15.4,0,0,86,107,8,1,31,1.6,No,No,Yes
+37,White Rice,Grains,158,206,4.3,45,0.4,0.6,0.1,2,0,0,0,16,2,Yes,Yes,Yes
+38,Strawberries,Fruits,152,49,1,12,0.5,3,7.4,2,0,18,89.4,24,0.6,Yes,Yes,Yes
+39,Bell Pepper,Vegetables,119,31,1,6,0.4,2.1,4.2,4,0,3726,152,8,0.5,Yes,Yes,Yes
+40,Shrimp,Protein,100,99,24,0.2,0.3,0,0,111,189,0,0,70,0.5,No,No,Yes
+41,Honey,Sweeteners,21,64,0.1,17,0,0,17,1,0,0,0.1,1,0.1,Yes,Yes,Yes
+42,Olive Oil,Fats,14,119,0,0,14,0,0,0,0,0,0,0,0.1,Yes,Yes,Yes
+43,Butter,Fats,14,102,0.1,0,11.5,0,0,91,31,355,0,3,0,Yes,No,Yes
+44,Coconut Oil,Fats,14,121,0,0,14,0,0,0,0,0,0,0,0,Yes,Yes,Yes
+45,Mushrooms,Vegetables,96,21,3.1,3.3,0.3,1,2,5,0,0,2.1,3,0.5,Yes,Yes,Yes
+46,Asparagus,Vegetables,134,27,3,5.2,0.2,2.8,2.5,3,0,1013,7.5,32,2.9,Yes,Yes,Yes
+47,Pineapple,Fruits,165,82,0.9,22,0.2,2.3,16.3,2,0,96,79,21,0.5,Yes,Yes,Yes
+48,Bacon,Protein,28,161,10.5,0.4,12.5,0,0,581,33,37,0,2,0.4,No,No,Yes
+49,Ham,Protein,85,122,15.5,3.3,4.5,0,3.3,1117,43,0,0,7,0.9,No,No,Yes
+50,Sausage,Protein,100,301,12,2,27,0,1,749,72,0,1,7,1.3,No,No,No

@@ -1,0 +1,36 @@
+EmployeeID,FirstName,LastName,Email,Phone,HireDate,JobTitle,Department,Salary,Bonus,City,State,Country,ManagerID,PerformanceScore,EmploymentStatus
+1001,John,Doe,john.doe@company.com,555-0101,2020-01-15,Senior Software Engineer,Engineering,115000,12000,San Francisco,CA,USA,1010,4.5,Active
+1002,Jane,Smith,jane.smith@company.com,555-0102,2019-03-22,Data Analyst,Analytics,78000,5000,New York,NY,USA,1012,4.8,Active
+1003,Michael,Johnson,michael.j@company.com,555-0103,2021-06-10,Project Manager,Product,95000,8000,Austin,TX,USA,1015,3.9,Active
+1004,Emily,Davis,emily.davis@company.com,555-0104,2018-11-05,UX Designer,Design,88000,6000,Seattle,WA,USA,1010,4.2,Active
+1005,David,Wilson,david.w@company.com,555-0105,2022-02-14,Sales Representative,Sales,65000,15000,Chicago,IL,USA,1018,3.5,Active
+1006,Sarah,Brown,sarah.b@company.com,555-0106,2020-09-30,HR Specialist,Human Resources,70000,4000,Boston,MA,USA,1020,4.6,Active
+1007,James,Miller,james.m@company.com,555-0107,2017-07-12,DevOps Engineer,Engineering,105000,10000,San Francisco,CA,USA,1010,4.1,Active
+1008,Jessica,Taylor,jessica.t@company.com,555-0108,2021-12-01,Marketing Coordinator,Marketing,62000,3500,Los Angeles,CA,USA,1019,4.0,Active
+1009,Robert,Anderson,robert.a@company.com,555-0109,2016-05-20,Finance Manager,Finance,120000,18000,New York,NY,USA,1025,4.7,Active
+1010,Jennifer,Thomas,jennifer.t@company.com,555-0110,2015-08-15,Engineering Manager,Engineering,145000,25000,San Francisco,CA,USA,,4.9,Active
+1011,William,Jackson,william.j@company.com,555-0111,2022-04-18,Junior Developer,Engineering,75000,2000,Austin,TX,USA,1001,3.2,Probation
+1012,Elizabeth,White,elizabeth.w@company.com,555-0112,2018-01-10,Head of Analytics,Analytics,135000,22000,New York,NY,USA,,4.8,Active
+1013,Christopher,Harris,chris.h@company.com,555-0113,2020-11-22,Customer Support Lead,Support,68000,4500,Denver,CO,USA,1022,4.3,Active
+1014,Patricia,Martin,patricia.m@company.com,555-0114,2019-08-05,Content Strategist,Marketing,76000,5500,Los Angeles,CA,USA,1019,4.4,Active
+1015,Daniel,Thompson,daniel.t@company.com,555-0115,2017-03-14,Product Director,Product,155000,30000,Austin,TX,USA,,4.6,Active
+1016,Linda,Garcia,linda.g@company.com,555-0116,2021-01-25,QA Engineer,Engineering,82000,6500,Seattle,WA,USA,1010,3.8,Active
+1017,Matthew,Martinez,matthew.m@company.com,555-0117,2022-07-08,Sales Associate,Sales,55000,10000,Chicago,IL,USA,1005,3.0,Active
+1018,Barbara,Robinson,barbara.r@company.com,555-0118,2016-10-30,VP of Sales,Sales,170000,45000,Chicago,IL,USA,,4.8,Active
+1019,Paul,Clark,paul.c@company.com,555-0119,2018-05-12,CMO,Marketing,165000,40000,Los Angeles,CA,USA,,4.5,Active
+1020,Nancy,Rodriguez,nancy.r@company.com,555-0120,2019-02-28,CHRO,Human Resources,160000,35000,Boston,MA,USA,,4.7,Active
+1021,Kevin,Lewis,kevin.l@company.com,555-0121,2020-06-15,System Administrator,IT,85000,7000,Denver,CO,USA,1022,4.2,Active
+1022,Karen,Lee,karen.l@company.com,555-0122,2015-11-10,CTO,Executive,210000,60000,San Francisco,CA,USA,,5.0,Active
+1023,Brian,Walker,brian.w@company.com,555-0123,2021-09-05,Business Analyst,Finance,80000,6000,New York,NY,USA,1009,3.7,Active
+1024,Lisa,Hall,lisa.h@company.com,555-0124,2022-03-01,Recruiter,Human Resources,65000,5000,Boston,MA,USA,1006,3.9,Active
+1025,George,Allen,george.a@company.com,555-0125,2014-06-20,CFO,Executive,220000,65000,New York,NY,USA,,4.9,Active
+1026,Betty,Young,betty.y@company.com,555-0126,2023-01-10,Intern,Engineering,45000,0,San Francisco,CA,USA,1001,3.5,Intern
+1027,Steven,Hernandez,steven.h@company.com,555-0127,2019-12-05,Accountant,Finance,72000,4000,New York,NY,USA,1009,4.3,Active
+1028,Sandra,King,sandra.k@company.com,555-0128,2020-04-18,Legal Counsel,Legal,130000,20000,Washington,DC,USA,,4.6,Active
+1029,Edward,Wright,edward.w@company.com,555-0129,2021-08-22,Security Analyst,IT,90000,8500,Denver,CO,USA,1021,4.1,Active
+1030,Ashley,Lopez,ashley.l@company.com,555-0130,2018-09-14,Product Owner,Product,110000,15000,Austin,TX,USA,1015,4.4,Active
+1031,Frank,Scott,frank.s@company.com,555-0131,2022-11-01,Sales Representative,Sales,63000,12000,Miami,FL,USA,1005,3.1,Active
+1032,Donna,Green,donna.g@company.com,555-0132,2017-02-25,Graphic Designer,Design,75000,5000,Seattle,WA,USA,1004,4.5,Active
+1033,Gary,Adams,gary.a@company.com,555-0133,2020-01-05,Data Scientist,Analytics,105000,12000,New York,NY,USA,1012,4.7,Active
+1034,Kimberly,Baker,kimberly.b@company.com,555-0134,2021-05-15,Office Manager,Operations,55000,2000,San Francisco,CA,USA,,4.0,Active
+1035,Larry,Gonzalez,larry.g@company.com,555-0135,2019-07-20,Network Engineer,IT,88000,7500,Denver,CO,USA,1021,4.2,Active
