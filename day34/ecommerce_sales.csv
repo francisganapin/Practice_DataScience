@@ -1,0 +1,501 @@
+Order_ID,Date,Category,Product,Price,Quantity,Payment_Method,City
+1001,2023-05-06,Home,Chair,41.76,3,PayPal,Houston
+1002,2023-01-16,Home,Chair,307.53,1,PayPal,Los Angeles
+1003,2023-08-03,Home,Desk,366.53,5,Cash,Houston
+1004,2023-05-23,Electronics,Headphones,1062.3,3,PayPal,Chicago
+1005,2023-11-06,Electronics,Keyboard,190.24,3,Credit Card,Phoenix
+1006,2023-07-05,Clothing,T-Shirt,,5,Credit Card,Houston
+1007,2023-07-14,Clothing,T-Shirt,173.96,1,Cash,Phoenix
+1008,2023-12-26,Clothing,Jacket,57.71,3,PayPal,Los Angeles
+1009,2023-04-23,Clothing,Sneakers,68.59,5,Credit Card,
+1010,2023-10-18,Clothing,Sneakers,68.19,2,PayPal,Philadelphia
+1011,2023-05-07,Home,Bookshelf,97.15,2,Cash,Phoenix
+1012,2023-01-25,Electronics,Headphones,788.81,1,PayPal,Los Angeles
+1013,2023-11-02,Clothing,Hat,31.43,4,Debit Card,San Diego
+1014,2023-05-17,Electronics,Laptop,1038.48,5,Credit Card,Philadelphia
+1015,2023-09-17,Electronics,Mouse,1459.24,2,Debit Card,Los Angeles
+1016,2023-10-04,Electronics,Headphones,592.18,2,Debit Card,New York
+1017,2023-10-18,Clothing,Jacket,63.1,2,Credit Card,Los Angeles
+1018,2023-10-09,Home,Desk,90.34,4,Debit Card,Chicago
+1019,2024-01-01,Electronics,Monitor,1145.13,2,Cash,Phoenix
+1020,2023-04-26,Clothing,Hat,,2,Debit Card,Los Angeles
+1021,2023-04-28,Home,Desk,33.38,1,Credit Card,Los Angeles
+1022,2023-10-04,Electronics,Mouse,1020.02,2,Cash,Chicago
+1023,2023-07-01,Clothing,Jeans,36.98,4,Cash,San Antonio
+1024,2023-02-25,Home,Chair,58.49,3,PayPal,Houston
+1025,2023-02-08,Clothing,Jeans,70.14,2,Credit Card,San Diego
+1026,2023-03-27,Electronics,Laptop,1393.23,2,Cash,San Antonio
+1027,2023-05-16,Electronics,Headphones,599.51,4,Debit Card,San Diego
+1028,2023-04-22,Home,Bookshelf,102.75,3,Credit Card,New York
+1029,2023-03-22,Home,Bookshelf,266.34,5,Credit Card,New York
+1030,2023-05-07,Electronics,Headphones,635.47,5,Credit Card,New York
+1031,2023-12-09,Home,Lamp,469.31,2,PayPal,Philadelphia
+1032,2023-01-05,Home,Lamp,244.9,1,Credit Card,San Diego
+1033,2023-05-06,Clothing,Jeans,187.99,1,Debit Card,Philadelphia
+1034,2023-01-05,Home,Lamp,317.49,5,Credit Card,Phoenix
+1035,2023-05-20,Electronics,Laptop,1126.5,2,PayPal,Phoenix
+1036,2023-01-27,Home,Lamp,267.54,3,Cash,
+1037,2023-03-24,Clothing,Jeans,134.68,3,Cash,San Diego
+1038,2023-10-26,Home,Desk,286.43,3,Cash,Chicago
+1039,2023-12-08,Electronics,Mouse,354.61,2,Debit Card,Los Angeles
+1040,2023-03-25,Clothing,Hat,,2,Cash,Chicago
+1041,2023-05-17,Clothing,Sneakers,164.4,2,Credit Card,
+1042,2023-06-29,Clothing,Jeans,55.92,4,PayPal,Phoenix
+1043,2023-05-23,Clothing,Jacket,70.15,1,Cash,Philadelphia
+1044,2023-04-02,Clothing,T-Shirt,40.76,3,Credit Card,Phoenix
+1045,2023-03-01,Home,Lamp,235.11,5,PayPal,San Antonio
+1046,2023-12-18,Electronics,Monitor,1392.08,5,Debit Card,Houston
+1047,2023-06-03,Clothing,Hat,76.5,1,Cash,Phoenix
+1048,2023-12-13,Home,Desk,120.16,4,Debit Card,Chicago
+1049,2023-11-07,Clothing,Jacket,57.83,5,Cash,Philadelphia
+1050,2023-12-04,Home,Bookshelf,403.06,2,Debit Card,Los Angeles
+1051,2023-12-11,Clothing,T-Shirt,167.32,2,PayPal,Phoenix
+1052,2023-02-07,Electronics,Headphones,1476.71,5,Cash,San Diego
+1053,2023-03-17,Home,Bookshelf,262.36,2,Credit Card,New York
+1054,2023-05-08,Home,Rug,248.34,5,Cash,Los Angeles
+1055,2023-11-10,Home,Rug,309.86,4,Cash,San Antonio
+1056,2023-11-23,Clothing,Sneakers,66.65,2,Cash,Phoenix
+1057,2023-06-13,Electronics,Mouse,390.02,3,PayPal,Los Angeles
+1058,2023-06-19,Electronics,Headphones,143.13,4,Cash,San Diego
+1059,2023-10-22,Clothing,Hat,,1,Cash,San Antonio
+1060,2023-11-05,Clothing,Sneakers,116.88,5,Cash,Houston
+1061,2023-03-26,Electronics,Keyboard,537.39,4,PayPal,San Diego
+1062,2023-02-12,Clothing,Hat,121.59,1,PayPal,San Antonio
+1063,2023-06-17,Clothing,Sneakers,78.92,4,Cash,Philadelphia
+1064,2023-01-10,Clothing,Jacket,170.28,4,Debit Card,New York
+1065,2023-04-13,Home,Chair,384.49,2,PayPal,New York
+1066,2023-12-25,Electronics,Monitor,1424.25,4,Debit Card,Phoenix
+1067,2023-06-09,Home,Chair,395.56,2,Credit Card,Los Angeles
+1068,2023-02-08,Clothing,Sneakers,189.46,2,Credit Card,Houston
+1069,2023-01-22,Home,Rug,408.6,5,Cash,Philadelphia
+1070,2023-09-08,Home,Lamp,35.95,4,Cash,Los Angeles
+1071,2023-11-30,Clothing,Jeans,98.39,5,Cash,Phoenix
+1072,2023-02-14,Home,Lamp,181.48,2,Cash,Phoenix
+1073,2023-06-16,Home,Bookshelf,188.11,4,Cash,Chicago
+1074,2023-10-12,Clothing,Jacket,178.46,3,PayPal,New York
+1075,2023-11-27,Clothing,Hat,156.47,4,Cash,San Diego
+1076,2023-12-06,Electronics,Keyboard,1053.09,3,Cash,Philadelphia
+1077,2023-05-19,Home,Rug,185.47,4,Debit Card,Phoenix
+1078,2023-04-09,Clothing,T-Shirt,153.72,2,Cash,Houston
+1079,2023-04-10,Home,Rug,163.01,1,PayPal,Phoenix
+1080,2023-01-28,Home,Rug,89.49,1,PayPal,Phoenix
+1081,2023-09-03,Electronics,Laptop,882.39,4,Debit Card,San Diego
+1082,2023-09-09,Clothing,T-Shirt,167.98,4,Credit Card,Los Angeles
+1083,2023-10-13,Clothing,T-Shirt,198.91,1,PayPal,San Antonio
+1084,2023-06-06,Clothing,Jacket,174.83,4,Credit Card,New York
+1085,2023-05-03,Electronics,Mouse,1007.62,2,Credit Card,Chicago
+1086,2023-04-29,Home,Rug,250.86,1,Debit Card,Phoenix
+1087,2023-12-05,Home,Desk,464.24,5,Cash,Houston
+1088,2023-01-31,Electronics,Mouse,1248.62,1,Debit Card,Chicago
+1089,2023-12-25,Clothing,Sneakers,42.38,3,Debit Card,San Antonio
+1090,2023-06-15,Electronics,Monitor,107.8,4,Credit Card,Phoenix
+1091,2023-10-23,Home,Rug,476.87,3,PayPal,New York
+1092,2023-11-22,Clothing,Jeans,199.45,4,Credit Card,San Diego
+1093,2023-07-30,Clothing,T-Shirt,174.39,3,Debit Card,San Diego
+1094,2023-05-10,Home,Chair,243.77,3,Credit Card,Philadelphia
+1095,2023-08-25,Home,Chair,339.1,5,Credit Card,San Antonio
+1096,2023-05-17,Clothing,Sneakers,156.8,2,Debit Card,Chicago
+1097,2023-05-03,Electronics,Laptop,1461.06,5,Debit Card,Chicago
+1098,2023-08-25,Electronics,Headphones,1488.77,1,PayPal,Los Angeles
+1099,2023-08-30,Home,Lamp,225.28,4,Cash,Houston
+1100,2023-02-05,Home,Rug,380.76,2,Cash,Phoenix
+1101,2023-10-28,Clothing,T-Shirt,70.91,3,PayPal,San Diego
+1102,2023-08-22,Clothing,Hat,157.32,4,PayPal,Philadelphia
+1103,2023-01-23,Clothing,Jeans,174.08,4,Cash,Philadelphia
+1104,2023-03-06,Clothing,Jeans,109.16,1,Credit Card,Philadelphia
+1105,2023-07-29,Home,Bookshelf,37.21,2,Credit Card,Chicago
+1106,2023-06-18,Clothing,Hat,144.69,1,Debit Card,San Antonio
+1107,2023-05-01,Clothing,Hat,26.46,1,PayPal,Phoenix
+1108,2023-01-15,Electronics,Laptop,693.33,3,Debit Card,New York
+1109,2023-07-30,Clothing,Sneakers,46.2,5,PayPal,Chicago
+1110,2023-10-26,Clothing,Hat,142.96,4,PayPal,Chicago
+1111,2023-05-28,Clothing,T-Shirt,181.8,4,Credit Card,Chicago
+1112,2023-12-20,Home,Lamp,330.3,4,Cash,Phoenix
+1113,2023-10-20,Clothing,Sneakers,39.2,4,Debit Card,Philadelphia
+1114,2023-12-18,Home,Bookshelf,159.01,5,Cash,New York
+1115,2023-11-22,Electronics,Monitor,1212.8,2,Debit Card,Houston
+1116,2023-06-08,Home,Desk,325.28,1,Credit Card,San Diego
+1117,2023-03-31,Electronics,Mouse,523.74,4,PayPal,Houston
+1118,2023-03-26,Clothing,Hat,110.32,3,Cash,Phoenix
+1119,2023-03-14,Clothing,T-Shirt,104.3,1,Cash,Houston
+1120,2023-05-16,Clothing,T-Shirt,162.32,1,Cash,Los Angeles
+1121,2023-02-25,Clothing,Hat,,3,Cash,Houston
+1122,2023-11-28,Home,Lamp,460.17,2,Cash,Los Angeles
+1123,2023-06-05,Clothing,T-Shirt,45.16,1,Credit Card,San Diego
+1124,2023-08-03,Electronics,Keyboard,707.78,5,Cash,Chicago
+1125,2023-01-17,Home,Bookshelf,471.35,3,PayPal,Philadelphia
+1126,2023-10-06,Clothing,T-Shirt,196.57,3,Credit Card,Philadelphia
+1127,2023-11-25,Electronics,Keyboard,182.93,2,Credit Card,New York
+1128,2023-04-17,Electronics,Monitor,347.55,5,PayPal,Houston
+1129,2023-03-08,Home,Chair,160.32,2,PayPal,Phoenix
+1130,2023-10-29,Electronics,Laptop,569.45,2,Credit Card,Philadelphia
+1131,2023-09-01,Home,Bookshelf,277.26,1,Debit Card,San Diego
+1132,2023-12-04,Home,Desk,474.35,1,Cash,
+1133,2023-09-09,Clothing,Sneakers,96.73,1,Credit Card,San Diego
+1134,2023-11-21,Electronics,Laptop,232.98,5,Cash,Philadelphia
+1135,2023-12-26,Clothing,Hat,128.98,1,PayPal,Los Angeles
+1136,2023-08-01,Clothing,Jacket,168.94,4,Debit Card,Los Angeles
+1137,2023-02-04,Clothing,Jeans,143.63,4,Credit Card,Los Angeles
+1138,2023-01-31,Home,Lamp,411.53,5,Credit Card,Philadelphia
+1139,2023-06-09,Clothing,T-Shirt,194.31,5,Credit Card,Philadelphia
+1140,2023-06-29,Home,Bookshelf,135.4,1,Credit Card,Philadelphia
+1141,2023-11-11,Clothing,Hat,,5,Debit Card,New York
+1142,2023-03-15,Clothing,Jacket,83.18,2,Credit Card,San Antonio
+1143,2023-07-12,Electronics,Laptop,1131.86,2,Cash,San Antonio
+1144,2023-11-02,Home,Lamp,395.11,5,Credit Card,Los Angeles
+1145,2023-09-06,Electronics,Laptop,444.55,4,Cash,San Diego
+1146,2023-12-14,Electronics,Mouse,,3,Debit Card,San Diego
+1147,2023-04-19,Home,Chair,33.61,3,Debit Card,Chicago
+1148,2023-09-30,Clothing,Sneakers,51.63,4,Debit Card,Houston
+1149,2023-06-10,Electronics,Keyboard,77.18,1,Cash,San Antonio
+1150,2023-03-29,Electronics,Keyboard,80.24,3,Debit Card,San Diego
+1151,2023-02-10,Electronics,Keyboard,903.86,5,Debit Card,San Antonio
+1152,2023-09-29,Electronics,Laptop,790.2,1,Debit Card,Houston
+1153,2023-05-12,Home,Desk,141.05,2,PayPal,Houston
+1154,2023-08-26,Home,Chair,113.26,4,Debit Card,San Diego
+1155,2023-11-20,Electronics,Keyboard,149.02,4,Debit Card,Phoenix
+1156,2023-01-30,Electronics,Mouse,719.53,1,Debit Card,Philadelphia
+1157,2023-08-25,Electronics,Monitor,911.42,4,Cash,New York
+1158,2023-03-19,Electronics,Mouse,927.26,5,Cash,New York
+1159,2023-01-21,Clothing,T-Shirt,110.82,2,Cash,Houston
+1160,2023-07-18,Home,Desk,201.03,3,Debit Card,San Antonio
+1161,2023-10-13,Home,Lamp,60.98,1,Debit Card,San Antonio
+1162,2023-12-06,Home,Desk,186.68,5,Debit Card,Chicago
+1163,2023-06-08,Home,Bookshelf,90.61,1,Debit Card,San Antonio
+1164,2023-09-18,Home,Rug,73.92,4,Credit Card,Philadelphia
+1165,2023-04-09,Electronics,Mouse,1424.12,4,PayPal,Houston
+1166,2023-01-20,Electronics,Monitor,1167.77,5,PayPal,Philadelphia
+1167,2023-08-13,Electronics,Monitor,1223.11,2,Cash,New York
+1168,2023-04-30,Clothing,Hat,71.29,4,Debit Card,Houston
+1169,2023-08-14,Electronics,Mouse,1033.54,5,Debit Card,San Diego
+1170,2023-03-12,Clothing,Jeans,167.04,5,Credit Card,Phoenix
+1171,2023-03-05,Home,Chair,364.36,5,Credit Card,Phoenix
+1172,2023-04-24,Home,Desk,420.59,1,Debit Card,San Diego
+1173,2023-02-11,Clothing,Hat,,4,PayPal,Philadelphia
+1174,2023-01-20,Home,Lamp,401.95,2,Cash,Phoenix
+1175,2023-02-10,Home,Bookshelf,240.84,1,Debit Card,New York
+1176,2023-05-28,Home,Rug,278.05,1,Debit Card,Houston
+1177,2023-09-13,Home,Rug,244.84,1,PayPal,New York
+1178,2023-08-02,Electronics,Monitor,561.58,5,Credit Card,Chicago
+1179,2023-10-11,Home,Rug,268.44,5,Cash,
+1180,2023-07-02,Clothing,Jacket,65.66,1,Debit Card,Los Angeles
+1181,2023-03-10,Electronics,Monitor,1116.02,3,Debit Card,New York
+1182,2023-11-20,Electronics,Keyboard,1472.19,4,PayPal,Chicago
+1183,2023-04-13,Clothing,T-Shirt,72.82,1,Debit Card,New York
+1184,2023-05-27,Home,Bookshelf,149.06,2,Credit Card,Philadelphia
+1185,2023-08-14,Electronics,Mouse,683.58,4,Debit Card,San Antonio
+1186,2023-05-17,Clothing,Jacket,186.38,5,Cash,Los Angeles
+1187,2023-02-10,Electronics,Monitor,475.96,1,Debit Card,Philadelphia
+1188,2023-08-17,Clothing,Jeans,144.16,3,Debit Card,New York
+1189,2023-07-06,Home,Chair,65.27,4,Credit Card,Chicago
+1190,2023-11-27,Clothing,T-Shirt,42.72,2,Debit Card,Philadelphia
+1191,2023-07-10,Home,Desk,349.16,3,Credit Card,San Diego
+1192,2023-02-28,Clothing,Jacket,136.92,2,PayPal,New York
+1193,2023-12-27,Home,Chair,153.04,3,PayPal,San Diego
+1194,2023-08-20,Clothing,Jeans,42.07,1,Cash,Chicago
+1195,2023-10-05,Clothing,Jacket,147.72,5,Debit Card,Phoenix
+1196,2023-04-25,Home,Desk,403.04,5,PayPal,Los Angeles
+1197,2023-07-08,Clothing,T-Shirt,84.96,5,PayPal,San Diego
+1198,2023-09-27,Clothing,Sneakers,199.93,4,Cash,San Antonio
+1199,2023-06-26,Clothing,T-Shirt,101.0,5,PayPal,Chicago
+1200,2023-03-20,Home,Chair,420.75,5,PayPal,Phoenix
+1201,2023-05-26,Electronics,Mouse,1423.85,5,Debit Card,Los Angeles
+1202,2023-10-01,Clothing,Jeans,132.5,5,PayPal,Los Angeles
+1203,2023-06-22,Electronics,Monitor,1094.92,5,Credit Card,New York
+1204,2023-08-02,Home,Lamp,336.03,5,Cash,New York
+1205,2023-06-02,Home,Lamp,256.98,4,Credit Card,San Diego
+1206,2023-11-07,Clothing,Sneakers,103.6,3,Debit Card,Chicago
+1207,2023-09-21,Clothing,Sneakers,43.54,3,Debit Card,Los Angeles
+1208,2023-05-29,Clothing,Jeans,45.36,1,Cash,San Antonio
+1209,2023-04-08,Electronics,Mouse,1403.94,3,Cash,Chicago
+1210,2023-09-16,Clothing,Sneakers,24.17,4,PayPal,San Diego
+1211,2023-05-27,Electronics,Mouse,767.6,4,Credit Card,New York
+1212,2023-01-24,Home,Lamp,389.01,3,Credit Card,San Antonio
+1213,2023-08-19,Home,Lamp,64.56,5,Credit Card,Phoenix
+1214,2023-03-15,Clothing,Jacket,120.41,3,Cash,
+1215,2023-08-22,Electronics,Mouse,1215.75,5,PayPal,Chicago
+1216,2023-10-31,Electronics,Keyboard,1486.39,3,Cash,Philadelphia
+1217,2023-08-02,Electronics,Mouse,530.3,1,Credit Card,Phoenix
+1218,2023-10-26,Home,Rug,301.49,1,PayPal,San Diego
+1219,2023-01-17,Clothing,Jeans,,2,PayPal,Los Angeles
+1220,2023-09-14,Electronics,Keyboard,1051.23,4,Credit Card,San Diego
+1221,2023-09-27,Home,Lamp,499.12,4,Debit Card,San Antonio
+1222,2023-11-09,Home,Lamp,286.75,3,PayPal,San Diego
+1223,2023-05-28,Clothing,Jeans,189.47,3,Cash,Houston
+1224,2023-12-13,Home,Lamp,165.26,5,Cash,San Antonio
+1225,2023-06-27,Electronics,Mouse,111.0,1,Debit Card,San Diego
+1226,2023-03-12,Home,Lamp,468.52,3,PayPal,Los Angeles
+1227,2023-02-21,Home,Desk,329.83,1,Debit Card,San Antonio
+1228,2023-07-28,Electronics,Laptop,1448.55,2,Cash,San Diego
+1229,2023-02-15,Clothing,Jacket,71.37,1,Credit Card,Houston
+1230,2023-09-11,Electronics,Laptop,1495.9,4,Debit Card,
+1231,2023-05-26,Home,Rug,80.43,3,Cash,San Diego
+1232,2023-06-19,Home,Bookshelf,158.23,1,Cash,Chicago
+1233,2023-12-12,Electronics,Mouse,1196.61,5,PayPal,Houston
+1234,2023-07-25,Clothing,Sneakers,112.75,1,PayPal,Los Angeles
+1235,2023-08-17,Electronics,Laptop,428.14,2,Debit Card,Phoenix
+1236,2023-02-01,Electronics,Mouse,997.84,2,Cash,Los Angeles
+1237,2023-07-08,Home,Lamp,354.44,3,PayPal,Houston
+1238,2023-08-30,Clothing,Hat,87.25,5,PayPal,Houston
+1239,2023-02-09,Electronics,Monitor,697.78,3,Credit Card,Los Angeles
+1240,2023-06-17,Electronics,Monitor,828.16,2,Credit Card,San Diego
+1241,2023-01-29,Clothing,T-Shirt,181.8,4,PayPal,San Diego
+1242,2023-01-12,Electronics,Monitor,720.45,3,Debit Card,San Antonio
+1243,2023-12-25,Home,Chair,51.29,3,Credit Card,Los Angeles
+1244,2023-03-11,Clothing,T-Shirt,71.68,2,Debit Card,San Antonio
+1245,2023-03-10,Clothing,Sneakers,34.44,5,Credit Card,Philadelphia
+1246,2023-01-02,Home,Desk,372.09,2,Debit Card,New York
+1247,2023-05-07,Clothing,Hat,88.27,2,Debit Card,San Diego
+1248,2023-11-11,Home,Chair,45.14,4,PayPal,New York
+1249,2023-05-06,Electronics,Keyboard,916.79,1,Cash,New York
+1250,2023-04-30,Electronics,Headphones,780.65,3,Debit Card,Philadelphia
+1251,2023-05-21,Home,Rug,133.89,3,PayPal,New York
+1252,2023-09-26,Clothing,T-Shirt,195.01,4,Cash,Philadelphia
+1253,2023-06-03,Electronics,Monitor,736.6,2,Cash,Chicago
+1254,2023-05-05,Clothing,Hat,115.4,4,PayPal,Phoenix
+1255,2023-01-27,Clothing,Jacket,36.64,2,Cash,Phoenix
+1256,2023-12-10,Electronics,Headphones,1216.74,5,Cash,Houston
+1257,2023-03-02,Clothing,T-Shirt,58.13,2,PayPal,San Diego
+1258,2023-07-14,Clothing,Jeans,119.37,3,Debit Card,San Diego
+1259,2023-06-13,Clothing,Sneakers,37.75,4,Debit Card,
+1260,2023-10-27,Electronics,Headphones,73.52,5,Debit Card,San Antonio
+1261,2023-10-09,Clothing,Hat,170.01,4,Debit Card,Philadelphia
+1262,2023-03-28,Home,Bookshelf,246.59,3,Cash,Chicago
+1263,2023-12-09,Home,Chair,276.25,1,Credit Card,New York
+1264,2023-04-22,Electronics,Laptop,1075.4,1,Debit Card,San Diego
+1265,2023-01-04,Home,Bookshelf,,1,Credit Card,San Antonio
+1266,2023-04-02,Home,Lamp,38.06,4,Credit Card,Los Angeles
+1267,2023-05-17,Home,Rug,148.64,3,Credit Card,San Antonio
+1268,2023-06-03,Home,Desk,495.41,2,Credit Card,Los Angeles
+1269,2023-12-26,Home,Bookshelf,56.37,1,Credit Card,Chicago
+1270,2023-09-28,Clothing,Hat,195.92,1,PayPal,New York
+1271,2023-12-17,Home,Bookshelf,157.41,1,Credit Card,Phoenix
+1272,2023-02-09,Electronics,Headphones,901.2,4,PayPal,Phoenix
+1273,2023-12-19,Clothing,Hat,79.71,2,Debit Card,Los Angeles
+1274,2023-11-01,Electronics,Mouse,,5,Debit Card,San Antonio
+1275,2023-07-12,Clothing,Sneakers,61.06,5,PayPal,San Antonio
+1276,2024-01-01,Electronics,Monitor,478.3,2,Credit Card,Los Angeles
+1277,2023-07-04,Home,Desk,,3,Credit Card,Los Angeles
+1278,2023-04-06,Clothing,Jacket,38.4,1,Cash,San Antonio
+1279,2023-02-17,Electronics,Laptop,,5,Cash,Philadelphia
+1280,2023-10-20,Electronics,Monitor,1362.55,2,Cash,Chicago
+1281,2023-08-11,Clothing,Sneakers,46.27,2,Cash,Phoenix
+1282,2023-11-01,Clothing,Jacket,189.96,4,Cash,Houston
+1283,2023-06-18,Clothing,Jacket,171.49,4,Debit Card,San Diego
+1284,2023-11-05,Home,Rug,93.98,3,Cash,Houston
+1285,2023-10-22,Clothing,Jacket,152.28,4,Debit Card,Houston
+1286,2023-04-13,Clothing,Jacket,40.5,5,Credit Card,Chicago
+1287,2023-12-21,Home,Desk,236.07,3,Cash,Los Angeles
+1288,2023-08-05,Clothing,Jeans,65.48,2,Credit Card,San Antonio
+1289,2023-10-06,Home,Bookshelf,281.15,4,Debit Card,New York
+1290,2023-12-03,Home,Chair,81.4,2,PayPal,
+1291,2023-08-09,Home,Bookshelf,484.4,3,Credit Card,Los Angeles
+1292,2023-04-24,Home,Rug,292.26,5,Debit Card,San Diego
+1293,2023-09-05,Home,Rug,100.85,1,Debit Card,Los Angeles
+1294,2023-08-22,Electronics,Headphones,555.08,3,Cash,Houston
+1295,2023-01-23,Home,Bookshelf,179.89,3,Credit Card,Los Angeles
+1296,2023-09-22,Home,Desk,467.06,2,PayPal,Chicago
+1297,2023-04-06,Clothing,Jeans,,2,Cash,San Antonio
+1298,2023-01-03,Electronics,Keyboard,908.69,4,PayPal,Houston
+1299,2023-04-06,Electronics,Monitor,197.54,5,Debit Card,Philadelphia
+1300,2023-11-02,Home,Bookshelf,278.03,3,Cash,San Antonio
+1301,2023-11-11,Clothing,Hat,51.05,3,PayPal,Los Angeles
+1302,2023-09-19,Electronics,Headphones,591.29,2,Cash,San Antonio
+1303,2023-12-22,Clothing,Jeans,107.6,5,PayPal,Chicago
+1304,2023-01-05,Clothing,Sneakers,131.49,3,PayPal,San Diego
+1305,2023-12-17,Home,Rug,336.94,4,Cash,San Diego
+1306,2023-05-30,Electronics,Laptop,869.83,2,Debit Card,New York
+1307,2023-10-09,Clothing,Hat,153.65,4,Credit Card,Los Angeles
+1308,2023-08-14,Clothing,Hat,168.07,1,Cash,Houston
+1309,2023-08-19,Electronics,Mouse,1318.47,1,Debit Card,Phoenix
+1310,2023-12-19,Electronics,Headphones,354.32,5,Cash,Philadelphia
+1311,2023-06-29,Electronics,Headphones,1217.89,5,PayPal,Phoenix
+1312,2023-12-14,Clothing,Hat,68.12,5,PayPal,Los Angeles
+1313,2023-12-26,Electronics,Mouse,1307.22,2,PayPal,Chicago
+1314,2023-11-20,Electronics,Keyboard,759.72,5,Cash,Phoenix
+1315,2023-12-22,Electronics,Keyboard,797.64,3,Cash,Philadelphia
+1316,2023-11-22,Electronics,Laptop,1109.85,4,Credit Card,Philadelphia
+1317,2023-05-26,Clothing,Jeans,109.05,3,PayPal,Philadelphia
+1318,2023-01-09,Clothing,T-Shirt,28.27,4,PayPal,
+1319,2023-11-29,Clothing,Jeans,199.22,2,PayPal,Phoenix
+1320,2023-12-07,Electronics,Mouse,413.06,3,Credit Card,Chicago
+1321,2023-12-27,Home,Desk,231.74,1,Credit Card,Los Angeles
+1322,2023-01-05,Home,Desk,274.14,4,Debit Card,New York
+1323,2023-07-16,Clothing,Jeans,105.99,2,Credit Card,Los Angeles
+1324,2023-11-25,Clothing,Jeans,88.89,2,Credit Card,
+1325,2023-11-18,Home,Desk,236.85,2,Cash,Chicago
+1326,2023-03-05,Electronics,Laptop,1350.06,2,Debit Card,San Antonio
+1327,2023-05-08,Electronics,Headphones,451.6,1,Credit Card,Phoenix
+1328,2023-04-07,Clothing,Jeans,113.19,5,Debit Card,San Antonio
+1329,2023-09-13,Electronics,Keyboard,609.53,2,Credit Card,Los Angeles
+1330,2023-08-04,Electronics,Keyboard,1298.18,5,PayPal,Philadelphia
+1331,2023-05-15,Electronics,Laptop,901.68,1,Credit Card,Houston
+1332,2023-08-01,Clothing,Hat,71.57,5,Cash,San Antonio
+1333,2023-02-10,Home,Desk,160.41,3,PayPal,Houston
+1334,2023-05-03,Home,Chair,175.78,4,PayPal,New York
+1335,2023-12-08,Clothing,Hat,,3,Credit Card,Chicago
+1336,2023-09-25,Electronics,Headphones,769.8,3,PayPal,Phoenix
+1337,2023-06-21,Clothing,T-Shirt,158.86,1,Debit Card,San Antonio
+1338,2023-07-04,Home,Chair,263.19,5,Cash,New York
+1339,2023-12-12,Electronics,Mouse,1171.33,5,PayPal,
+1340,2023-07-16,Electronics,Headphones,116.67,3,PayPal,Chicago
+1341,2023-08-02,Home,Bookshelf,135.52,2,Debit Card,Philadelphia
+1342,2023-04-02,Electronics,Monitor,1026.32,1,Credit Card,Houston
+1343,2023-06-17,Clothing,Jacket,,3,Cash,Los Angeles
+1344,2023-08-26,Home,Lamp,377.6,2,Cash,Philadelphia
+1345,2023-03-19,Home,Rug,,2,Cash,New York
+1346,2023-12-03,Home,Chair,476.97,1,Debit Card,San Antonio
+1347,2023-03-14,Electronics,Keyboard,,1,Credit Card,Phoenix
+1348,2023-08-23,Home,Bookshelf,359.4,3,Credit Card,Los Angeles
+1349,2023-08-11,Clothing,T-Shirt,126.54,1,PayPal,Chicago
+1350,2023-04-30,Clothing,Jacket,77.25,3,PayPal,Los Angeles
+1351,2023-08-27,Electronics,Headphones,203.2,4,Cash,Philadelphia
+1352,2023-03-03,Electronics,Keyboard,497.05,3,PayPal,Los Angeles
+1353,2023-03-17,Home,Rug,48.96,3,PayPal,Los Angeles
+1354,2023-01-16,Electronics,Mouse,427.24,2,Cash,San Antonio
+1355,2023-03-04,Electronics,Keyboard,197.77,2,Credit Card,New York
+1356,2023-12-18,Electronics,Headphones,1244.33,3,Debit Card,Los Angeles
+1357,2023-03-07,Electronics,Headphones,1358.62,4,Debit Card,Los Angeles
+1358,2023-07-22,Electronics,Headphones,1389.99,4,Credit Card,San Diego
+1359,2023-05-24,Clothing,Jeans,,3,PayPal,San Diego
+1360,2023-09-03,Electronics,Mouse,773.39,5,Credit Card,New York
+1361,2023-01-10,Electronics,Monitor,411.26,5,Debit Card,San Antonio
+1362,2023-05-19,Clothing,Hat,110.43,4,Credit Card,Chicago
+1363,2023-09-29,Clothing,T-Shirt,165.56,4,PayPal,Philadelphia
+1364,2023-04-23,Home,Desk,155.27,1,Debit Card,San Antonio
+1365,2023-12-24,Electronics,Headphones,393.0,3,Credit Card,Philadelphia
+1366,2023-09-10,Home,Rug,96.79,2,PayPal,Phoenix
+1367,2023-09-02,Electronics,Monitor,367.27,5,Debit Card,New York
+1368,2023-01-31,Electronics,Mouse,1089.56,3,PayPal,New York
+1369,2023-07-11,Electronics,Monitor,1297.97,1,Credit Card,San Antonio
+1370,2023-11-29,Electronics,Keyboard,1198.17,4,PayPal,Philadelphia
+1371,2023-03-31,Home,Lamp,134.92,5,Debit Card,San Antonio
+1372,2023-07-20,Electronics,Laptop,1425.74,5,PayPal,New York
+1373,2023-09-12,Home,Desk,330.63,1,Debit Card,Chicago
+1374,2023-12-29,Clothing,Jeans,,1,Cash,Philadelphia
+1375,2023-01-01,Home,Chair,194.73,1,Cash,New York
+1376,2023-06-29,Electronics,Keyboard,764.97,4,Credit Card,San Antonio
+1377,2023-01-18,Home,Desk,106.45,1,Credit Card,Phoenix
+1378,2023-03-24,Electronics,Mouse,296.65,4,Credit Card,Los Angeles
+1379,2023-11-07,Clothing,T-Shirt,97.64,2,PayPal,San Antonio
+1380,2023-05-16,Electronics,Keyboard,1060.94,5,Debit Card,
+1381,2023-01-28,Home,Rug,424.73,2,Credit Card,Philadelphia
+1382,2023-01-14,Home,Rug,255.75,1,PayPal,Houston
+1383,2023-08-30,Clothing,T-Shirt,75.5,4,Debit Card,San Diego
+1384,2023-04-06,Electronics,Mouse,1333.96,3,Credit Card,San Diego
+1385,2023-12-23,Electronics,Mouse,868.16,2,Credit Card,Los Angeles
+1386,2023-07-18,Clothing,Hat,60.95,1,Cash,San Antonio
+1387,2023-09-15,Clothing,T-Shirt,91.06,1,Credit Card,Chicago
+1388,2023-01-22,Electronics,Headphones,1222.27,2,Credit Card,San Antonio
+1389,2023-06-13,Home,Desk,422.03,3,Credit Card,Los Angeles
+1390,2023-12-25,Clothing,Jacket,113.54,1,Credit Card,San Antonio
+1391,2023-02-24,Home,Rug,386.44,1,Debit Card,Los Angeles
+1392,2023-10-20,Clothing,Jacket,88.95,4,Credit Card,San Diego
+1393,2023-01-20,Home,Rug,349.98,4,Debit Card,
+1394,2023-06-22,Clothing,Jacket,181.47,1,Debit Card,Phoenix
+1395,2023-03-10,Home,Chair,487.07,2,Cash,Phoenix
+1396,2023-04-07,Home,Bookshelf,314.34,1,PayPal,San Diego
+1397,2023-09-21,Clothing,Hat,176.09,1,Credit Card,Chicago
+1398,2023-03-30,Electronics,Monitor,1325.03,1,PayPal,Houston
+1399,2023-05-21,Clothing,T-Shirt,185.25,2,Cash,Philadelphia
+1400,2023-11-01,Electronics,Laptop,400.81,4,PayPal,San Diego
+1401,2023-12-19,Home,Lamp,,3,Debit Card,
+1402,2023-12-13,Home,Desk,432.84,2,Debit Card,Houston
+1403,2023-11-28,Home,Chair,252.83,2,Credit Card,Chicago
+1404,2023-06-28,Clothing,Jacket,96.29,4,Debit Card,San Diego
+1405,2023-01-04,Home,Rug,216.66,1,Debit Card,Philadelphia
+1406,2023-05-22,Electronics,Mouse,1483.12,3,Debit Card,Phoenix
+1407,2023-07-26,Electronics,Laptop,1217.87,5,PayPal,Philadelphia
+1408,2023-07-18,Clothing,Jacket,183.24,4,PayPal,New York
+1409,2023-12-10,Home,Rug,330.01,4,Debit Card,Philadelphia
+1410,2023-03-07,Home,Desk,168.08,4,PayPal,Phoenix
+1411,2023-06-07,Home,Chair,134.46,2,Debit Card,San Antonio
+1412,2023-10-25,Clothing,T-Shirt,104.7,5,Cash,Los Angeles
+1413,2023-01-28,Home,Bookshelf,279.02,4,PayPal,Chicago
+1414,2023-02-11,Home,Bookshelf,97.32,2,Debit Card,San Diego
+1415,2023-04-18,Home,Chair,32.22,3,PayPal,Chicago
+1416,2023-07-26,Electronics,Headphones,941.0,4,Cash,
+1417,2023-09-29,Electronics,Mouse,1427.6,3,Credit Card,Houston
+1418,2023-06-09,Electronics,Headphones,1055.61,3,Credit Card,Chicago
+1419,2023-05-29,Electronics,Laptop,1244.57,3,Debit Card,San Diego
+1420,2023-07-03,Electronics,Mouse,1494.4,4,PayPal,Houston
+1421,2023-04-19,Clothing,T-Shirt,61.12,2,PayPal,New York
+1422,2023-10-01,Electronics,Keyboard,1320.99,3,Credit Card,New York
+1423,2023-08-16,Electronics,Laptop,1050.14,4,Credit Card,San Antonio
+1424,2023-06-04,Electronics,Headphones,1058.03,1,Credit Card,San Antonio
+1425,2023-09-19,Home,Desk,226.85,1,Debit Card,Los Angeles
+1426,2023-09-25,Electronics,Monitor,339.64,3,Debit Card,Houston
+1427,2023-12-19,Electronics,Monitor,769.71,2,Debit Card,
+1428,2023-03-18,Electronics,Laptop,1261.09,4,Credit Card,Los Angeles
+1429,2023-05-16,Clothing,Jeans,102.22,3,Credit Card,San Diego
+1430,2023-08-07,Electronics,Mouse,572.31,3,Credit Card,Los Angeles
+1431,2023-06-18,Electronics,Headphones,1011.86,2,Cash,Philadelphia
+1432,2023-04-04,Home,Chair,205.13,3,Cash,Los Angeles
+1433,2023-02-27,Clothing,Sneakers,163.98,2,Credit Card,Chicago
+1434,2023-10-19,Electronics,Keyboard,1371.28,4,PayPal,San Diego
+1435,2023-09-05,Home,Chair,435.41,2,Credit Card,San Diego
+1436,2023-12-27,Electronics,Mouse,999.71,1,Debit Card,Houston
+1437,2023-09-04,Home,Chair,233.44,2,Cash,Philadelphia
+1438,2023-09-16,Home,Chair,35.47,2,Cash,San Diego
+1439,2023-01-26,Clothing,Jacket,63.36,3,Cash,Houston
+1440,2023-02-15,Clothing,Sneakers,164.23,4,Cash,San Diego
+1441,2023-01-19,Home,Chair,78.24,4,Credit Card,New York
+1442,2023-04-16,Home,Lamp,448.35,5,Debit Card,San Diego
+1443,2023-11-04,Electronics,Keyboard,531.36,5,Debit Card,San Diego
+1444,2023-11-21,Home,Desk,31.03,3,Debit Card,
+1445,2023-02-24,Electronics,Keyboard,253.65,4,PayPal,Phoenix
+1446,2023-06-23,Clothing,Jeans,,2,Cash,Los Angeles
+1447,2023-08-23,Home,Rug,,4,Cash,Chicago
+1448,2023-09-18,Home,Bookshelf,424.24,4,PayPal,Chicago
+1449,2023-09-16,Clothing,Hat,129.11,3,Cash,San Antonio
+1450,2023-05-31,Electronics,Mouse,626.91,3,PayPal,San Diego
+1451,2023-06-10,Home,Rug,170.49,5,PayPal,Houston
+1452,2023-12-30,Home,Lamp,462.96,2,Debit Card,Chicago
+1453,2023-12-12,Home,Bookshelf,303.92,4,Cash,Phoenix
+1454,2023-04-13,Electronics,Keyboard,260.72,1,PayPal,Phoenix
+1455,2023-04-15,Electronics,Laptop,1051.36,3,Debit Card,New York
+1456,2023-07-19,Home,Rug,436.48,5,Debit Card,
+1457,2023-10-10,Clothing,Sneakers,94.98,3,Credit Card,New York
+1458,2023-10-29,Clothing,Jeans,184.07,3,PayPal,Houston
+1459,2023-09-21,Home,Chair,,2,Cash,Los Angeles
+1460,2023-01-03,Clothing,Jeans,48.97,3,Cash,Philadelphia
+1461,2023-12-05,Electronics,Mouse,915.48,5,Cash,Phoenix
+1462,2023-09-24,Electronics,Mouse,811.82,2,PayPal,Los Angeles
+1463,2023-12-06,Electronics,Mouse,370.74,2,Debit Card,Philadelphia
+1464,2023-11-29,Home,Rug,253.18,5,Credit Card,New York
+1465,2023-01-21,Home,Rug,461.75,2,Cash,Philadelphia
+1466,2023-01-13,Clothing,Jacket,117.24,3,Cash,Philadelphia
+1467,2023-02-19,Home,Desk,180.55,1,Credit Card,Chicago
+1468,2023-02-23,Home,Desk,436.53,4,Cash,Houston
+1469,2023-01-20,Home,Desk,41.16,3,Credit Card,Los Angeles
+1470,2023-05-13,Home,Chair,300.23,2,Cash,San Antonio
+1471,2023-10-01,Clothing,T-Shirt,90.11,1,Credit Card,New York
+1472,2023-02-24,Home,Chair,198.12,5,Debit Card,Phoenix
+1473,2023-08-31,Clothing,Sneakers,91.12,1,PayPal,Chicago
+1474,2023-06-02,Home,Lamp,481.26,2,Credit Card,Philadelphia
+1475,2023-07-21,Electronics,Laptop,57.29,5,Debit Card,Los Angeles
+1476,2023-03-14,Home,Lamp,129.52,5,PayPal,Chicago
+1477,2023-01-28,Electronics,Laptop,312.97,5,Credit Card,San Diego
+1478,2023-06-19,Electronics,Headphones,1102.1,4,PayPal,Philadelphia
+1479,2023-06-12,Clothing,Hat,32.57,2,Cash,San Diego
+1480,2023-07-06,Home,Rug,101.63,5,Cash,Philadelphia
+1481,2023-03-10,Electronics,Keyboard,451.19,3,Cash,Philadelphia
+1482,2023-11-27,Clothing,Sneakers,119.3,2,Debit Card,Los Angeles
+1483,2023-02-08,Home,Desk,153.72,1,Credit Card,New York
+1484,2023-05-14,Home,Desk,455.96,5,PayPal,San Diego
+1485,2023-09-19,Home,Lamp,92.92,5,Cash,
+1486,2023-03-13,Electronics,Monitor,1042.03,5,PayPal,San Diego
+1487,2023-07-03,Home,Desk,375.88,4,PayPal,New York
+1488,2023-09-23,Clothing,Jacket,62.12,2,Cash,Philadelphia
+1489,2023-02-22,Electronics,Laptop,1471.86,3,Debit Card,Phoenix
+1490,2023-09-22,Clothing,Sneakers,85.75,1,Cash,Phoenix
+1491,2023-09-07,Clothing,Jacket,167.1,3,Credit Card,San Diego
+1492,2023-04-19,Electronics,Headphones,161.78,3,PayPal,Chicago
+1493,2023-02-28,Electronics,Headphones,651.19,3,Cash,San Diego
+1494,2023-03-07,Home,Bookshelf,40.55,1,PayPal,
+1495,2023-04-03,Home,Desk,56.28,3,Credit Card,San Antonio
+1496,2023-08-30,Clothing,T-Shirt,58.99,5,PayPal,San Diego
+1497,2023-11-16,Electronics,Monitor,1239.66,2,PayPal,Phoenix
+1498,2023-07-13,Clothing,Hat,126.31,2,PayPal,San Antonio
+1499,2023-02-19,Home,Bookshelf,418.46,5,Cash,Chicago
+1500,2023-09-04,Home,Rug,383.62,1,Credit Card,Chicago
