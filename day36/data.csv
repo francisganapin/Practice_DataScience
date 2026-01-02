@@ -1,0 +1,31 @@
+transaction_id,property_name,unit_type,floor_area_sqm,unit_price,sale_date,agent_name,payment_terms,location,status,commission_rate,buyer_type
+TXN001,Lumiere Residences,Studio,24.5,2450000,2025-01-15,Maria Santos,Bank Financing,Pasig City,Completed,0.03,First-Time Buyer
+TXN002,Prisma Residences,1BR,36.0,3600000,2025-01-18,Juan Dela Cruz,In-House Financing,Pasig City,Completed,0.025,Investor
+TXN003,Brixton Place,2BR,56.5,5650000,2025-01-22,Anna Reyes,Spot Cash,Pasig City,Completed,0.05,Upgrader
+TXN004,Alder Residences,Studio,22.0,2200000,2025-02-05,Maria Santos,Bank Financing,Taguig City,Completed,0.03,First-Time Buyer
+TXN005,Fairlane Residences,3BR,85.0,8500000,2025-02-10,Carlos Garcia,In-House Financing,Pasig City,Pending,0.025,Investor
+TXN006,Lumiere Residences,1BR,38.0,3800000,2025-02-15,Juan Dela Cruz,Bank Financing,Pasig City,Completed,0.03,First-Time Buyer
+TXN007,Kai Garden Residences,2BR,52.0,5720000,2025-02-20,Anna Reyes,Spot Cash,Mandaluyong City,Completed,0.05,Upgrader
+TXN008,The Birchwood,Studio,25.0,2750000,2025-03-01,Pedro Ramos,Bank Financing,Taguig City,Cancelled,0.03,First-Time Buyer
+TXN009,Prisma Residences,2BR,58.0,5800000,2025-03-05,Maria Santos,In-House Financing,Pasig City,Completed,0.025,Investor
+TXN010,Cameron Residences,1BR,40.0,4000000,2025-03-10,Carlos Garcia,Bank Financing,Quezon City,Completed,0.03,First-Time Buyer
+TXN011,Allegra Garden Place,3BR,90.0,9900000,2025-03-15,Anna Reyes,Spot Cash,Pasig City,Completed,0.05,Investor
+TXN012,Lumiere Residences,2BR,55.0,5500000,2025-03-20,Juan Dela Cruz,In-House Financing,Pasig City,Pending,0.025,Upgrader
+TXN013,Alder Residences,1BR,35.0,3500000,2025-04-01,Pedro Ramos,Bank Financing,Taguig City,Completed,0.03,First-Time Buyer
+TXN014,Fairlane Residences,Studio,26.0,2600000,2025-04-08,Maria Santos,Spot Cash,Pasig City,Completed,0.05,Investor
+TXN015,Brixton Place,1BR,37.5,3750000,2025-04-12,Carlos Garcia,Bank Financing,Pasig City,Cancelled,0.03,First-Time Buyer
+TXN016,Kai Garden Residences,3BR,88.0,9680000,2025-04-18,Anna Reyes,In-House Financing,Mandaluyong City,Completed,0.025,Investor
+TXN017,The Birchwood,2BR,54.0,5940000,2025-04-25,Juan Dela Cruz,Bank Financing,Taguig City,Completed,0.03,Upgrader
+TXN018,Cameron Residences,Studio,23.0,2300000,2025-05-02,Pedro Ramos,Spot Cash,Quezon City,Completed,0.05,First-Time Buyer
+TXN019,Prisma Residences,3BR,92.0,9200000,2025-05-10,Maria Santos,Bank Financing,Pasig City,Pending,0.03,Investor
+TXN020,Allegra Garden Place,1BR,39.0,4290000,2025-05-15,Carlos Garcia,In-House Financing,Pasig City,Completed,0.025,Upgrader
+TXN021,Lumiere Residences,Studio,24.0,2400000,2025-05-22,Anna Reyes,Bank Financing,Pasig City,Completed,0.03,First-Time Buyer
+TXN022,Alder Residences,2BR,57.0,5700000,2025-06-01,Juan Dela Cruz,Spot Cash,Taguig City,Completed,0.05,Investor
+TXN023,Fairlane Residences,1BR,36.5,3650000,2025-06-08,Pedro Ramos,Bank Financing,Pasig City,Cancelled,0.03,First-Time Buyer
+TXN024,Brixton Place,3BR,86.0,8600000,2025-06-15,Maria Santos,In-House Financing,Pasig City,Completed,0.025,Upgrader
+TXN025,Kai Garden Residences,Studio,25.5,2805000,2025-06-22,Carlos Garcia,Bank Financing,Mandaluyong City,Completed,0.03,First-Time Buyer
+TXN026,The Birchwood,1BR,38.5,4235000,2025-07-01,Anna Reyes,Spot Cash,Taguig City,Completed,0.05,Investor
+TXN027,Cameron Residences,2BR,53.0,5300000,2025-07-10,Juan Dela Cruz,Bank Financing,Quezon City,Pending,0.03,Upgrader
+TXN028,Prisma Residences,Studio,24.5,2450000,2025-07-18,Pedro Ramos,In-House Financing,Pasig City,Completed,0.025,First-Time Buyer
+TXN029,Allegra Garden Place,2BR,56.0,6160000,2025-07-25,Maria Santos,Bank Financing,Pasig City,Completed,0.03,Investor
+TXN030,Lumiere Residences,3BR,89.0,8900000,2025-08-02,Carlos Garcia,Spot Cash,Pasig City,Completed,0.05,Upgrader
