@@ -1,0 +1,51 @@
+property_id,address,city,property_type,bedrooms,bathrooms,sqft,lot_size,year_built,list_price,sale_price,days_on_market,listing_date,sale_date,agent_name,agent_commission,status,has_pool,has_garage,neighborhood
+P001,123 Main St,Manila,Condo,2,1,850,0,2018,3500000,3400000,45,2025-01-15,2025-03-01,Maria Santos,0.03,Sold,No,Yes,BGC
+P002,456 Oak Ave,Makati,House,4,3,2200,350,2010,12500000,12000000,30,2025-02-01,2025-03-03,Juan Reyes,0.025,Sold,Yes,Yes,Legaspi Village
+P003,789 Palm Dr,Quezon City,Townhouse,3,2,1500,150,2015,6500000,6500000,60,2025-01-10,2025-03-11,Ana Cruz,0.03,Sold,No,Yes,Eastwood
+P004,321 Beach Rd,Pasig,Condo,1,1,550,0,2020,2200000,2100000,90,2024-12-01,2025-03-01,Maria Santos,0.03,Sold,No,No,Ortigas
+P005,555 Hill St,Taguig,House,5,4,3500,500,2005,25000000,24000000,120,2024-11-01,2025-03-01,Pedro Lim,0.02,Sold,Yes,Yes,Forbes Park
+P006,777 River Ln,Makati,Condo,3,2,1200,0,2019,5800000,5600000,25,2025-02-15,2025-03-12,Juan Reyes,0.025,Sold,No,Yes,Rockwell
+P007,888 Garden Way,Manila,Townhouse,2,2,1100,100,2017,4200000,4000000,55,2025-01-20,2025-03-16,Ana Cruz,0.03,Sold,No,Yes,Ermita
+P008,999 Sunset Blvd,Quezon City,House,4,3,2800,400,2008,15000000,14500000,40,2025-02-05,2025-03-17,Pedro Lim,0.02,Sold,No,Yes,New Manila
+P009,111 Lake View,Pasig,Condo,2,2,950,0,2021,4100000,4100000,15,2025-03-01,2025-03-16,Maria Santos,0.03,Sold,No,Yes,Capitol Commons
+P010,222 Forest Rd,Taguig,House,6,5,4200,600,2000,35000000,33000000,180,2024-09-15,2025-03-14,Pedro Lim,0.02,Sold,Yes,Yes,McKinley Hill
+P011,333 Central Ave,Makati,Condo,1,1,480,0,2022,1800000,,20,2025-03-01,,Juan Reyes,0.025,Active,No,No,Salcedo
+P012,444 North St,Manila,Townhouse,3,2,1400,120,2016,5500000,,35,2025-02-10,,Ana Cruz,0.03,Active,No,Yes,Binondo
+P013,666 South Blvd,Quezon City,House,4,2,2100,300,2012,9800000,,45,2025-02-01,,Maria Santos,0.03,Active,No,Yes,Katipunan
+P014,777 East Rd,Pasig,Condo,2,1,780,0,2019,3200000,,10,2025-03-05,,Juan Reyes,0.025,Active,No,Yes,Kapitolyo
+P015,888 West Ave,Taguig,House,3,2,1800,250,2014,8500000,,60,2025-01-15,,Pedro Lim,0.02,Active,Yes,Yes,BGC
+P016,100 Metro St,Manila,Condo,1,1,520,0,2020,2000000,1900000,50,2025-01-25,2025-03-16,Ana Cruz,0.03,Sold,No,No,Malate
+P017,200 Urban Pl,Makati,Townhouse,2,2,1050,80,2018,4500000,4300000,35,2025-02-10,2025-03-17,Maria Santos,0.03,Sold,No,Yes,Poblacion
+P018,300 City Sq,Quezon City,House,5,3,2600,380,2007,14200000,13800000,75,2024-12-15,2025-03-01,Pedro Lim,0.02,Sold,No,Yes,Diliman
+P019,400 Tower Rd,Pasig,Condo,3,2,1150,0,2021,5200000,5100000,20,2025-02-20,2025-03-12,Juan Reyes,0.025,Sold,No,Yes,Ortigas Center
+P020,500 Plaza Ave,Taguig,Condo,2,1,720,0,2022,3000000,2900000,28,2025-02-18,2025-03-18,Maria Santos,0.03,Sold,No,Yes,Uptown
+P021,600 Bayview Dr,Manila,House,4,3,2400,320,2009,11000000,,55,2025-01-20,,Ana Cruz,0.03,Active,Yes,Yes,Paco
+P022,700 Skyline St,Makati,Condo,1,1,450,0,2023,1650000,,8,2025-03-10,,Juan Reyes,0.025,Active,No,No,Bel-Air
+P023,800 Horizon Ln,Quezon City,Townhouse,3,2,1350,130,2016,5800000,5700000,42,2025-02-01,2025-03-15,Maria Santos,0.03,Sold,No,Yes,Timog
+P024,900 Summit Rd,Pasig,House,5,4,3100,450,2004,18500000,,90,2024-12-10,,Pedro Lim,0.02,Active,Yes,Yes,Valle Verde
+P025,1000 Peak Ave,Taguig,Condo,2,2,980,0,2020,4400000,4250000,32,2025-02-12,2025-03-16,Ana Cruz,0.03,Sold,No,Yes,BGC
+P026,1100 Valley Rd,Manila,Townhouse,2,1,900,90,2017,3800000,,48,2025-01-28,,Maria Santos,0.03,Active,No,Yes,Sampaloc
+P027,1200 Ridge St,Makati,House,6,4,3800,520,2002,28000000,27000000,150,2024-10-10,2025-03-09,Pedro Lim,0.02,Sold,Yes,Yes,San Lorenzo
+P028,1300 Glen Ave,Quezon City,Condo,1,1,500,0,2021,1950000,1880000,38,2025-02-05,2025-03-15,Juan Reyes,0.025,Sold,No,No,Cubao
+P029,1400 Brook Ln,Pasig,Townhouse,3,2,1280,110,2015,5100000,,65,2025-01-10,,Ana Cruz,0.03,Active,No,Yes,Rosario
+P030,1500 Stream Dr,Taguig,House,4,3,2300,340,2011,13500000,13000000,85,2024-12-20,2025-03-16,Pedro Lim,0.02,Sold,No,Yes,Acacia Estates
+P031,1600 Falls Rd,Manila,Condo,2,1,820,0,2019,3350000,,22,2025-02-25,,Maria Santos,0.03,Active,No,Yes,Quiapo
+P032,1700 Springs St,Makati,Condo,3,2,1180,0,2020,5500000,5350000,18,2025-02-28,2025-03-18,Juan Reyes,0.025,Sold,No,Yes,Legazpi
+P033,1800 Rapids Ave,Quezon City,House,4,2,2000,280,2013,9200000,,70,2024-12-30,,Ana Cruz,0.03,Active,Yes,Yes,San Juan
+P034,1900 Delta Ln,Pasig,Townhouse,2,2,1020,95,2018,4100000,3950000,45,2025-01-30,2025-03-16,Maria Santos,0.03,Sold,No,Yes,Ugong
+P035,2000 Echo Dr,Taguig,Condo,1,1,480,0,2022,1750000,,12,2025-03-06,,Juan Reyes,0.025,Active,No,No,Signal Village
+P036,2100 Inlet Rd,Manila,House,5,3,2700,390,2006,16000000,15500000,95,2024-11-20,2025-02-23,Pedro Lim,0.02,Sold,No,Yes,San Miguel
+P037,2200 Cove St,Makati,Townhouse,3,2,1450,140,2014,6200000,,58,2025-01-18,,Ana Cruz,0.03,Active,No,Yes,Urdaneta
+P038,2300 Harbor Ave,Quezon City,Condo,2,1,750,0,2021,3100000,3000000,30,2025-02-15,2025-03-17,Maria Santos,0.03,Sold,No,Yes,Fairview
+P039,2400 Dock Ln,Pasig,House,4,3,2450,360,2010,12800000,,42,2025-02-03,,Pedro Lim,0.02,Active,Yes,Yes,San Antonio
+P040,2500 Marina Dr,Taguig,Condo,3,2,1100,0,2019,5000000,4850000,36,2025-02-08,2025-03-16,Juan Reyes,0.025,Sold,No,Yes,Market Market
+P041,2600 Pier Rd,Manila,Townhouse,2,1,880,85,2017,3600000,3500000,52,2025-01-22,2025-03-15,Ana Cruz,0.03,Sold,No,Yes,Tondo
+P042,2700 Anchor St,Makati,House,5,4,3200,480,2003,22000000,,110,2024-11-25,,Pedro Lim,0.02,Active,Yes,Yes,Dasmarinas
+P043,2800 Sail Ave,Quezon City,Condo,1,1,520,0,2022,2100000,2050000,25,2025-02-20,2025-03-17,Juan Reyes,0.025,Sold,No,No,Commonwealth
+P044,2900 Boat Ln,Pasig,Townhouse,3,2,1320,125,2015,5400000,,40,2025-02-05,,Maria Santos,0.03,Active,No,Yes,Mandaluyong Border
+P045,3000 Wave Dr,Taguig,House,6,5,4000,550,2001,32000000,30500000,165,2024-09-28,2025-03-12,Pedro Lim,0.02,Sold,Yes,Yes,Bonifacio High Street
+P046,3100 Tide Rd,Manila,Condo,2,2,920,0,2020,4000000,,28,2025-02-18,,Ana Cruz,0.03,Active,No,Yes,Intramuros
+P047,3200 Shore St,Makati,Condo,1,1,460,0,2023,1700000,1650000,14,2025-03-02,2025-03-16,Juan Reyes,0.025,Sold,No,No,Bangkal
+P048,3300 Beach Ave,Quezon City,Townhouse,2,2,1080,100,2018,4300000,,33,2025-02-12,,Maria Santos,0.03,Active,No,Yes,Teachers Village
+P049,3400 Sand Ln,Pasig,House,4,3,2550,380,2009,14000000,13500000,80,2024-12-25,2025-03-15,Pedro Lim,0.02,Sold,No,Yes,Green Meadows
+P050,3500 Surf Dr,Taguig,Condo,3,2,1150,0,2021,5300000,,18,2025-02-28,,Juan Reyes,0.025,Active,No,Yes,Veritown Fort
