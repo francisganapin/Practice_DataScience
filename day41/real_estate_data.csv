@@ -1,0 +1,41 @@
+property_id,property_type,location,bedrooms,bathrooms,area_sqft,listing_price,sold_price,days_on_market,agent_name,sale_date,property_status,year_built,parking_spaces
+P001,Single Family,Downtown,4,3,2200,450000,435000,45,Anna Rodriguez,2025-01-15,Sold,2015,2
+P002,Condo,Suburbs,2,2,1100,280000,275000,30,Mark Thompson,2025-01-18,Sold,2018,1
+P003,Townhouse,Midtown,3,2.5,1650,385000,380000,22,Anna Rodriguez,2025-01-22,Sold,2020,2
+P004,Single Family,Beachfront,5,4,3200,890000,875000,60,Lisa Chen,2025-01-25,Sold,2012,3
+P005,Condo,Downtown,1,1,750,195000,190000,18,Mark Thompson,2025-02-01,Sold,2019,1
+P006,Single Family,Suburbs,4,2.5,2400,420000,415000,35,James Wilson,2025-02-05,Sold,2016,2
+P007,Townhouse,Midtown,2,2,1300,320000,310000,42,Anna Rodriguez,2025-02-10,Sold,2017,1
+P008,Condo,Beachfront,3,2,1800,520000,505000,28,Lisa Chen,2025-02-14,Sold,2021,2
+P009,Single Family,Downtown,3,2,1850,395000,385000,50,Mark Thompson,2025-02-18,Sold,2014,2
+P010,Townhouse,Suburbs,4,3,2100,375000,370000,25,James Wilson,2025-02-22,Sold,2019,2
+P011,Condo,Midtown,2,1,950,225000,220000,38,Anna Rodriguez,2025-02-28,Sold,2020,1
+P012,Single Family,Beachfront,4,3.5,2800,750000,725000,55,Lisa Chen,2025-03-03,Sold,2013,3
+P013,Townhouse,Downtown,3,2.5,1550,410000,400000,32,Mark Thompson,2025-03-07,Sold,2018,2
+P014,Condo,Suburbs,1,1,680,165000,160000,20,James Wilson,2025-03-10,Sold,2021,1
+P015,Single Family,Midtown,5,3,2600,485000,475000,48,Anna Rodriguez,2025-03-14,Sold,2015,2
+P016,Townhouse,Beachfront,3,3,1900,580000,565000,40,Lisa Chen,2025-03-18,Sold,2020,2
+P017,Condo,Downtown,2,2,1050,295000,290000,26,Mark Thompson,2025-03-22,Sold,2019,1
+P018,Single Family,Suburbs,3,2,1700,345000,340000,33,James Wilson,2025-03-25,Sold,2017,2
+P019,Townhouse,Midtown,4,2.5,2000,430000,420000,44,Anna Rodriguez,2025-03-28,Sold,2016,2
+P020,Condo,Beachfront,2,2,1350,445000,435000,35,Lisa Chen,2025-04-01,Sold,2022,1
+P021,Single Family,Downtown,4,3,2350,510000,495000,52,Mark Thompson,2025-04-05,Sold,2014,2
+P022,Townhouse,Suburbs,3,2,1450,295000,290000,28,James Wilson,2025-04-08,Sold,2018,1
+P023,Condo,Midtown,3,2,1200,285000,280000,30,Anna Rodriguez,2025-04-12,Sold,2020,1
+P024,Single Family,Beachfront,6,4.5,3800,1100000,1050000,75,Lisa Chen,2025-04-15,Sold,2011,4
+P025,Townhouse,Downtown,2,2,1250,350000,342000,36,Mark Thompson,2025-04-18,Sold,2019,1
+P026,Condo,Suburbs,2,1.5,880,185000,180000,22,James Wilson,2025-04-22,Sold,2021,1
+P027,Single Family,Midtown,4,2.5,2150,425000,415000,42,Anna Rodriguez,2025-04-25,Sold,2016,2
+P028,Townhouse,Beachfront,4,3,2250,620000,600000,48,Lisa Chen,2025-04-28,Sold,2018,2
+P029,Condo,Downtown,1,1,700,210000,205000,24,Mark Thompson,2025-05-01,Sold,2020,1
+P030,Single Family,Suburbs,5,3.5,2900,525000,510000,58,James Wilson,2025-05-05,Sold,2015,3
+P031,Townhouse,Midtown,3,2.5,1600,365000,358000,34,Anna Rodriguez,2025-05-08,Sold,2019,2
+P032,Condo,Beachfront,3,2.5,1650,495000,480000,40,Lisa Chen,2025-05-12,Sold,2021,2
+P033,Single Family,Downtown,3,2,1950,440000,428000,46,Mark Thompson,2025-05-15,Sold,2017,2
+P034,Townhouse,Suburbs,2,1.5,1150,255000,250000,26,James Wilson,2025-05-18,Sold,2020,1
+P035,Condo,Midtown,2,2,1000,245000,240000,30,Anna Rodriguez,2025-05-22,Sold,2019,1
+P036,Single Family,Beachfront,5,4,3400,925000,895000,65,Lisa Chen,2025-05-25,Sold,2012,3
+P037,Townhouse,Downtown,3,2,1400,375000,365000,38,Mark Thompson,2025-05-28,Sold,2018,1
+P038,Condo,Suburbs,1,1,620,155000,150000,18,James Wilson,2025-06-01,Sold,2022,1
+P039,Single Family,Midtown,4,3,2250,465000,455000,44,Anna Rodriguez,2025-06-05,Sold,2016,2
+P040,Townhouse,Beachfront,3,2.5,1750,545000,530000,50,Lisa Chen,2025-06-08,Sold,2020,2
