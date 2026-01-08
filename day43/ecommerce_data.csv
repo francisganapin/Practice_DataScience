@@ -1,0 +1,51 @@
+order_id,customer_id,customer_name,product_id,product_name,category,quantity,unit_price,total_amount,order_date,shipping_date,delivery_date,payment_method,shipping_address,city,state,country,postal_code,customer_segment,order_status,discount_percent,shipping_cost,return_status
+ORD001,CUST101,John Smith,PROD201,Laptop,Electronics,1,899.99,899.99,2024-01-15,2024-01-16,2024-01-20,Credit Card,123 Main St,New York,NY,USA,10001,Premium,Delivered,10,15.00,No
+ORD002,CUST102,Emma Johnson,PROD202,Wireless Mouse,Electronics,2,25.99,51.98,2024-01-16,2024-01-17,2024-01-21,PayPal,456 Oak Ave,Los Angeles,CA,USA,90001,Regular,Delivered,5,10.00,No
+ORD003,CUST103,Michael Brown,PROD203,Office Chair,Furniture,1,199.99,199.99,2024-01-17,2024-01-18,2024-01-25,Credit Card,789 Pine Rd,Chicago,IL,USA,60601,Premium,Delivered,15,25.00,No
+ORD004,CUST104,Sarah Davis,PROD204,Notebook Set,Stationery,5,12.99,64.95,2024-01-18,2024-01-19,2024-01-23,Debit Card,321 Elm St,Houston,TX,USA,77001,Regular,Delivered,0,8.00,No
+ORD005,CUST105,James Wilson,PROD205,Smartphone,Electronics,1,699.99,699.99,2024-01-19,2024-01-20,2024-01-24,Credit Card,654 Maple Dr,Phoenix,AZ,USA,85001,Premium,Delivered,12,15.00,No
+ORD006,CUST106,Lisa Anderson,PROD206,Desk Lamp,Furniture,2,45.99,91.98,2024-01-20,2024-01-21,2024-01-26,PayPal,987 Cedar Ln,Philadelphia,PA,USA,19101,Regular,Delivered,8,12.00,No
+ORD007,CUST107,Robert Taylor,PROD207,Pen Pack,Stationery,10,5.99,59.90,2024-01-21,2024-01-22,2024-01-27,Credit Card,147 Birch Ct,San Antonio,TX,USA,78201,Regular,Delivered,0,7.00,No
+ORD008,CUST108,Jennifer Martinez,PROD208,Monitor,Electronics,1,299.99,299.99,2024-01-22,2024-01-23,2024-01-28,Credit Card,258 Spruce Way,San Diego,CA,USA,92101,Premium,Delivered,10,18.00,No
+ORD009,CUST109,David Garcia,PROD209,Bookshelf,Furniture,1,149.99,149.99,2024-01-23,2024-01-24,2024-01-30,Debit Card,369 Willow Pl,Dallas,TX,USA,75201,Regular,Delivered,5,20.00,No
+ORD010,CUST110,Mary Rodriguez,PROD210,Planner,Stationery,3,18.99,56.97,2024-01-24,2024-01-25,2024-01-29,PayPal,741 Ash Blvd,San Jose,CA,USA,95101,Regular,Delivered,0,9.00,No
+ORD011,CUST111,William Lee,PROD211,Tablet,Electronics,1,449.99,449.99,2024-01-25,2024-01-26,2024-01-31,Credit Card,852 Poplar St,Austin,TX,USA,73301,Premium,Delivered,15,15.00,No
+ORD012,CUST112,Patricia White,PROD212,Standing Desk,Furniture,1,399.99,399.99,2024-01-26,2024-01-27,2024-02-02,Credit Card,963 Hickory Ave,Jacksonville,FL,USA,32099,Premium,Delivered,10,30.00,No
+ORD013,CUST113,Christopher Harris,PROD213,Sticky Notes,Stationery,8,3.99,31.92,2024-01-27,2024-01-28,2024-02-01,PayPal,159 Walnut Rd,Fort Worth,TX,USA,76101,Regular,Delivered,0,6.00,No
+ORD014,CUST114,Barbara Clark,PROD214,Keyboard,Electronics,1,79.99,79.99,2024-01-28,2024-01-29,2024-02-03,Debit Card,357 Chestnut Dr,Columbus,OH,USA,43085,Regular,Delivered,5,10.00,No
+ORD015,CUST115,Daniel Lewis,PROD215,Filing Cabinet,Furniture,1,179.99,179.99,2024-01-29,2024-01-30,2024-02-05,Credit Card,486 Sycamore Ln,Charlotte,NC,USA,28201,Premium,Delivered,12,22.00,No
+ORD016,CUST116,Elizabeth Walker,PROD216,Highlighter Set,Stationery,4,7.99,31.96,2024-01-30,2024-01-31,2024-02-04,PayPal,597 Magnolia Ct,San Francisco,CA,USA,94102,Regular,Delivered,0,8.00,No
+ORD017,CUST117,Matthew Hall,PROD217,Webcam,Electronics,1,89.99,89.99,2024-01-31,2024-02-01,2024-02-06,Credit Card,618 Dogwood Way,Indianapolis,IN,USA,46201,Regular,Delivered,8,11.00,No
+ORD018,CUST118,Susan Allen,PROD218,Conference Table,Furniture,1,599.99,599.99,2024-02-01,2024-02-02,2024-02-08,Credit Card,729 Redwood Pl,Seattle,WA,USA,98101,Premium,Delivered,15,35.00,No
+ORD019,CUST119,Joseph Young,PROD219,Binder Set,Stationery,6,9.99,59.94,2024-02-02,2024-02-03,2024-02-07,Debit Card,831 Sequoia Blvd,Denver,CO,USA,80201,Regular,Delivered,0,9.00,No
+ORD020,CUST120,Jessica King,PROD220,Headphones,Electronics,1,149.99,149.99,2024-02-03,2024-02-04,2024-02-09,PayPal,942 Fir St,Washington,DC,USA,20001,Premium,Delivered,10,12.00,No
+ORD021,CUST101,John Smith,PROD221,USB Cable,Electronics,3,12.99,38.97,2024-02-04,2024-02-05,2024-02-10,Credit Card,123 Main St,New York,NY,USA,10001,Premium,Delivered,5,7.00,No
+ORD022,CUST121,Thomas Wright,PROD222,Ergonomic Chair,Furniture,1,299.99,299.99,2024-02-05,2024-02-06,2024-02-12,Credit Card,153 Cypress Ave,Boston,MA,USA,02101,Premium,Delivered,12,28.00,No
+ORD023,CUST122,Nancy Lopez,PROD223,Marker Set,Stationery,5,6.99,34.95,2024-02-06,2024-02-07,2024-02-11,PayPal,264 Beech Rd,El Paso,TX,USA,79901,Regular,Delivered,0,8.00,No
+ORD024,CUST123,Charles Hill,PROD224,External Hard Drive,Electronics,1,119.99,119.99,2024-02-07,2024-02-08,2024-02-13,Credit Card,375 Juniper Dr,Nashville,TN,USA,37201,Regular,Delivered,8,13.00,No
+ORD025,CUST124,Karen Scott,PROD225,Desk Organizer,Furniture,2,29.99,59.98,2024-02-08,2024-02-09,2024-02-14,Debit Card,486 Laurel Ln,Detroit,MI,USA,48201,Regular,Delivered,5,10.00,No
+ORD026,CUST125,Steven Green,PROD226,Paper Clips,Stationery,15,2.99,44.85,2024-02-09,2024-02-10,2024-02-15,PayPal,597 Alder Ct,Oklahoma City,OK,USA,73101,Regular,Delivered,0,6.00,No
+ORD027,CUST126,Betty Adams,PROD227,Printer,Electronics,1,199.99,199.99,2024-02-10,2024-02-11,2024-02-16,Credit Card,618 Birchwood Way,Portland,OR,USA,97201,Premium,Delivered,10,20.00,No
+ORD028,CUST127,Edward Baker,PROD228,Office Sofa,Furniture,1,499.99,499.99,2024-02-11,2024-02-12,2024-02-18,Credit Card,729 Maplewood Pl,Las Vegas,NV,USA,89101,Premium,Delivered,15,32.00,No
+ORD029,CUST128,Dorothy Nelson,PROD229,Stapler,Stationery,4,8.99,35.96,2024-02-12,2024-02-13,2024-02-17,PayPal,831 Oakwood Blvd,Louisville,KY,USA,40201,Regular,Delivered,0,7.00,No
+ORD030,CUST129,Brian Carter,PROD230,Smartwatch,Electronics,1,249.99,249.99,2024-02-13,2024-02-14,2024-02-19,Credit Card,942 Pinewood St,Baltimore,MD,USA,21201,Premium,Delivered,12,14.00,No
+ORD031,CUST102,Emma Johnson,PROD231,Mousepad,Electronics,2,15.99,31.98,2024-02-14,2024-02-15,2024-02-20,Debit Card,456 Oak Ave,Los Angeles,CA,USA,90001,Regular,Cancelled,0,0.00,No
+ORD032,CUST130,Kevin Mitchell,PROD232,Storage Cabinet,Furniture,1,249.99,249.99,2024-02-15,2024-02-16,2024-02-22,Credit Card,164 Elmwood Ave,Milwaukee,WI,USA,53201,Premium,Delivered,10,25.00,No
+ORD033,CUST131,Helen Perez,PROD233,Calculator,Stationery,3,19.99,59.97,2024-02-16,2024-02-17,2024-02-21,PayPal,275 Cedarwood Rd,Albuquerque,NM,USA,87101,Regular,Delivered,5,9.00,No
+ORD034,CUST132,Jason Roberts,PROD234,Bluetooth Speaker,Electronics,1,79.99,79.99,2024-02-17,2024-02-18,2024-02-23,Credit Card,386 Rosewood Dr,Tucson,AZ,USA,85701,Regular,Delivered,8,11.00,No
+ORD035,CUST133,Sandra Turner,PROD235,Whiteboard,Furniture,1,89.99,89.99,2024-02-18,2024-02-19,2024-02-24,Debit Card,497 Ashwood Ln,Fresno,CA,USA,93701,Regular,Delivered,5,15.00,No
+ORD036,CUST134,Ryan Phillips,PROD236,Envelope Pack,Stationery,10,4.99,49.90,2024-02-19,2024-02-20,2024-02-25,PayPal,518 Willowbrook Ct,Sacramento,CA,USA,95814,Regular,Delivered,0,7.00,No
+ORD037,CUST135,Donna Campbell,PROD237,Graphics Tablet,Electronics,1,199.99,199.99,2024-02-20,2024-02-21,2024-02-26,Credit Card,629 Maplecrest Way,Long Beach,CA,USA,90801,Premium,Delivered,10,16.00,No
+ORD038,CUST136,Gary Parker,PROD238,Executive Desk,Furniture,1,699.99,699.99,2024-02-21,2024-02-22,2024-02-28,Credit Card,731 Oakridge Pl,Kansas City,MO,USA,64101,Premium,Delivered,15,40.00,No
+ORD039,CUST137,Carol Evans,PROD239,Tape Dispenser,Stationery,5,5.99,29.95,2024-02-22,2024-02-23,2024-02-27,PayPal,842 Cedarbrook Blvd,Mesa,AZ,USA,85201,Regular,Delivered,0,6.00,No
+ORD040,CUST138,Frank Edwards,PROD240,Laptop Stand,Electronics,1,49.99,49.99,2024-02-23,2024-02-24,2024-02-29,Debit Card,953 Birchbrook St,Atlanta,GA,USA,30301,Regular,Delivered,5,9.00,No
+ORD041,CUST139,Ruth Collins,PROD241,Lounge Chair,Furniture,1,349.99,349.99,2024-02-24,2024-02-25,2024-03-02,Credit Card,174 Elmcrest Ave,Virginia Beach,VA,USA,23450,Premium,Delivered,12,30.00,No
+ORD042,CUST140,Raymond Stewart,PROD242,Correction Tape,Stationery,8,3.49,27.92,2024-02-25,2024-02-26,2024-03-01,PayPal,285 Pinecrest Rd,Omaha,NE,USA,68101,Regular,Delivered,0,6.00,No
+ORD043,CUST103,Michael Brown,PROD243,Power Bank,Electronics,2,39.99,79.98,2024-02-26,2024-02-27,2024-03-03,Credit Card,789 Pine Rd,Chicago,IL,USA,60601,Premium,Delivered,8,10.00,No
+ORD044,CUST141,Janet Morris,PROD244,Side Table,Furniture,1,79.99,79.99,2024-02-27,2024-02-28,2024-03-04,Debit Card,396 Oakmont Dr,Oakland,CA,USA,94601,Regular,Delivered,5,12.00,No
+ORD045,CUST142,Jerry Rogers,PROD245,Scissors,Stationery,6,7.99,47.94,2024-02-28,2024-02-29,2024-03-05,PayPal,417 Cedarmont Ln,Miami,FL,USA,33101,Regular,Delivered,0,8.00,No
+ORD046,CUST143,Deborah Reed,PROD246,Wireless Charger,Electronics,1,34.99,34.99,2024-02-29,2024-03-01,2024-03-06,Credit Card,528 Maplegrove Ct,Tulsa,OK,USA,74101,Regular,Delivered,5,8.00,No
+ORD047,CUST144,Dennis Cook,PROD247,Coat Rack,Furniture,1,59.99,59.99,2024-03-01,2024-03-02,2024-03-07,Credit Card,639 Birchgrove Way,Minneapolis,MN,USA,55401,Regular,Delivered,8,11.00,No
+ORD048,CUST145,Angela Morgan,PROD248,Label Maker,Stationery,2,24.99,49.98,2024-03-02,2024-03-03,2024-03-08,PayPal,741 Elmgrove Pl,Wichita,KS,USA,67201,Regular,Delivered,0,9.00,No
+ORD049,CUST146,Harold Bell,PROD249,Gaming Mouse,Electronics,1,59.99,59.99,2024-03-03,2024-03-04,2024-03-09,Debit Card,852 Pinegrove Blvd,Arlington,TX,USA,76010,Regular,Delivered,10,10.00,No
+ORD050,CUST147,Shirley Murphy,PROD250,Bean Bag Chair,Furniture,1,129.99,129.99,2024-03-04,2024-03-05,2024-03-10,Credit Card,963 Oakvalley St,New Orleans,LA,USA,70112,Premium,Delivered,12,18.00,Yes
