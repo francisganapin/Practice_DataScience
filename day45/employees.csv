@@ -1,0 +1,41 @@
+employee_id,first_name,last_name,department,job_title,salary,hire_date,age,gender,city,performance_score,years_experience,is_remote,bonus_percentage
+1,John,Smith,Engineering,Software Engineer,85000,2019-03-15,32,Male,New York,4.2,7,True,12
+2,Sarah,Johnson,Marketing,Marketing Manager,72000,2020-06-22,28,Female,Los Angeles,4.5,5,False,15
+3,Michael,Williams,Engineering,Senior Developer,105000,2017-01-10,38,Male,Chicago,4.8,12,True,18
+4,Emily,Brown,HR,HR Specialist,55000,2021-09-01,26,Female,Houston,3.9,3,False,8
+5,David,Jones,Sales,Sales Representative,62000,2018-11-30,35,Male,Phoenix,4.1,8,False,20
+6,Jessica,Garcia,Engineering,Data Scientist,95000,2019-08-14,30,Female,San Diego,4.6,6,True,14
+7,Christopher,Martinez,Finance,Financial Analyst,68000,2020-02-28,29,Male,Dallas,3.8,4,False,10
+8,Amanda,Rodriguez,Marketing,Content Specialist,52000,2022-01-15,24,Female,San Jose,4.0,2,True,7
+9,James,Wilson,Engineering,DevOps Engineer,92000,2018-05-20,34,Male,Austin,4.4,9,True,16
+10,Ashley,Anderson,Sales,Sales Manager,78000,2016-12-05,40,Female,Jacksonville,4.7,14,False,22
+11,Matthew,Thomas,Finance,Senior Accountant,75000,2019-07-18,36,Male,San Francisco,4.3,10,False,13
+12,Stephanie,Taylor,HR,Recruiter,48000,2021-04-12,25,Female,Columbus,3.7,2,True,6
+13,Daniel,Moore,Engineering,Frontend Developer,82000,2020-10-08,31,Male,Indianapolis,4.1,6,True,11
+14,Jennifer,Jackson,Marketing,SEO Specialist,58000,2019-02-25,27,Female,Charlotte,4.2,4,False,9
+15,Robert,Martin,Sales,Account Executive,70000,2017-08-30,37,Male,Seattle,4.5,11,False,18
+16,Nicole,Lee,Engineering,Backend Developer,88000,2018-03-22,33,Female,Denver,4.4,8,True,15
+17,William,Perez,Finance,Budget Analyst,62000,2021-06-10,28,Male,Washington,3.9,3,False,8
+18,Lauren,Thompson,HR,Training Coordinator,51000,2020-11-18,29,Female,Boston,4.0,4,True,7
+19,Joseph,White,Engineering,QA Engineer,72000,2019-09-05,32,Male,Nashville,4.2,7,False,12
+20,Megan,Harris,Sales,Business Developer,65000,2018-01-14,34,Female,Detroit,4.3,9,False,17
+21,Andrew,Sanchez,Marketing,Brand Manager,76000,2017-05-28,39,Male,Portland,4.6,13,False,16
+22,Rachel,Clark,Engineering,ML Engineer,110000,2019-12-01,35,Female,Miami,4.9,10,True,20
+23,Joshua,Ramirez,Finance,Tax Specialist,58000,2022-03-20,26,Male,Atlanta,3.6,2,False,5
+24,Brittany,Lewis,HR,Benefits Administrator,53000,2020-08-07,30,Female,Honolulu,4.1,5,True,9
+25,Ryan,Robinson,Sales,Territory Manager,82000,2016-10-12,42,Male,Minneapolis,4.8,16,False,25
+26,Samantha,Walker,Engineering,System Architect,125000,2015-04-18,45,Female,Philadelphia,5.0,20,True,22
+27,Kevin,Young,Marketing,Digital Marketing Lead,70000,2019-06-30,31,Male,San Antonio,4.3,7,False,13
+28,Heather,Allen,Finance,Controller,95000,2017-02-14,41,Female,Chicago,4.7,15,False,19
+29,Brandon,King,Engineering,Security Engineer,98000,2018-09-25,36,Male,Los Angeles,4.5,11,True,17
+30,Amber,Wright,Sales,Inside Sales Rep,55000,2021-07-08,27,Female,New York,3.8,3,False,12
+31,Justin,Scott,HR,Compensation Analyst,60000,2020-04-22,33,Male,Houston,4.0,6,False,10
+32,Christina,Torres,Engineering,Cloud Engineer,102000,2019-01-28,34,Female,Austin,4.6,9,True,18
+33,Tyler,Nguyen,Marketing,Product Marketing,68000,2018-12-10,30,Male,Seattle,4.2,6,True,11
+34,Melissa,Hill,Finance,Payroll Specialist,52000,2021-02-05,28,Female,Phoenix,3.9,4,False,8
+35,Eric,Flores,Sales,Regional Sales Director,105000,2015-08-15,48,Male,Dallas,4.9,22,False,28
+36,Danielle,Green,Engineering,Full Stack Developer,90000,2020-05-18,29,Female,Denver,4.4,5,True,14
+37,Patrick,Adams,HR,HR Director,98000,2014-11-22,50,Male,San Francisco,4.8,25,False,20
+38,Kimberly,Nelson,Marketing,Event Coordinator,50000,2022-06-01,23,Female,Boston,3.5,1,False,5
+39,Steven,Baker,Finance,CFO,180000,2013-03-10,55,Male,New York,5.0,30,False,35
+40,Vanessa,Gonzalez,Engineering,Product Manager,115000,2018-07-12,37,Female,San Jose,4.7,12,True,19
