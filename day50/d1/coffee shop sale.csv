@@ -1,0 +1,51 @@
+transaction_id,transaction_date,transaction_time,transaction_qty,store_id,store_location,product_id,unit_price,product_category,product_type,product_detail
+1,2023-01-01,07:06:11,2,5,Lower Manhattan,32,3.00,Coffee,Gourmet brewed coffee,Ethiopia Rg
+2,2023-01-01,07:08:56,2,5,Lower Manhattan,57,3.10,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg
+3,2023-01-01,07:14:04,2,5,Lower Manhattan,59,4.50,Drinking Chocolate,Hot chocolate,Dark chocolate Lg
+4,2023-01-01,07:20:24,1,5,Lower Manhattan,22,2.00,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+5,2023-01-01,07:22:41,2,5,Lower Manhattan,57,3.10,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg
+6,2023-01-01,07:25:49,1,5,Lower Manhattan,77,3.00,Bakery,Scone,Oatmeal Scone
+7,2023-01-01,07:33:34,2,5,Lower Manhattan,22,2.00,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+8,2023-01-01,07:39:13,1,5,Lower Manhattan,28,2.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+9,2023-01-01,07:43:05,1,5,Lower Manhattan,39,4.25,Coffee,Barista Espresso,Cappuccino
+10,2023-01-01,07:49:22,2,5,Lower Manhattan,58,3.50,Drinking Chocolate,Hot chocolate,Dark chocolate Rg
+11,2023-01-01,07:55:18,2,5,Lower Manhattan,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg
+12,2023-01-01,07:58:14,1,5,Lower Manhattan,42,2.50,Tea,Brewed herbal tea,Lemon Grass Rg
+13,2023-01-01,08:01:09,1,5,Lower Manhattan,61,4.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg
+14,2023-01-01,08:04:37,1,5,Lower Manhattan,29,3.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg
+15,2023-01-01,08:09:22,2,5,Lower Manhattan,33,3.50,Coffee,Gourmet brewed coffee,Ethiopia Lg
+16,2023-01-01,08:15:45,1,5,Lower Manhattan,52,3.00,Tea,Brewed Black tea,Traditional Earl Grey Lg
+17,2023-01-01,08:19:12,1,5,Lower Manhattan,84,3.75,Bakery,Pastry,Chocolate Croissant
+18,2023-01-01,08:24:33,2,5,Lower Manhattan,49,3.00,Tea,Brewed Green tea,Serenity Green Tea Lg
+19,2023-01-01,08:28:55,1,5,Lower Manhattan,37,3.00,Coffee,Barista Espresso,Latte
+20,2023-01-01,08:33:21,1,5,Lower Manhattan,72,3.25,Bakery,Biscotti,Hazelnut Biscotti
+21,2023-01-01,08:38:10,2,8,Hell's Kitchen,44,2.50,Tea,Brewed herbal tea,Peppermint Rg
+22,2023-01-01,08:42:56,1,8,Hell's Kitchen,54,2.50,Tea,Brewed Black tea,Earl Grey Rg
+23,2023-01-01,08:48:02,1,8,Hell's Kitchen,35,3.00,Coffee,Gourmet brewed coffee,Brazilian - Organic Lg
+24,2023-01-01,08:52:14,2,8,Hell's Kitchen,60,3.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg
+25,2023-01-01,08:56:45,1,8,Hell's Kitchen,24,3.00,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+26,2023-01-01,09:02:30,1,8,Hell's Kitchen,87,3.50,Bakery,Scone,Blueberry Scone
+27,2023-01-01,09:07:18,2,8,Hell's Kitchen,41,3.75,Coffee,Barista Espresso,Cappuccino Lg
+28,2023-01-01,09:12:05,1,8,Hell's Kitchen,50,2.50,Tea,Brewed Black tea,English Breakfast Rg
+29,2023-01-01,09:16:55,1,8,Hell's Kitchen,79,3.75,Bakery,Pastry,Almond Croissant
+30,2023-01-01,09:21:40,2,8,Hell's Kitchen,31,2.20,Coffee,Gourmet brewed coffee,Ethiopia Sm
+31,2023-01-01,09:26:12,1,8,Hell's Kitchen,55,3.00,Tea,Brewed Black tea,Earl Grey Lg
+32,2023-01-01,09:30:58,1,8,Hell's Kitchen,26,3.00,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg
+33,2023-01-01,09:35:22,2,3,Astoria,46,3.00,Tea,Brewed herbal tea,Peppermint Lg
+34,2023-01-01,09:40:15,1,3,Astoria,38,3.75,Coffee,Barista Espresso,Latte Rg
+35,2023-01-01,09:45:08,1,3,Astoria,70,3.25,Bakery,Biscotti,Cranberry Biscotti
+36,2023-01-01,09:50:33,2,3,Astoria,63,3.75,Flavours,Regular syrup,Carmel syrup
+37,2023-01-01,09:55:19,1,3,Astoria,51,3.00,Tea,Brewed Black tea,English Breakfast Lg
+38,2023-01-01,10:00:45,1,3,Astoria,23,2.50,Coffee,Drip coffee,Our Old Time Diner Blend Rg
+39,2023-01-01,10:05:22,2,3,Astoria,48,2.50,Tea,Brewed Green tea,Serenity Green Tea Rg
+40,2023-01-01,10:10:14,1,3,Astoria,81,3.50,Bakery,Pastry,Spinach and Feta
+41,2023-01-01,10:15:30,1,3,Astoria,34,2.20,Coffee,Gourmet brewed coffee,Brazilian - Organic Sm
+42,2023-01-01,10:20:55,2,3,Astoria,53,3.00,Tea,Brewed Black tea,Traditional Earl Grey Rg
+43,2023-01-01,10:25:40,1,3,Astoria,27,2.20,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+44,2023-01-01,10:30:12,1,3,Astoria,75,3.50,Bakery,Pastry,Croissant
+45,2023-01-01,10:35:05,2,3,Astoria,43,3.00,Tea,Brewed herbal tea,Lemon Grass Lg
+46,2023-01-01,10:40:22,1,3,Astoria,30,2.20,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+47,2023-01-01,10:45:15,1,3,Astoria,89,3.00,Bakery,Scone,Ginger Scone
+48,2023-01-01,10:50:08,2,3,Astoria,40,2.00,Coffee,Barista Espresso,Espresso shot
+49,2023-01-01,10:55:30,1,3,Astoria,69,3.25,Bakery,Biscotti,Chocolate Chip Biscotti
+50,2023-01-01,11:00:00,1,3,Astoria,25,2.20,Coffee,Drip coffee,Our Old Time Diner Blend Sm

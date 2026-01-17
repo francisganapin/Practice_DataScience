@@ -1,0 +1,37 @@
+VLOOKUP Cheat Sheet
+
+WHAT IS VLOOKUP?
+VLOOKUP (Vertical Lookup) is a function used to search for a value in the first column of a table range and return a value in the same row from another column in the table range.
+
+SYNTAX
+=VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
+
+PARAMETERS BREAKDOWN
+1. lookup_value: The value you want to look up. (e.g., The CustomerID in your Orders table).
+2. table_array: The range of cells containing the data you want to search. (e.g., The entire Customers table). Important: The first column of this range MUST contain the lookup_value.
+3. col_index_num: The column number in the table_array from which to retrieve the value. (e.g., If you want CustomerName and it's the 2nd column in your selection, use 2).
+4. [range_lookup]:
+    *   FALSE (or 0): Exact match. (Most common).
+    *   TRUE (or 1): Approximate match. (Used for ranges like tax brackets or grades).
+
+EXAMPLE SCENARIO
+You have two CSVs open in Excel: orders.csv and customers.csv.
+You want to see the CustomerName next to the CustomerID in the orders.csv file.
+
+Data:
+*   orders.csv (Cell A2 is a CustomerID, e.g., 101)
+*   customers.csv (Columns A:D, where A is CustomerID and B is CustomerName)
+
+Formula in orders.csv:
+=VLOOKUP(B2, [customers.csv]customers!$A:$D, 2, FALSE)
+
+COMMON ERRORS
+*   #N/A: The value was not found. Check if the value exists in the first column of your table array.
+*   #REF!: The col_index_num is greater than the number of columns in the selected table_array.
+*   #VALUE!: The col_index_num is less than 1.
+
+PRO TIPS
+*   Lock your references: Use $ signs (e.g., $A$2:$D$100) so the table range doesn't move when you drag the formula down.
+*   Data Types: Ensure the data types match (e.g., numbers stored as text vs. numbers).
+*   XLOOKUP: If you have a newer version of Excel, try XLOOKUP. It's more powerful and easier to use!
+    *   =XLOOKUP(lookup_value, lookup_array, return_array)

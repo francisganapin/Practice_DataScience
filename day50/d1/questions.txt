@@ -1,0 +1,26 @@
+Coffee Shop Sales Analysis Practice Questions
+
+Use the 'coffee shop sale.csv' file to answer the following questions.
+
+Basic Aggregations
+1.  Total Revenue: What is the total revenue generated across all transactions?
+2.  Total Transactions: How many unique transactions were recorded?
+3.  Total Quantity Sold: What is the total number of items sold?
+4.  Average Unit Price: What is the average unit price of all items sold?
+
+Grouping and Categorization
+5.  Sales by Store: Which store location generated the highest total revenue?
+6.  Top Product Category: What is the most popular product category by quantity sold?
+7.  Revenue by Category: Which product category generated the highest total revenue?
+8.  Top Selling Product: Which specific product (product_detail) had the highest sales count?
+
+Time-Based Analysis
+9.  Busiest Hour: What is the busiest hour of the day based on the number of transactions?
+10. Sales Trends: (If the data spanned multiple days) Which day of the week has the highest sales? For this dataset, just calculate the total sales for the single date provided.
+
+Advanced / Specific Filtering
+11. Bakery Sales: What is the total revenue specifically from the "Bakery" category?
+12. Coffee vs. Tea: Compare the total revenue of "Coffee" vs. "Tea". Which one is higher?
+13. Average Transaction Value: What is the average revenue per transaction (Total Revenue / Number of Unique Transactions)?
+14. High Value Transactions: How many transactions had a total value greater than $10.00? (You might need to group by transaction_id first).
+15. Product Type Popularity: Within the "Coffee" category, which product_type is the most popular?

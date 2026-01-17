@@ -1,0 +1,76 @@
+# MongoDB Cheat Sheet
+
+## 1. Connection & Databases
+- `mongosh` : Start the MongoDB shell
+- `show dbs` : List all databases
+- `use <db_name>` : Switch to a specific database (creates it if it doesn't exist)
+- `db` : Show current database name
+
+## 2. Collections
+- `show collections` : List collections in current DB
+- `db.createCollection("name")` : Create a collection explicitly
+- `db.collectionName.drop()` : Delete a collection
+
+## 3. CRUD Operations
+
+### Create
+- `db.collection.insertOne({ ... })` : Insert single document
+- `db.collection.insertMany([{ ... }, { ... }])` : Insert multiple documents
+
+### Read (Find)
+- `db.collection.find()` : Find all documents
+- `db.collection.find({ key: "value" })` : Find with filter
+- `db.collection.findOne({ key: "value" })` : Find single document
+- `db.collection.find().pretty()` : Format output (not needed in Compass)
+
+### Update
+- `db.collection.updateOne({ filter }, { $set: { key: "new_val" } })`
+- `db.collection.updateMany({ filter }, { $inc: { count: 1 } })`
+- **Operators**:
+  - `$set`: Update value
+  - `$inc`: Increment number
+  - `$push`: Add to array
+  - `$pull`: Remove from array
+  - `$unset`: Remove field
+
+### Delete
+- `db.collection.deleteOne({ filter })`
+- `db.collection.deleteMany({ filter })`
+
+## 4. Query Operators
+### Comparison
+- `$eq` : Equal to
+- `$ne` : Not equal to
+- `$gt` / `$gte` : Greater than / Greater than or equal
+- `$lt` / `$lte` : Less than / Less than or equal
+- `$in` : Value is in array `[v1, v2]`
+- `$nin` : Value is NOT in array
+
+### Logical
+- `$or` : `[{ cond1 }, { cond2 }]`
+- `$and` : `[{ cond1 }, { cond2 }]`
+- `$not` : Negate condition
+
+### Element
+- `$exists` : Check if field exists (true/false)
+- `$type` : Check data type
+
+## 5. Aggregation Pipeline
+`db.collection.aggregate([ { stage1 }, { stage2 } ])`
+
+### Common Stages
+- `$match`: Filter documents (like find)
+- `$group`: Group by field and calculate (`_id`, `$sum`, `$avg`)
+- `$sort`: Sort results (`1` asc, `-1` desc)
+- `$limit`: Limit number of results
+- `$project`: Select specific fields to include/exclude
+- `$unwind`: Deconstruct an array field
+
+### Example Aggregation
+```javascript
+db.properties.aggregate([
+  { $match: { type: "House" } },
+  { $group: { _id: "$agent", avgPrice: { $avg: "$price" } } },
+  { $sort: { avgPrice: -1 } }
+])
+```

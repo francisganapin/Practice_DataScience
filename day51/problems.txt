@@ -1,0 +1,40 @@
+# MongoDB Real Estate Practice Problems
+
+Use the provided `real_estate.json` dataset to solve these problems.
+
+## 0. Setup
+**Import the data:**
+First, import the JSON file into your MongoDB database. You can use MongoDB Compass or the command line tool `mongoimport`.
+```bash
+mongoimport --db real_estate_db --collection properties --file real_estate.json --jsonArray
+```
+
+## 1. Basic Retrieval
+1.  **Find All**: Write a query to retrieve all documents in the collection.
+2.  **Filter by Type**: Find all properties where the `type` is "House".
+3.  **Filter by Price**: Find all properties with a `price` less than $200,000.
+4.  **Filter by Agent**: Find all properties listed by "Mike Brown".
+
+## 2. Logical Operators
+5.  **And Condition**: Find properties that are "Houses" AND have at least 3 bedrooms.
+6.  **Or Condition**: Find properties that are either "Condo" OR "Apartment".
+7.  **Range**: Find properties built between 2000 and 2015 (inclusive).
+
+## 3. Array Queries
+8.  **Exact Match**: Find properties that have exactly these amenities: ["Gym", "Pool"]. (Note: Order matters in exact array match, try to find one that contains *at least* these if exact match yields nothing, but for this problem try exact).
+9.  **Contains**: Find all properties that have "Pool" as one of their amenities.
+10. **Size**: Find properties that have exactly 3 amenities (Hint: `$size`).
+
+## 4. Sorting and Limiting
+11. **Sort by Price**: List all properties sorted by price in descending order.
+12. **Top 3**: Find the 3 most expensive properties.
+13. **Oldest**: Find the oldest property in the dataset.
+
+## 5. Aggregation
+14. **Average Price**: Calculate the average price of all properties.
+15. **Count by Type**: Count how many properties exist for each `type` (House, Condo, etc.).
+
+## 6. Updates and Deletes
+16. **Update Price**: The market has gone up! Increase the price of "P001" by $10,000.
+17. **Add Amenity**: Add "Smart Lock" to the amenities list for property "P005".
+18. **Delete**: Property "P015" has been de-listed. Remove it from the database.

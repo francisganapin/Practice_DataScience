@@ -1,0 +1,101 @@
+Product ID,Product Name,Category,Brand,Price,Rating,Stock Quantity
+1,MuscleTech Zinc Picolinate,Minerals,MuscleTech,64.93,3.1,447
+2,MyProtein B-Complex,Vitamins,MyProtein,75.33,3,200
+3,Cellucor Glucosamine Chondroitin,Joint Support,Cellucor,62.45,3.2,393
+4,Optimum Nutrition Casein Protein,Protein,Optimum Nutrition,86.22,4.2,63
+5,MyProtein Plant Protein Blend,Protein,MyProtein,18.45,3.8,180
+6,Garden of Life Magnesium Glycinate,Minerals,Garden of Life,21.87,3.3,360
+7,MyProtein Creatine Monohydrate,Post-workout,MyProtein,59.42,4.8,113
+8,JYM Supplement Science Multivitamin Women,Vitamins,JYM Supplement Science,94.42,4,419
+9,Garden of Life Fiber Powder,Digestive Health,Garden of Life,44.09,4,118
+10,Garden of Life Probiotic 50 Billion,Digestive Health,Garden of Life,56.66,4.6,16
+11,Optimum Nutrition Electrolyte Powder,Energy,Optimum Nutrition,90.92,4.4,273
+12,Garden of Life MSM Powder,Joint Support,Garden of Life,49.64,4.7,121
+13,Optimum Nutrition MSM Powder,Joint Support,Optimum Nutrition,25.43,4.1,333
+14,Cellucor BCAA Powder,Post-workout,Cellucor,49.97,3.6,472
+15,Cellucor Green Tea Extract,Weight Management,Cellucor,10.18,4.6,201
+16,BSN Electrolyte Powder,Energy,BSN,56.39,4.1,230
+17,MuscleTech Magnesium Glycinate,Minerals,MuscleTech,91.8,4.8,229
+18,MyProtein Energy Gel,Energy,MyProtein,69.12,4.6,178
+19,JYM Supplement Science Multivitamin Women,Vitamins,JYM Supplement Science,41.41,3.4,466
+20,Now Foods Energy Gel,Energy,Now Foods,90.5,3.4,93
+21,MyProtein Energy Bar,Energy,MyProtein,72.88,4.3,198
+22,Optimum Nutrition Nitric Oxide Booster,Pre-workout,Optimum Nutrition,96.67,3.9,7
+23,JYM Supplement Science Turmeric Curcumin,Herbal,JYM Supplement Science,35.78,3.9,143
+24,Cellucor Turmeric Curcumin,Herbal,Cellucor,97.16,3.2,53
+25,Dymatize Energy Gel,Energy,Dymatize,57.26,4,397
+26,MyProtein Collagen Peptides,Joint Support,MyProtein,32.01,4.6,348
+27,Garden of Life Calcium Citrate,Minerals,Garden of Life,72.3,4.7,407
+28,Cellucor Energy Bar,Energy,Cellucor,84.3,3.9,82
+29,Dymatize Iron Complex,Minerals,Dymatize,46.77,3.2,113
+30,MuscleTech Beta-Alanine,Pre-workout,MuscleTech,14.4,4.1,439
+31,BSN Green Tea Extract,Weight Management,BSN,52.76,4.8,235
+32,Optimum Nutrition Vitamin D3 5000IU,Vitamins,Optimum Nutrition,93.76,3.8,89
+33,Dymatize MSM Powder,Joint Support,Dymatize,68.18,4.4,474
+34,MuscleTech Milk Thistle,Herbal,MuscleTech,92.2,4.2,381
+35,JYM Supplement Science Fat Burner Thermogenic,Weight Management,JYM Supplement Science,94.43,3.5,225
+36,Garden of Life Recovery Blend,Post-workout,Garden of Life,86.32,4.5,399
+37,Universal Nutrition Whey Protein Isolate,Protein,Universal Nutrition,88.1,3.5,1
+38,MyProtein Digestive Enzymes,Digestive Health,MyProtein,97.66,4.5,155
+39,MyProtein Casein Protein,Protein,MyProtein,51.77,4.2,41
+40,Cellucor Energy Bar,Energy,Cellucor,31.12,4.5,197
+41,Cellucor Fat Burner Thermogenic,Weight Management,Cellucor,27.47,4.7,297
+42,MyProtein Multivitamin Men,Vitamins,MyProtein,32.37,4.9,44
+43,Dymatize Casein Protein,Protein,Dymatize,34.29,4.7,295
+44,Now Foods Electrolyte Powder,Energy,Now Foods,30.74,4.8,323
+45,MuscleTech Vitamin C 1000mg,Vitamins,MuscleTech,87.09,3.6,309
+46,Optimum Nutrition Fat Burner Thermogenic,Weight Management,Optimum Nutrition,81.94,4.5,289
+47,Universal Nutrition Iron Complex,Minerals,Universal Nutrition,35.09,4.2,115
+48,Now Foods Multivitamin Women,Vitamins,Now Foods,22.91,3.8,12
+49,MyProtein Multivitamin Men,Vitamins,MyProtein,37.01,3.7,10
+50,BSN Plant Protein Blend,Protein,BSN,62.62,3.2,264
+51,Cellucor Electrolyte Powder,Energy,Cellucor,56.76,4,301
+52,Dymatize MSM Powder,Joint Support,Dymatize,45.77,3.6,39
+53,MuscleTech Green Tea Extract,Weight Management,MuscleTech,41.21,3.3,213
+54,Universal Nutrition Electrolyte Powder,Energy,Universal Nutrition,34.07,4.1,147
+55,MyProtein Casein Protein,Protein,MyProtein,48.63,4,270
+56,Cellucor Milk Thistle,Herbal,Cellucor,77.27,3.9,322
+57,JYM Supplement Science MSM Powder,Joint Support,JYM Supplement Science,42.28,4.7,7
+58,Dymatize Caffeine Pills,Pre-workout,Dymatize,84.75,4.6,104
+59,Optimum Nutrition BCAA Powder,Post-workout,Optimum Nutrition,48.71,4.3,306
+60,Optimum Nutrition Green Tea Extract,Weight Management,Optimum Nutrition,58.49,4.8,329
+61,Dymatize Whey Protein Isolate,Protein,Dymatize,96.95,3.4,349
+62,Garden of Life CLA Softgels,Weight Management,Garden of Life,93.35,3.8,181
+63,MuscleTech Glucosamine Chondroitin,Joint Support,MuscleTech,45.97,5,365
+64,Dymatize Creatine Monohydrate,Post-workout,Dymatize,49.01,4.2,412
+65,BSN Whey Protein Isolate,Protein,BSN,12.66,4.4,414
+66,BSN Green Tea Extract,Weight Management,BSN,80.91,3.8,153
+67,MuscleTech Energy Gel,Energy,MuscleTech,60.43,3.8,384
+68,Cellucor Plant Protein Blend,Protein,Cellucor,47.64,4.1,94
+69,MyProtein Zinc Picolinate,Minerals,MyProtein,22.73,3.9,45
+70,BSN Digestive Enzymes,Digestive Health,BSN,86.78,3,271
+71,BSN Calcium Citrate,Minerals,BSN,37.17,4.3,18
+72,BSN Glucosamine Chondroitin,Joint Support,BSN,97.84,4.8,23
+73,MuscleTech Fiber Powder,Digestive Health,MuscleTech,37.95,4.3,384
+74,MuscleTech Magnesium Glycinate,Minerals,MuscleTech,23.82,4.7,178
+75,Cellucor Energy Bar,Energy,Cellucor,91.8,4.2,339
+76,MuscleTech Digestive Enzymes,Digestive Health,MuscleTech,59.44,4.3,406
+77,MuscleTech Digestive Enzymes,Digestive Health,MuscleTech,34.99,4.2,283
+78,Optimum Nutrition Green Tea Extract,Weight Management,Optimum Nutrition,38.31,4.2,107
+79,Optimum Nutrition Multivitamin Men,Vitamins,Optimum Nutrition,77.29,3.9,47
+80,Dymatize Calcium Citrate,Minerals,Dymatize,98.01,4.2,199
+81,Cellucor Turmeric Curcumin,Herbal,Cellucor,24.68,5,486
+82,Optimum Nutrition Zinc Picolinate,Minerals,Optimum Nutrition,35.45,5,84
+83,Now Foods Recovery Blend,Post-workout,Now Foods,72.3,4.1,128
+84,Dymatize Glutamine,Post-workout,Dymatize,67.44,4.8,66
+85,Cellucor Milk Thistle,Herbal,Cellucor,43.69,3.1,174
+86,Garden of Life Energy Gel,Energy,Garden of Life,27.13,3.8,402
+87,BSN Fiber Powder,Digestive Health,BSN,14.65,4.5,461
+88,Universal Nutrition Milk Thistle,Herbal,Universal Nutrition,66.63,4.6,305
+89,MyProtein L-Carnitine Liquid,Weight Management,MyProtein,15.46,4.1,145
+90,MyProtein Fiber Powder,Digestive Health,MyProtein,60.22,3.2,113
+91,BSN Electrolyte Powder,Energy,BSN,77,5,344
+92,Universal Nutrition Energy Bar,Energy,Universal Nutrition,17.79,3.2,361
+93,BSN Caffeine Pills,Pre-workout,BSN,92.67,4.5,496
+94,Cellucor Creatine Monohydrate,Post-workout,Cellucor,79.18,4.1,63
+95,Universal Nutrition Multivitamin Men,Vitamins,Universal Nutrition,52.71,4.5,214
+96,Optimum Nutrition Collagen Peptides,Joint Support,Optimum Nutrition,40.27,4.8,228
+97,Cellucor Multivitamin Women,Vitamins,Cellucor,58.36,4.4,293
+98,JYM Supplement Science Milk Thistle,Herbal,JYM Supplement Science,83.83,3.4,237
+99,Optimum Nutrition Milk Thistle,Herbal,Optimum Nutrition,45.72,4,181
+100,BSN CLA Softgels,Weight Management,BSN,59.46,3.7,38

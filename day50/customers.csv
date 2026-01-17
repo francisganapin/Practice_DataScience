@@ -1,0 +1,9 @@
+CustomerID,CustomerName,Region,Email
+101,John Doe,North,john@example.com
+102,Jane Smith,South,jane@example.com
+103,Bob Johnson,East,bob@example.com
+104,Alice Brown,West,alice@example.com
+105,Charlie Davis,North,charlie@example.com
+106,Eva Wilson,South,eva@example.com
+107,Frank Miller,East,frank@example.com
+108,Grace Lee,West,grace@example.com

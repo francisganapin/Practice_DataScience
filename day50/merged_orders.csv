@@ -1,0 +1,11 @@
+OrderID,CustomerID,OrderAmount,OrderDate,CustomerName,Region,Email
+5001,101,150.0,2023-01-15,John Doe,North,john@example.com
+5002,103,200.5,2023-01-16,Bob Johnson,East,bob@example.com
+5003,102,75.25,2023-01-17,Jane Smith,South,jane@example.com
+5004,105,300.0,2023-01-18,Charlie Davis,North,charlie@example.com
+5005,101,50.0,2023-01-19,John Doe,North,john@example.com
+5006,104,120.75,2023-01-20,Alice Brown,West,alice@example.com
+5007,108,90.0,2023-01-21,Grace Lee,West,grace@example.com
+5008,102,180.0,2023-01-22,Jane Smith,South,jane@example.com
+5009,106,250.0,2023-01-23,Eva Wilson,South,eva@example.com
+5010,109,60.0,2023-01-24,,,
