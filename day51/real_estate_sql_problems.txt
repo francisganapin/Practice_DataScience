@@ -1,0 +1,113 @@
+# Real Estate SQL Practice Problems
+
+Based on your `real_estate.json` data, here is a set of SQL practice problems.
+
+## Setup
+First, run the `setup_real_estate.sql` script to create the table and populate it with data.
+If you are using SQLite, you can run:
+```bash
+sqlite3 real_estate.db < setup_real_estate.sql
+```
+Or open your SQL client and execute the contents of the file.
+
+## Schema
+Table: `properties`
+- `property_id` (TEXT)
+- `address` (TEXT)
+- `price` (INTEGER)
+- `bedrooms` (INTEGER)
+- `bathrooms` (REAL)
+- `square_feet` (INTEGER)
+- `type` (TEXT) - e.g., House, Condo, Apartment
+- `year_built` (INTEGER)
+- `amenities` (TEXT) - Comma-separated list
+- `agent` (TEXT)
+- `status` (TEXT) - Available, Sold, Pending
+
+---
+
+## Problems
+
+### 1. Basic Retrieval
+1.  **Select All**: Write a query to select all columns for all properties.
+2.  **Select Specific Columns**: Select only the `address`, `price`, and `agent` for all properties.
+3.  **Filter by Status**: Find all properties that are currently "Available".
+
+### 2. Filtering and Sorting
+4.  **Price Range**: Find all properties with a price between $200,000 and $500,000.
+5.  **Bedrooms and Bathrooms**: Find properties with at least 3 bedrooms AND at least 2 bathrooms.
+6.  **Sort by Price**: List all properties sorted by price in descending order (most expensive first).
+7.  **Newest Properties**: Find the top 5 newest properties (based on `year_built`).
+
+### 3. String Matching
+8.  **Search Address**: Find all properties located on a "Street" (address contains "St").
+9.  **Specific Agent**: Find all properties listed by "Sarah Jones".
+
+### 4. Aggregation and Grouping
+10. **Count by Type**: Count how many properties of each `type` are in the database.
+11. **Average Price**: Calculate the average price of all properties.
+12. **Average Price by Type**: Calculate the average price for each property `type`.
+13. **Total Value**: Calculate the total sum of prices for all "Sold" properties.
+
+### 5. Advanced Challenges
+14. **Above Average**: Find all properties that cost more than the average property price.
+15. **Amenities Search**: Find all properties that have "Pool" listed in their amenities. (Hint: Use `LIKE '%Pool%'`)
+16. **Agent Performance**: Count how many properties each agent has listed, sorted by the count in descending order.
+
+---
+
+## Solutions (Try not to peek!)
+
+<details>
+<summary>Click to see solutions</summary>
+
+```sql
+-- 1. Select All
+SELECT * FROM properties;
+
+-- 2. Select Specific Columns
+SELECT address, price, agent FROM properties;
+
+-- 3. Filter by Status
+SELECT * FROM properties WHERE status = 'Available';
+
+-- 4. Price Range
+SELECT * FROM properties WHERE price BETWEEN 200000 AND 500000;
+
+-- 5. Bedrooms and Bathrooms
+SELECT * FROM properties WHERE bedrooms >= 3 AND bathrooms >= 2;
+
+-- 6. Sort by Price
+SELECT * FROM properties ORDER BY price DESC;
+
+-- 7. Newest Properties
+SELECT * FROM properties ORDER BY year_built DESC LIMIT 5;
+
+-- 8. Search Address
+SELECT * FROM properties WHERE address LIKE '%St%';
+
+-- 9. Specific Agent
+SELECT * FROM properties WHERE agent = 'Sarah Jones';
+
+-- 10. Count by Type
+SELECT type, COUNT(*) FROM properties GROUP BY type;
+
+-- 11. Average Price
+SELECT AVG(price) FROM properties;
+
+-- 12. Average Price by Type
+SELECT type, AVG(price) FROM properties GROUP BY type;
+
+-- 13. Total Value
+SELECT SUM(price) FROM properties WHERE status = 'Sold';
+
+-- 14. Above Average
+SELECT * FROM properties WHERE price > (SELECT AVG(price) FROM properties);
+
+-- 15. Amenities Search
+SELECT * FROM properties WHERE amenities LIKE '%Pool%';
+
+-- 16. Agent Performance
+SELECT agent, COUNT(*) as listing_count FROM properties GROUP BY agent ORDER BY listing_count DESC;
+```
+</details>
