@@ -1,0 +1,82 @@
+# Data Cleaning Teaching Guide
+
+## Lesson Overview
+**Goal**: Teach students how to clean a messy dataset using Python and Pandas.
+**Duration**: 45-60 minutes
+**Prerequisites**: Basic Python knowledge (variables, lists).
+
+## Step 1: Setup & Introduction (5 mins)
+1.  **Hook**: "Data in the real world is never clean. It has typos, missing values, and duplicates. Today, we'll learn how to fix a student grades dataset so we can analyze it."
+2.  **Setup**: Ensure everyone has the files (`student_grades.csv`, `clean_grades.py`) and Jupyter Notebook open.
+*   **Why?**: Setting the stage helps students understand the *value* of what they are learning. Real-world context makes it sticky.
+
+## Step 2: Loading & Inspecting Data (10 mins)
+*   **Action**: Run the starter script or load the CSV.
+*   **Ask**: "What looks wrong with this data?"
+*   **Key Observations to Elicit**:
+    *   "There are 'missing' words instead of numbers."
+    *   "Some grades are 150 or -10."
+    *   "Some sections are lowercase 'c' and uppercase 'C'."
+    *   "There are empty cells (NaN)."
+*   **Why?**: You cannot clean what you don't understand. Visual inspection is the first line of defense against bad analysis.
+
+## Step 3: The Cleaning Process (25 mins)
+*Guide them through these steps interactively.*
+
+### A. Handling Missing Values
+*   **Concept**: `NaN` vs. "missing" string.
+*   **Code**:
+    ```python
+    # Replace "missing" with NaN first
+    df = df.replace(["missing", "N/A"], np.nan)
+    # Check count
+    print(df.isnull().sum())
+    ```
+*   **Decision**: "Should we drop rows or fill them? For grades, let's fill with 0 or the average."
+*   **Why?**: "Missing" as a string is treated as text, not a missing number. We need to standardize all missing data to `NaN` so Pandas can recognize it.
+
+### B. Fixing Data Types
+*   **Concept**: You can't do math on strings.
+*   **Code**:
+    ```python
+    cols = ['Calculus', 'Physics', 'Programming', 'Ethics']
+    for col in cols:
+        df[col] = pd.to_numeric(df[col], errors='coerce')
+    ```
+*   **Why?**: If a column has even one string (like "missing"), the whole column becomes an "object" (text). We must convert it to numbers to calculate averages. `errors='coerce'` forces bad values to become `NaN`.
+
+### C. Cleaning Text (Sections)
+*   **Concept**: Consistency.
+*   **Code**:
+    ```python
+    df['Section'] = df['Section'].str.upper()
+    ```
+*   **Why?**: Computers see 'a' and 'A' as different things. Grouping by 'Section' would give you two separate groups for the same section if you don't fix this.
+
+### D. Removing Duplicates
+*   **Code**: `df = df.drop_duplicates()`
+*   **Why?**: Duplicate data biases your results. If a student is listed twice, their grades are counted twice, skewing the class average.
+
+### E. Handling Outliers
+*   **Concept**: Sanity checks.
+*   **Code**:
+    ```python
+    # Cap grades at 100
+    df[cols] = df[cols].clip(lower=0, upper=100)
+    ```
+*   **Why?**: A grade of 500 is impossible and likely a typo. Leaving it in would massively inflate the average. We clip it to the maximum possible value (or you could drop it).
+
+## Step 4: Analysis & Wrap-up (10 mins)
+*   **Challenge**: "Now that it's clean, who has the highest average?"
+*   **Code**:
+    ```python
+    df['Average'] = df[cols].mean(axis=1)
+    print(df.sort_values('Average', ascending=False).head())
+    ```
+*   **Takeaway**: "Clean data leads to accurate insights."
+*   **Why?**: This proves the value of the work. They can now answer questions they couldn't answer 45 minutes ago.
+
+## Teaching Tips
+*   **Predict Output**: Before running a cell, ask "What do you think will happen?"
+*   **Let them Drive**: Don't just type for them. Give them 2 minutes to try the "Remove Duplicates" step on their own using the cheat sheet.
+*   **Mistakes are Good**: If they get an error, use it as a learning moment. Read the error message together.

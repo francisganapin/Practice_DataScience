@@ -1,0 +1,110 @@
+# Visualizing Database Schemas
+
+Here are the visual designs for each schema type using our **School Management System**.
+
+---
+
+## 1. The Flat Model (Excel Style)
+**Visual**: Just one wide table. Notice the repeated data (Red).
+
+| Student | Teacher | Class | Grade | TeacherPhone |
+| :--- | :--- | :--- | :--- | :--- |
+| Harry | Snape | Potions | A | 555-0100 |
+| Hermione | Snape | Potions | A | 555-0100 |
+| Ron | Snape | Potions | B | 555-0100 |
+| Harry | McGonagall | Transfiguration | A | 555-0102 |
+
+---
+
+## 2. The Relational Model (3NF)
+**Visual**: Clean, separate tables linked by lines. No duplication.
+
+```mermaid
+erDiagram
+    STUDENTS ||--o{ ENROLLMENTS : "enrolls"
+    CLASSES ||--o{ ENROLLMENTS : "has"
+    TEACHERS ||--o{ CLASSES : "teaches"
+
+    STUDENTS { int ID string Name }
+    TEACHERS { int ID string Name string Phone }
+    CLASSES { int ID string Name int TeacherID }
+    ENROLLMENTS { int ID int StudentID int ClassID char Grade }
+```
+
+---
+
+## 3. The Star Schema (Data Warehouse)
+**Visual**: A Star. One big center table, simple points around it.
+
+```mermaid
+erDiagram
+    FACT_GRADES }o--|| DIM_STUDENT : "who"
+    FACT_GRADES }o--|| DIM_CLASS : "what"
+    FACT_GRADES }o--|| DIM_TIME : "when"
+
+    FACT_GRADES { int StudentKey int ClassKey int TimeKey int Score }
+    DIM_STUDENT { int StudentKey string Name string Address }
+    DIM_CLASS { int ClassKey string Subject string TeacherName }
+    DIM_TIME { int TimeKey int Year string Semester }
+```
+
+---
+
+## 4. The Snowflake Schema
+**Visual**: A Snowflake. The points of the star branch out further.
+*Notice how `DIM_CLASS` now splits into `DIM_DEPARTMENT`.*
+
+```mermaid
+erDiagram
+    FACT_GRADES }o--|| DIM_STUDENT : "who"
+    FACT_GRADES }o--|| DIM_CLASS : "what"
+    
+    DIM_CLASS }o--|| DIM_DEPARTMENT : "belongs to"
+    DIM_DEPARTMENT }o--|| DIM_HEAD_OF_DEPT : "managed by"
+
+    FACT_GRADES { int StudentKey int ClassKey int Score }
+    DIM_CLASS { int ClassKey string Subject int DeptKey }
+    DIM_DEPARTMENT { int DeptKey string DeptName int HeadKey }
+```
+
+---
+
+## 5. The Galaxy Schema (Fact Constellation)
+**Visual**: Two Stars sharing points.
+*Notice `DIM_STUDENT` and `DIM_TIME` are shared by both `GRADES` and `ATTENDANCE`.*
+
+```mermaid
+erDiagram
+    FACT_GRADES }o--|| DIM_STUDENT : "shared"
+    FACT_GRADES }o--|| DIM_TIME : "shared"
+    
+    FACT_ATTENDANCE }o--|| DIM_STUDENT : "shared"
+    FACT_ATTENDANCE }o--|| DIM_TIME : "shared"
+
+    FACT_GRADES { int StudentKey int Score }
+    FACT_ATTENDANCE { int StudentKey int DaysPresent }
+```
+
+---
+
+## 6. NoSQL (Document / JSON)
+**Visual**: A Tree / Nested Box. Everything about Harry is inside Harry's box.
+
+```json
+{
+  "Student": "Harry Potter",
+  "ID": 101,
+  "Enrollments": [
+    {
+      "Class": "Potions",
+      "Teacher": "Snape",
+      "Grade": "A"
+    },
+    {
+      "Class": "Transfiguration",
+      "Teacher": "McGonagall",
+      "Grade": "A"
+    }
+  ]
+}
+```

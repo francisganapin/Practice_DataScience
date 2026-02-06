@@ -1,0 +1,89 @@
+# How to Clean the Data
+
+Here is the code to fix the specific issues you asked about.
+
+## 1. Fix Missing Values & "Bad" Text
+The dataset has "missing" and "N/A" written as text. We need to turn them into real `NaN` (Not a Number) values so Pandas understands them.
+
+```python
+import numpy as np
+
+# Step A: Replace text placeholders with actual NaN
+df = df.replace(["missing", "N/A"], np.nan)
+
+# Step B: Fill the missing values
+# You can fill with 0 (if they missed the exam) or the class average.
+# Note: We will convert to numbers in the next step!
+df = df.fillna(0)
+```
+
+## 2. Convert Object to Number
+The columns are currently "objects" (text) because of the "missing" values. We need to force them to be numbers.
+
+**Option A: One by One (Easiest to understand)**
+```python
+df['Calculus'] = pd.to_numeric(df['Calculus'], errors='coerce')
+df['Physics'] = pd.to_numeric(df['Physics'], errors='coerce')
+df['Programming'] = pd.to_numeric(df['Programming'], errors='coerce')
+df['Ethics'] = pd.to_numeric(df['Ethics'], errors='coerce')
+```
+
+**Option B: Using a Loop (Faster for many columns)**
+```python
+cols = ['Calculus', 'Physics', 'Programming', 'Ethics']
+for col in cols:
+    df[col] = pd.to_numeric(df[col], errors='coerce')
+```
+
+## 3. Align All Letters (Standardize Text)
+The 'Section' column has mixed case ('a', 'A', 'b', 'B'). We need to make them all uppercase so they count as the same section.
+
+```python
+# Convert everything in the 'Section' column to uppercase
+df['Section'] = df['Section'].str.upper()
+
+# Verify it worked
+print(df['Section'].unique())
+# Should only see: ['C' 'D' 'A' 'B']
+```
+
+## 4. Fix Grades (Cap at 100, Floor at 75)
+Here is how to fix the grades for each subject one by one.
+
+```python
+# 1. Calculus
+df.loc[df['Calculus'] > 100, 'Calculus'] = 100
+df.loc[df['Calculus'] < 0, 'Calculus'] = 75
+
+# 2. Physics
+df.loc[df['Physics'] > 100, 'Physics'] = 100
+df.loc[df['Physics'] < 0, 'Physics'] = 75
+
+# 3. Programming
+df.loc[df['Programming'] > 100, 'Programming'] = 100
+df.loc[df['Programming'] < 0, 'Programming'] = 75
+
+# 4. Ethics
+df.loc[df['Ethics'] > 100, 'Ethics'] = 100
+df.loc[df['Ethics'] < 0, 'Ethics'] = 75
+
+# Verify
+print(df[['Calculus', 'Physics', 'Programming', 'Ethics']].describe())
+```
+
+## 5. (Optional) Make them Integers
+If you see `75.0` and want `75`, run this.
+*Note: You MUST fill missing values (Step 1) before doing this!*
+
+```python
+cols = ['Calculus', 'Physics', 'Programming', 'Ethics']
+for col in cols:
+    df[col] = df[col].astype(int)
+```
+
+## 6. Save the Result
+Once you are done cleaning, save your work!
+
+```python
+df.to_csv('cleaned_student_grades.csv', index=False)
+```

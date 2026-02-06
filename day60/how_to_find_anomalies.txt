@@ -1,0 +1,63 @@
+# How to Find and Print Anomalies
+
+Use this code to **see** the bad data before you fix it.
+
+## 1. Find Missing Values
+This prints rows that have at least one missing value (NaN).
+```python
+# First, ensure "missing" and "N/A" are treated as NaN
+df_temp = df.replace(["missing", "N/A"], np.nan)
+
+# Print rows with any NaN values
+print("--- Rows with Missing Values ---")
+print(df_temp[df_temp.isnull().any(axis=1)])
+```
+
+## 2. Find Inconsistent Sections
+This prints all the unique section names so you can see 'a', 'A', 'b', 'B', etc.
+```python
+print("\n--- Unique Sections ---")
+print(df['Section'].unique())
+
+# Print rows where Section is lowercase
+print("\n--- Rows with Lowercase Sections ---")
+print(df[df['Section'].str.islower()])
+```
+
+## 3. Find Duplicates
+This prints the rows that are duplicates.
+```python
+print("\n--- Duplicate Rows ---")
+print(df[df.duplicated(keep=False)])
+```
+
+## 4. Find Outliers (Grades < 0 or > 100)
+This prints rows where any subject grade is invalid.
+```python
+# Convert to numeric first (coercing errors)
+cols = ['Calculus', 'Physics', 'Programming', 'Ethics']
+for col in cols:
+    df[col] = pd.to_numeric(df[col], errors='coerce')
+
+# Check for grades > 100 or < 0
+print("\n--- Rows with Outliers ---")
+outliers = df[(df[cols] > 100).any(axis=1) | (df[cols] < 0).any(axis=1)]
+print(outliers)
+```
+
+## 5. Specific Check: Below Zero
+Use this to check if any negative numbers remain.
+
+```python
+# Check Calculus
+print("Calculus below 0:")
+print(df[df['Calculus'] < 0])
+
+# Check Physics
+print("Physics below 0:")
+print(df[df['Physics'] < 0])
+
+# Check all columns at once
+print("Any column below 0:")
+print(df[(df[['Calculus', 'Physics', 'Programming', 'Ethics']] < 0).any(axis=1)])
+```

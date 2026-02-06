@@ -1,0 +1,288 @@
+# 🐼 Pandas Data Cleaning Cheatsheet
+
+## 📥 Loading Data
+
+```python
+import pandas as pd
+import numpy as np
+
+# Load CSV
+df = pd.read_csv('file.csv')
+
+# Load with options
+df = pd.read_csv('file.csv', 
+                 na_values=['NULL', 'N/A', ''],  # Treat as NaN
+                 parse_dates=['date_column'])     # Parse dates
+```
+
+---
+
+## 🔍 Exploring Dirty Data
+
+| Task | Code |
+|------|------|
+| View first/last rows | `df.head(10)` / `df.tail(10)` |
+| Dataset shape | `df.shape` |
+| Data types | `df.dtypes` |
+| Basic statistics | `df.describe()` |
+| Column info | `df.info()` |
+| Unique values | `df['col'].unique()` |
+| Value counts | `df['col'].value_counts()` |
+
+---
+
+## ❓ Handling Missing Values
+
+### Finding Missing Values
+```python
+# Count missing per column
+df.isnull().sum()
+
+# Total missing
+df.isnull().sum().sum()
+
+# Percentage missing
+(df.isnull().sum() / len(df)) * 100
+
+# Rows with any missing value
+df[df.isnull().any(axis=1)]
+```
+
+### Replacing Missing Values
+```python
+# Replace placeholder text with NaN
+df.replace(['NULL', 'N/A', 'n/a', '', ' '], np.nan, inplace=True)
+
+# Fill with specific value
+df['col'].fillna(0, inplace=True)
+df['col'].fillna('Unknown', inplace=True)
+
+# Fill with mean/median/mode
+df['col'].fillna(df['col'].mean(), inplace=True)
+df['col'].fillna(df['col'].median(), inplace=True)
+df['col'].fillna(df['col'].mode()[0], inplace=True)
+
+# Forward fill (use previous value)
+df['col'].fillna(method='ffill', inplace=True)
+
+# Backward fill (use next value)
+df['col'].fillna(method='bfill', inplace=True)
+
+# Drop rows with missing values
+df.dropna(inplace=True)
+df.dropna(subset=['col1', 'col2'], inplace=True)  # Specific columns
+
+# Drop columns with missing values
+df.dropna(axis=1, inplace=True)
+```
+
+---
+
+## 🔁 Removing Duplicates
+
+```python
+# Find duplicates
+df.duplicated().sum()
+
+# View duplicate rows
+df[df.duplicated(keep=False)]
+
+# Remove duplicates (keep first)
+df.drop_duplicates(inplace=True)
+
+# Remove duplicates (keep last)
+df.drop_duplicates(keep='last', inplace=True)
+
+# Remove duplicates based on specific columns
+df.drop_duplicates(subset=['col1', 'col2'], inplace=True)
+```
+
+---
+
+## 📝 String Cleaning
+
+```python
+# Remove leading/trailing whitespace
+df['col'] = df['col'].str.strip()
+
+# Convert case
+df['col'] = df['col'].str.lower()     # lowercase
+df['col'] = df['col'].str.upper()     # UPPERCASE
+df['col'] = df['col'].str.title()     # Title Case
+df['col'] = df['col'].str.capitalize() # First letter capital
+
+# Replace text
+df['col'] = df['col'].str.replace('old', 'new')
+
+# Remove specific characters
+df['col'] = df['col'].str.replace('[^a-zA-Z0-9]', '', regex=True)
+
+# Extract pattern
+df['col'] = df['col'].str.extract(r'(\d+)')  # Extract numbers
+```
+
+---
+
+## 🔢 Type Conversions
+
+```python
+# Convert to numeric (errors='coerce' turns invalids to NaN)
+df['col'] = pd.to_numeric(df['col'], errors='coerce')
+
+# Convert to datetime
+df['date'] = pd.to_datetime(df['date'], errors='coerce')
+df['date'] = pd.to_datetime(df['date'], format='%Y-%m-%d')
+df['date'] = pd.to_datetime(df['date'], dayfirst=True)  # For DD-MM-YYYY
+
+# Convert to string
+df['col'] = df['col'].astype(str)
+
+# Convert to integer (requires no NaN values)
+df['col'] = df['col'].astype(int)
+
+# Convert to category (memory efficient)
+df['col'] = df['col'].astype('category')
+```
+
+---
+
+## 📊 Handling Outliers
+
+### Using IQR Method
+```python
+Q1 = df['col'].quantile(0.25)
+Q3 = df['col'].quantile(0.75)
+IQR = Q3 - Q1
+
+lower_bound = Q1 - 1.5 * IQR
+upper_bound = Q3 + 1.5 * IQR
+
+# Find outliers
+outliers = df[(df['col'] < lower_bound) | (df['col'] > upper_bound)]
+
+# Remove outliers
+df = df[(df['col'] >= lower_bound) & (df['col'] <= upper_bound)]
+
+# Cap outliers
+df['col'] = df['col'].clip(lower=lower_bound, upper=upper_bound)
+```
+
+### Using Z-Score
+```python
+from scipy import stats
+
+z_scores = stats.zscore(df['col'])
+df = df[(np.abs(z_scores) < 3)]  # Keep values within 3 std devs
+```
+
+### Replace Invalid Values
+```python
+# Replace negative values with median
+median = df[df['col'] > 0]['col'].median()
+df.loc[df['col'] < 0, 'col'] = median
+
+# Replace with absolute value
+df['col'] = df['col'].abs()
+```
+
+---
+
+## ✅ Data Validation
+
+```python
+# Check for negative values
+df[df['col'] < 0]
+
+# Check value range
+df[(df['age'] < 18) | (df['age'] > 100)]
+
+# Check format with regex
+invalid_emails = df[~df['email'].str.match(r'^[\w.-]+@[\w.-]+\.\w+$', na=False)]
+
+# Assert conditions
+assert df['age'].between(0, 120).all(), "Invalid age values found"
+```
+
+---
+
+## 🔧 Common Cleaning Patterns
+
+### Standardize Phone Numbers
+```python
+import re
+
+def clean_phone(phone):
+    if pd.isna(phone):
+        return np.nan
+    digits = re.sub(r'\D', '', str(phone))
+    if len(digits) == 10:
+        return f"({digits[:3]}) {digits[3:6]}-{digits[6:]}"
+    return digits
+
+df['phone'] = df['phone'].apply(clean_phone)
+```
+
+### Clean Currency Values
+```python
+# Remove $ and commas, convert to float
+df['price'] = df['price'].str.replace('[$,]', '', regex=True).astype(float)
+```
+
+### Split Columns
+```python
+# Split name into first and last
+df[['first_name', 'last_name']] = df['full_name'].str.split(' ', n=1, expand=True)
+```
+
+### Create Bins/Categories
+```python
+# Age groups
+bins = [0, 18, 35, 50, 100]
+labels = ['Under 18', '18-35', '36-50', '50+']
+df['age_group'] = pd.cut(df['age'], bins=bins, labels=labels)
+```
+
+---
+
+## 💾 Saving Cleaned Data
+
+```python
+# Save to CSV
+df.to_csv('cleaned_data.csv', index=False)
+
+# Save to Excel
+df.to_excel('cleaned_data.xlsx', index=False)
+
+# Save to JSON
+df.to_json('cleaned_data.json', orient='records')
+```
+
+---
+
+## 🎯 Quick Reference
+
+| Problem | Function |
+|---------|----------|
+| Missing values | `fillna()`, `dropna()`, `replace()` |
+| Duplicates | `drop_duplicates()`, `duplicated()` |
+| Whitespace | `str.strip()` |
+| Case issues | `str.lower()`, `str.upper()`, `str.title()` |
+| Type conversion | `astype()`, `to_numeric()`, `to_datetime()` |
+| Outliers | `clip()`, IQR method, Z-score |
+| String cleaning | `str.replace()`, `str.extract()` |
+| Apply custom function | `apply()` |
+
+---
+
+## 📋 Cleaning Workflow Checklist
+
+- [ ] Load data with appropriate options
+- [ ] Explore data (shape, dtypes, head/tail)
+- [ ] Check for missing values
+- [ ] Check for duplicates
+- [ ] Identify inconsistent formatting
+- [ ] Look for outliers
+- [ ] Validate data types
+- [ ] Apply cleaning operations
+- [ ] Verify cleaning worked
+- [ ] Save cleaned data

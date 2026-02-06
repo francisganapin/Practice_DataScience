@@ -1,0 +1,31 @@
+
+======================================================================
+                    HOUSING MARKET SUMMARY REPORT
+======================================================================
+
+DATASET OVERVIEW:
+• Total Properties Analyzed: 20,640
+• Number of Features: 17
+
+HOUSE PRICES (Median House Value):
+• Average Price: $206.86k
+• Median Price: $179.70k
+• Lowest Price: $15.00k
+• Highest Price: $500.00k
+• Price Range: $485.00k
+
+PROPERTY CHARACTERISTICS:
+• Average House Age: 28.6 years
+• Average Rooms per House: 5.4
+• Average Bedrooms per House: 1.1
+• Average Household Size: 3.1 people
+
+INCOME LEVELS:
+• Average Median Income: $38.71k per year
+• Income Range: $5.00k - $150.00k
+
+GEOGRAPHIC COVERAGE:
+• Latitude Range: 32.54° to 41.95°
+• Longitude Range: -124.35° to -114.31°
+
+======================================================================

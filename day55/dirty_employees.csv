@@ -1,0 +1,51 @@
+employee_id,first_name,last_name,email,department,salary,hire_date,age,city,phone_number
+1,John,Smith,john.smith@company.com,Sales,55000,2020-01-15,28,New York,555-1234
+2,Jane,Doe,jane.doe@company.com,Marketing,62000,2019-03-22,32,Los Angeles,555-5678
+3,MICHAEL,Johnson,michael.johnson@company.com,IT,75000,2018-07-10,35,Chicago,555-9012
+4,emily,Brown,emily.brown@company.com,HR,48000,2021-05-18,26,Houston,555-3456
+5,David,Williams,david.williams@company.com,Sales,58000,2020-08-25,30,Phoenix,555-7890
+6,Sarah,Miller,,Finance,67000,2019-11-03,34,Philadelphia,(555) 2345
+7,James,Davis,james.davis@company.com,IT,,2017-02-14,38,San Antonio,555.6789
+8,Jennifer,Garcia,jennifer.garcia@company.com,Marketing,54000,2020-04-30,29,San Diego,555-0123
+9,Robert,Martinez,robert.martinez@company.com,Sales,56000,2019-09-12,31,Dallas,555-4567
+10,Lisa,Anderson,lisa.anderson@company.com,HR,51000,2021-01-20,27,San Jose,5558901
+11,John,Smith,john.smith@company.com,Sales,55000,2020-01-15,28,New York,555-1234
+12,William,Taylor,william.taylor@company.com,Finance,72000,2018-04-05,36,Austin,555-2345
+13,Jessica,Thomas,jessica.thomas@company.com,IT,68000,2019-06-17,33,Jacksonville,555-6789
+14,Christopher,Jackson,chris.jackson@company.com,Marketing,59000,2020-10-08,30, Fort Worth,555-0123
+15,Amanda,White,amanda.white@company.com,Sales,-5000,2019-12-01,29,Columbus,555-4567
+16,Matthew,Harris,matthew.harris@company.com,HR,49000,15-03-2021,28,Charlotte,555-8901
+17,Ashley,Martin,ashley.martin@company.com,Finance,64000,2020-02-28,31,Seattle,555-2345
+18,Daniel,Thompson,daniel.thompson@company.com,IT,71000,2018-08-19,37,Denver,555-6789
+19,Megan,Garcia,megan.garcia@company.com,Marketing,NULL,2019-07-11,32,Washington,555-0123
+20,Joshua,Robinson,joshua.robinson@company.com,Sales,57000,2020-06-14,30,Boston,555-4567
+21,Brittany,Clark,brittany.clark@company.com,HR,50000,2021-03-25,26,El Paso,555-8901
+22,Andrew,Lewis,andrew.lewis@company.com,Finance,69000,2019-01-07,34,Nashville,555-2345
+23,Stephanie,Lee,stephanie.lee@company.com,IT,73000,2018-05-22,36,Oklahoma City,555-6789
+24,Ryan,Walker,ryan.walker@company.com,Marketing,55000,2020-09-03,29,Portland,555-0123
+25,Nicole,Hall,nicole.hall@company.com,sales,60000,2019-04-16,31,Las Vegas,555-4567
+26,Kevin,Allen,kevin.allen@company.com,HR,52000,2021-07-09,27,Detroit,555-8901
+27,Lauren,Young,lauren.young@company.com,finance,66000,2020-11-21,33,Memphis,555-2345
+28,,King,steven.king@company.com,IT,74000,2018-09-28,38,Milwaukee,555-6789
+29,Rachel,Wright,rachel.wright@company.com,marketing,58000,2019-02-13,30,Albuquerque,555-0123
+30,Brandon,Lopez,brandon.lopez@company.com,Sales,54000,2020-07-26,28,Tucson,555-4567
+31,Michelle,Hill,michelle.hill@company.com,HR,N/A,2021-09-14,26,Fresno,555-8901
+32,Tyler,Scott,tyler.scott@company.com,Finance,68000,2019-10-05,34,Sacramento,555-2345
+33,Kayla,Green,kayla.green@company.com,IT,70000,2018-12-17,35,Long Beach,555-6789
+34,Jason,Adams,jason.adams@company.com,Marketing,56000,2020-03-09,29,Kansas City,555-0123
+35,Samantha,Baker,samantha.baker@company.com, Sales ,61000,2019-05-23,32,Mesa,555-4567
+36,Justin,Nelson,justin.nelson@company.com,HR,53000,2021-11-30,27,Atlanta,555-8901
+37,Amber,Carter,amber.carter@company.com,Finance,650000,2020-01-12,33,Colorado Springs,555-2345
+38,Eric,Mitchell,eric.mitchell@company.com,IT,72000,2018-06-24,37,Omaha,555-6789
+39,Heather,Perez,heather.perez@company.com,Marketing,57000,2019-08-06,30,Raleigh,555-0123
+40,Aaron,Roberts,aaron.roberts@company.com,Sales,59000,2020-12-19,31,Miami,555-4567
+41,Danielle,Turner,danielle.turner@company.com,HR,48000,2021-04-07,-25,Virginia Beach,555-8901
+42,Adam,Phillips,adam.phillips@company.com,Finance,71000,2019-11-28,35,Oakland,555-2345
+43,Christina,Campbell,christina.campbell@company.com,IT,76000,2018-03-15,39,Minneapolis,555-6789
+44,Nathan,Parker,nathan.parker@company.com,Marketing,55000,2020-05-27,28,Tulsa,555-0123
+45,Melissa,Evans,melissa.evans@company.com,Sales,62000,2019-06-09,33,Arlington,555-4567
+46,Brian,Edwards,brian.edwards@company.com,   HR   ,50000,2021-08-21,26,New Orleans,555-8901
+47,Angela,Collins,angela.collins@company.com,Finance,67000,2020-02-04,34,Bakersfield,555-2345
+48,Patrick,Stewart,patrick.stewart@company.com,IT,78000,2018-10-16,40,Tampa,555-6789
+49,Laura,Sanchez,laura.sanchez@company.com,Marketing,54000,2019-03-29,29,Honolulu,555-0123
+50,Sean,Morris,sean.morris@company.com,Sales,150,2020-08-11,31,Anaheim,555-4567

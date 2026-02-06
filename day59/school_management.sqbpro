@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:\Users\francis\OneDrive\Desktop\Practice\Practice_data_analytics\day59\school_management.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="0"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="1266"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/><expanded_item id="4" parent="1"/></tab_structure><tab_browse><current_table name="4,8:mainStudents"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Students" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="78"/><column index="2" value="78"/><column index="3" value="75"/><column index="4" value="115"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1">CREATE TABLE Teachers(
+	teacher_id INT PRIMARY KEY,
+	first_name VARCHAR(50),
+	last_name VARCHAR(50),
+	department VARCHAR(50)
+
+);
+
+CREATE  TABLE Students(
+	student_id INT PRIMARY KEY,
+	first_name VARCHAR(50),
+	last_name VARCHAR(50),
+	enrollment_date DATE
+
+);
+
+
+CREATE TABLE Classes(
+	class_id INT PRIMARY KEY,
+	class_name VARCHAR(100),
+	credits INT,
+	teacher_id INT,
+	FOREIGN KEY (teacher_id) REFERENCES Teachers(teacher_id)
+);
+
+CREATE TABLE Enrollments(
+	enrollment_id int primary key,
+	student_id int,
+	class_id int,
+	grade char(1),
+	FOREIGN KEY(student_id) REFERENCES Students(student_id),
+	FOREIGN KEY(class_id) REFERENCES Classes(class_id)
+
+
+);
+
+
+--Add Teachers
+INSERT INTO Teachers VALUES (1, 'John', 'Keating', 'English');
+INSERT INTO Teachers VALUES (2, 'Albus', 'Dumbledore', 'Magic');
+INSERT INTO Teachers VALUES (3, 'Walter', 'White', 'Chemistry');
+-- Add Students
+INSERT INTO Students VALUES (101, 'Harry', 'Potter', '2023-09-01');
+INSERT INTO Students VALUES (102, 'Hermione', 'Granger', '2023-09-01');
+INSERT INTO Students VALUES (103, 'Jesse', 'Pinkman', '2024-01-15');
+-- Add Classes
+INSERT INTO Classes VALUES (10, 'Potions', 3, 3); -- Taught by Walter White
+INSERT INTO Classes VALUES (20, 'Defense Against Dark Arts', 4, 2); -- Taught by Dumbledore
+INSERT INTO Classes VALUES (30, 'Poetry 101', 2, 1); -- Taught by Keating
+-- Enroll Students
+INSERT INTO Enrollments VALUES (1, 101, 20, 'A'); -- Harry in DADA
+INSERT INTO Enrollments VALUES (2, 102, 20, 'A'); -- Hermione in DADA
+INSERT INTO Enrollments VALUES (3, 102, 10, 'A'); -- Hermione in Potions
+INSERT INTO Enrollments VALUES (4, 103, 10, 'F'); -- Jesse in Potions
+
+
+SELECT first_name,last_name
+FROM Students
+WHERE enrollment_date &gt;= '2024-01-01';
+
+
+SELECT
+	Classes.class_name,
+	Teachers.first_name,
+	Teachers.last_name
+FROM Classes
+	JOIN Teachers ON Classes.teacher_id = Teachers.teacher_id;
+
+	
+SELECT * FROM Students
+SELECT * FROM Enrollments
+SELECT * FROM Classes
+
+SELECT 
+		s.first_name,
+		c.class_name,
+		e.grade
+FROM Enrollments e
+JOIN Students s
+	ON s.student_id = e.enrollment_id
+JOIN Classes c
+	ON c.class_id = e.class_id;
+
+SELECT 
+	s.first_name
+	
+FROM Students s
+
+JOIN Enrollments e
+
+	ON s.student_id = e.student_id; 
+
+CREATE TEMPORARY TABLE Potions AS
+SELECT *
+FROM Classes
+WHERE class_name = 'Potions';
+	
+	
+-- See if the temp table exists (current session only)
+SELECT * FROM Potions;
+
+
+	</sql><current_tab id="0"/></tab_sql></sqlb_project>

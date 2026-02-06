@@ -1,0 +1,51 @@
+property_id,address,city,state,zip_code,property_type,bedrooms,bathrooms,sqft,lot_size_sqft,year_built,listing_price,sale_price,days_on_market,listing_date,sale_date,agent_name,agent_commission_pct,has_pool,has_garage,garage_spaces,neighborhood,school_rating,crime_rate,walkability_score
+RE001,123 Oak Street,Los Angeles,CA,90001,Single Family,4,3,2450,8500,1995,750000,725000,45,2025-06-15,2025-07-30,Sarah Johnson,2.5,Yes,Yes,2,Westwood,8,Low,72
+RE002,456 Maple Avenue,San Francisco,CA,94102,Condo,2,2,1200,0,2018,650000,680000,12,2025-07-01,2025-07-13,Michael Chen,2.0,No,Yes,1,Marina District,9,Low,95
+RE003,789 Pine Road,Seattle,WA,98101,Single Family,3,2,1850,6200,2005,525000,510000,62,2025-05-20,2025-07-21,Emily Davis,2.5,No,Yes,2,Capitol Hill,7,Medium,88
+RE004,321 Elm Court,Austin,TX,78701,Townhouse,3,2.5,1650,3500,2012,425000,430000,28,2025-08-01,2025-08-29,James Wilson,2.0,No,Yes,1,Downtown,8,Low,91
+RE005,654 Cedar Lane,Denver,CO,80202,Single Family,5,4,3200,12000,1988,890000,875000,55,2025-04-10,2025-06-04,Sarah Johnson,2.5,Yes,Yes,3,Cherry Creek,9,Low,65
+RE006,987 Birch Boulevard,Phoenix,AZ,85001,Single Family,4,2,2100,7500,2000,385000,390000,18,2025-09-01,2025-09-19,Robert Martinez,2.0,Yes,Yes,2,Arcadia,7,Medium,58
+RE007,147 Walnut Way,Portland,OR,97201,Condo,1,1,750,0,2020,320000,315000,35,2025-07-15,2025-08-19,Emily Davis,2.0,No,No,0,Pearl District,8,Low,97
+RE008,258 Spruce Street,Miami,FL,33101,Condo,3,2,1450,0,2015,520000,545000,8,2025-08-20,2025-08-28,Lisa Thompson,2.5,Yes,Yes,1,Brickell,8,Medium,89
+RE009,369 Hickory Drive,Nashville,TN,37201,Single Family,4,3,2800,9500,2010,675000,650000,72,2025-03-01,2025-05-12,James Wilson,2.5,No,Yes,2,Green Hills,9,Low,55
+RE010,471 Chestnut Circle,Boston,MA,02101,Townhouse,2,1.5,1100,1800,1920,485000,510000,22,2025-06-01,2025-06-23,Michael Chen,2.0,No,No,0,Back Bay,9,Low,98
+RE011,582 Redwood Place,San Diego,CA,92101,Single Family,3,2,1750,5500,2008,615000,600000,48,2025-05-15,2025-07-02,Sarah Johnson,2.5,Yes,Yes,2,La Jolla,8,Low,75
+RE012,693 Willow Lane,Chicago,IL,60601,Condo,2,2,1350,0,2017,425000,420000,30,2025-07-20,2025-08-19,Robert Martinez,2.0,No,Yes,1,Lincoln Park,7,Medium,92
+RE013,804 Aspen Avenue,Dallas,TX,75201,Single Family,5,3.5,3500,15000,1992,725000,700000,65,2025-04-01,2025-06-05,Lisa Thompson,2.5,Yes,Yes,3,Highland Park,9,Low,48
+RE014,915 Magnolia Court,Atlanta,GA,30301,Townhouse,3,2.5,1800,2500,2014,390000,395000,25,2025-08-10,2025-09-04,Emily Davis,2.0,No,Yes,1,Midtown,8,Medium,85
+RE015,126 Cypress Road,Las Vegas,NV,89101,Single Family,4,2,2000,6800,2002,345000,350000,15,2025-09-05,2025-09-20,James Wilson,2.0,Yes,Yes,2,Summerlin,6,Medium,52
+RE016,237 Sycamore Street,New York,NY,10001,Condo,1,1,650,0,2019,895000,920000,5,2025-08-25,2025-08-30,Michael Chen,2.0,No,No,0,Chelsea,8,Medium,99
+RE017,348 Poplar Place,Charlotte,NC,28201,Single Family,4,2.5,2350,8000,2016,475000,480000,20,2025-07-10,2025-07-30,Sarah Johnson,2.5,No,Yes,2,Myers Park,8,Low,68
+RE018,459 Juniper Lane,Minneapolis,MN,55401,Townhouse,3,2,1550,2200,2011,365000,355000,42,2025-06-20,2025-08-01,Robert Martinez,2.0,No,Yes,1,Uptown,7,Low,88
+RE019,561 Laurel Drive,Houston,TX,77001,Single Family,5,4,3800,18000,1985,580000,560000,78,2025-02-15,2025-05-04,Lisa Thompson,2.5,Yes,Yes,3,River Oaks,9,Low,42
+RE020,672 Olive Court,Tampa,FL,33601,Condo,2,2,1250,0,2021,380000,390000,10,2025-09-01,2025-09-11,Emily Davis,2.0,Yes,Yes,1,Hyde Park,7,Medium,78
+RE021,783 Palm Avenue,Sacramento,CA,95801,Single Family,3,2,1650,5800,2007,420000,415000,38,2025-06-05,2025-07-13,James Wilson,2.5,No,Yes,2,East Sacramento,7,Medium,72
+RE022,894 Dogwood Lane,Raleigh,NC,27601,Single Family,4,3,2600,10500,2013,545000,550000,16,2025-08-01,2025-08-17,Michael Chen,2.0,No,Yes,2,North Hills,8,Low,65
+RE023,105 Beech Street,Columbus,OH,43201,Townhouse,2,1.5,1200,1500,2009,285000,280000,52,2025-05-10,2025-07-01,Sarah Johnson,2.0,No,Yes,1,Short North,6,Medium,90
+RE024,216 Ash Boulevard,Indianapolis,IN,46201,Single Family,3,2,1800,7200,1998,295000,290000,45,2025-06-25,2025-08-09,Robert Martinez,2.5,No,Yes,2,Broad Ripple,6,Medium,75
+RE025,327 Hazel Circle,San Jose,CA,95101,Condo,2,2,1100,0,2022,725000,750000,7,2025-09-10,2025-09-17,Lisa Thompson,2.0,No,Yes,1,Downtown,8,Low,94
+RE026,438 Cherry Way,Philadelphia,PA,19101,Townhouse,3,2.5,1700,2000,1915,395000,385000,58,2025-04-20,2025-06-17,Emily Davis,2.5,No,No,0,Rittenhouse,9,Medium,96
+RE027,549 Lemon Drive,Orlando,FL,32801,Single Family,4,3,2450,9000,2004,485000,495000,22,2025-07-25,2025-08-16,James Wilson,2.5,Yes,Yes,2,Winter Park,7,Low,62
+RE028,651 Orange Street,Salt Lake City,UT,84101,Single Family,4,2.5,2200,7800,2010,515000,500000,40,2025-05-30,2025-07-09,Michael Chen,2.5,No,Yes,2,Sugar House,7,Low,78
+RE029,762 Peach Lane,Kansas City,MO,64101,Townhouse,2,2,1350,1800,2017,275000,280000,18,2025-08-15,2025-09-02,Sarah Johnson,2.0,No,Yes,1,Westport,6,Medium,82
+RE030,873 Apple Court,Pittsburgh,PA,15201,Single Family,3,1.5,1550,5500,1965,265000,258000,68,2025-04-05,2025-06-12,Robert Martinez,2.5,No,Yes,1,Shadyside,7,Low,88
+RE031,984 Grape Avenue,San Antonio,TX,78201,Single Family,5,3,2900,11000,2001,425000,430000,25,2025-07-05,2025-07-30,Lisa Thompson,2.5,Yes,Yes,2,Alamo Heights,8,Low,55
+RE032,195 Berry Boulevard,Milwaukee,WI,53201,Condo,1,1,800,0,2016,195000,190000,55,2025-05-25,2025-07-19,Emily Davis,2.0,No,Yes,1,Third Ward,6,Medium,92
+RE033,306 Plum Place,Washington,DC,20001,Condo,2,2,1150,0,2018,685000,710000,9,2025-08-28,2025-09-06,James Wilson,2.0,No,No,0,Dupont Circle,9,Low,98
+RE034,417 Fig Lane,Baltimore,MD,21201,Townhouse,3,2,1600,2300,1925,320000,305000,75,2025-03-15,2025-05-29,Michael Chen,2.5,No,No,0,Federal Hill,7,High,85
+RE035,528 Pear Street,Detroit,MI,48201,Single Family,4,2,2100,8500,1955,175000,168000,88,2025-02-01,2025-04-30,Sarah Johnson,2.5,No,Yes,2,Corktown,5,High,72
+RE036,639 Melon Drive,Cleveland,OH,44101,Single Family,3,1.5,1400,6000,1978,145000,140000,62,2025-05-01,2025-07-02,Robert Martinez,2.0,No,Yes,1,Tremont,5,High,80
+RE037,741 Kiwi Court,Scottsdale,AZ,85251,Single Family,4,3.5,3100,12500,2015,985000,1000000,14,2025-08-05,2025-08-19,Lisa Thompson,2.5,Yes,Yes,3,McCormick Ranch,9,Low,45
+RE038,852 Mango Way,Honolulu,HI,96801,Condo,2,2,1050,0,2020,750000,780000,6,2025-09-02,2025-09-08,Emily Davis,2.0,Yes,Yes,1,Waikiki,8,Low,95
+RE039,963 Papaya Lane,Boise,ID,83701,Single Family,3,2,1750,6500,2019,485000,495000,12,2025-07-28,2025-08-09,James Wilson,2.5,No,Yes,2,North End,7,Low,82
+RE040,174 Guava Street,Richmond,VA,23219,Townhouse,2,1.5,1250,1600,1940,285000,275000,48,2025-06-10,2025-07-28,Michael Chen,2.0,No,No,0,The Fan,7,Medium,90
+RE041,285 Coconut Avenue,Memphis,TN,38101,Single Family,4,2,2000,8200,1992,225000,218000,58,2025-04-25,2025-06-22,Sarah Johnson,2.5,No,Yes,2,Midtown,6,High,68
+RE042,396 Banana Boulevard,Louisville,KY,40201,Single Family,3,2,1650,5800,2003,295000,300000,28,2025-07-15,2025-08-12,Robert Martinez,2.0,No,Yes,2,Highlands,7,Medium,85
+RE043,507 Avocado Circle,Albuquerque,NM,87101,Single Family,4,2.5,2350,9500,1998,365000,355000,42,2025-05-20,2025-07-01,Lisa Thompson,2.5,Yes,Yes,2,Nob Hill,6,Medium,72
+RE044,618 Lime Place,Oklahoma City,OK,73101,Single Family,3,2,1550,7000,2006,245000,250000,20,2025-08-08,2025-08-28,Emily Davis,2.0,No,Yes,2,Nichols Hills,7,Low,55
+RE045,729 Tangerine Lane,Tucson,AZ,85701,Condo,2,2,1100,0,2014,225000,220000,35,2025-06-15,2025-07-20,James Wilson,2.0,Yes,Yes,1,Downtown,6,Medium,88
+RE046,831 Apricot Way,Jacksonville,FL,32201,Single Family,5,3,2800,10500,2008,425000,435000,18,2025-08-22,2025-09-09,Michael Chen,2.5,Yes,Yes,2,San Marco,7,Medium,65
+RE047,942 Nectarine Drive,Omaha,NE,68101,Townhouse,2,1.5,1150,1500,2012,215000,210000,45,2025-05-05,2025-06-19,Sarah Johnson,2.0,No,Yes,1,Dundee,6,Low,78
+RE048,153 Raspberry Court,Virginia Beach,VA,23451,Single Family,4,2.5,2250,8800,2011,445000,450000,15,2025-08-30,2025-09-14,Robert Martinez,2.5,No,Yes,2,Oceanfront,7,Low,70
+RE049,264 Blueberry Street,Providence,RI,02901,Condo,1,1,700,0,2019,295000,290000,38,2025-06-28,2025-08-05,Lisa Thompson,2.0,No,No,0,College Hill,7,Medium,95
+RE050,375 Blackberry Avenue,Hartford,CT,06101,Townhouse,3,2,1450,2100,1985,265000,255000,65,2025-04-12,2025-06-16,Emily Davis,2.5,No,Yes,1,West End,6,Medium,82

@@ -1,0 +1,27 @@
+======================================================================
+KEY INSIGHTS FOR CLIENT PRESENTATION
+======================================================================
+
+1. STRONGEST PRICE FACTOR:
+   Income level has the biggest impact on house prices.
+   Correlation: 0.69 (very strong!)
+
+2. HOUSE SIZE MATTERS:
+   More rooms generally mean higher prices.
+   Correlation: 0.15
+
+3. AGE FACTOR:
+   House age has 0.11 correlation with price.
+
+4. MOST COMMON PRICE RANGE:
+   Moderate properties dominate the market
+   (9,184 properties)
+
+5. LOCATION PREFERENCE:
+   Most properties are in Inland areas
+   (13,497 properties)
+
+6. TYPICAL HOUSE:
+   • Age: 29 years old
+   • Rooms: 5.2 rooms
+   • Price: $180k

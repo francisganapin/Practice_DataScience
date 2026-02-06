@@ -1,0 +1,31 @@
+# Data Cleaning Problem
+
+## Objective
+Clean the `student_grades.csv` file using Pandas. The dataset now contains 200 students with college subjects and sections.
+
+## Instructions
+1.  **Load the Data**: Read the CSV file into a Pandas DataFrame.
+2.  **Inspect the Data**:
+    *   Print the first few rows.
+    *   Check the data types and look for missing values.
+3.  **Handle Missing Values**:
+    *   Identify columns with missing values (`Calculus`, `Physics`, `Programming`, `Ethics`).
+    *   Decide how to handle them (drop rows or fill with a value).
+    *   *Hint*: Look for "missing" or "N/A" strings in numeric columns too!
+4.  **Fix Data Types**:
+    *   Ensure that all subject columns are numeric.
+    *   Convert any non-numeric values to `NaN` and then handle them.
+5.  **Clean Section Column**:
+    *   The `Section` column has inconsistent capitalization (e.g., 'A' vs 'a').
+    *   Standardize all sections to uppercase.
+6.  **Remove Duplicates**:
+    *   Check for and remove any duplicate rows.
+7.  **Handle Outliers**:
+    *   Check if any grades are above 100 or below 0.
+    *   Fix or remove these invalid grades.
+8.  **Save the Cleaned Data**:
+    *   Save the cleaned DataFrame to a new CSV file named `cleaned_student_grades.csv`.
+
+## Bonus
+*   Calculate the average grade for each student across all subjects and add it as a new column named `Average`.
+*   Find the section with the highest average grade.

@@ -1,0 +1,164 @@
+================================================================================
+         PANDAS CHEAT SHEET FOR REAL ESTATE DATA ANALYSIS
+================================================================================
+
+== IMPORTING & LOADING DATA ==
+
+import pandas as pd
+import numpy as np
+
+df = pd.read_csv('real_estate_data.csv')    # Load CSV
+df.head()                                    # First 5 rows
+df.tail()                                    # Last 5 rows
+df.shape                                     # (rows, columns)
+df.info()                                    # Data types & memory
+df.describe()                                # Statistical summary
+
+--------------------------------------------------------------------------------
+
+== SELECTING & FILTERING DATA ==
+
+df['price']                                  # Select single column
+df[['price', 'bedrooms', 'city']]           # Select multiple columns
+
+# Filtering
+df[df['price'] > 500000]                    # Filter by condition
+df[df['city'] == 'Los Angeles']             # Filter by exact match
+df[(df['price'] > 400000) & (df['bedrooms'] >= 3)]   # Multiple AND
+df[(df['state'] == 'CA') | (df['state'] == 'TX')]    # Multiple OR
+df[df['city'].isin(['Seattle', 'Portland'])]         # Filter using isin
+df[df['sale_date'].isna()]                  # Filter null values
+df[df['sale_date'].notna()]                 # Filter not null
+
+--------------------------------------------------------------------------------
+
+== SORTING DATA ==
+
+df.sort_values('price')                      # Ascending
+df.sort_values('price', ascending=False)     # Descending
+df.sort_values(['state', 'price'], ascending=[True, False])  # Multiple
+
+--------------------------------------------------------------------------------
+
+== GROUPING & AGGREGATION ==
+
+df.groupby('city')['price'].mean()           # Average price by city
+df.groupby(['state', 'property_type'])['price'].mean()  # Multi-group
+
+# Multiple aggregations
+df.groupby('state').agg({
+    'price': ['mean', 'min', 'max', 'count'],
+    'sqft': 'mean',
+    'bedrooms': 'sum'
+})
+
+# Aggregation functions: count(), sum(), mean(), median(), min(), 
+#                        max(), std(), var()
+
+--------------------------------------------------------------------------------
+
+== CREATING & MODIFYING COLUMNS ==
+
+df['price_per_sqft'] = df['price'] / df['sqft']    # New column
+
+# Conditional column
+df['price_category'] = np.where(df['price'] > 500000, 'High', 'Low')
+
+# Multiple conditions
+conditions = [df['price'] < 300000, df['price'] < 500000, df['price'] >= 500000]
+choices = ['Budget', 'Mid-Range', 'Luxury']
+df['tier'] = np.select(conditions, choices)
+
+# Apply function
+df['city_upper'] = df['city'].apply(lambda x: x.upper())
+
+--------------------------------------------------------------------------------
+
+== HANDLING MISSING VALUES ==
+
+df.isnull().sum()                            # Count missing
+df.dropna()                                  # Drop rows with missing
+df.dropna(subset=['sale_date'])              # Drop if specific col missing
+df['sale_date'].fillna('Not Sold')           # Fill with value
+df['price'].fillna(df['price'].mean())       # Fill with mean
+
+--------------------------------------------------------------------------------
+
+== STRING OPERATIONS ==
+
+df['city'].str.lower()                       # Lowercase
+df['city'].str.upper()                       # Uppercase
+df['city'].str.contains('Los')               # Contains substring
+df['address'].str.split(' ')                 # Split by delimiter
+df['city'].str.len()                         # String length
+df['city'].str.replace('Los', 'Las')         # Replace text
+
+--------------------------------------------------------------------------------
+
+== DATE OPERATIONS ==
+
+df['sale_date'] = pd.to_datetime(df['sale_date'])   # Convert to datetime
+df['sale_year'] = df['sale_date'].dt.year           # Extract year
+df['sale_month'] = df['sale_date'].dt.month         # Extract month
+df['sale_day'] = df['sale_date'].dt.day             # Extract day
+df['day_of_week'] = df['sale_date'].dt.dayofweek    # Day of week (0-6)
+
+--------------------------------------------------------------------------------
+
+== STATISTICAL FUNCTIONS ==
+
+df['price'].mean()          # Average
+df['price'].median()        # Median
+df['price'].std()           # Standard deviation
+df['price'].var()           # Variance
+df['price'].min()           # Minimum
+df['price'].max()           # Maximum
+df['price'].sum()           # Sum
+df['price'].count()         # Count non-null
+
+# Correlation
+df['price'].corr(df['sqft'])                 # Between two columns
+df[['price', 'sqft', 'bedrooms']].corr()     # Correlation matrix
+
+# Value counts
+df['property_type'].value_counts()           # Count by category
+df['state'].value_counts(normalize=True)     # Percentage
+
+--------------------------------------------------------------------------------
+
+== PIVOT TABLES ==
+
+pd.pivot_table(df, values='price', index='state', aggfunc='mean')
+
+pd.pivot_table(df, 
+               values=['price', 'sqft'], 
+               index='state', 
+               columns='property_type',
+               aggfunc={'price': 'mean', 'sqft': 'sum'})
+
+--------------------------------------------------------------------------------
+
+== USEFUL TIPS ==
+
+df.reset_index(drop=True)                    # Reset index
+df.rename(columns={'price': 'sale_price'})   # Rename columns
+df.drop(columns=['column_name'])             # Drop columns
+df.drop_duplicates()                         # Remove duplicates
+df['city'].unique()                          # Unique values
+df['city'].nunique()                         # Count unique
+
+================================================================================
+
+QUICK REFERENCE:
+================================================================================
+Load CSV           | pd.read_csv('file.csv')
+First N rows       | df.head(n)
+Filter rows        | df[df['col'] > value]
+Select columns     | df[['col1', 'col2']]
+Group by           | df.groupby('col').agg()
+Sort               | df.sort_values('col')
+New column         | df['new'] = df['a'] + df['b']
+Missing values     | df.isnull().sum()
+Value counts       | df['col'].value_counts()
+Describe stats     | df.describe()
+================================================================================

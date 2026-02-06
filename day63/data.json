@@ -1,0 +1,126 @@
+[
+    {
+        "_id": 1,
+        "name": "Maria Santos",
+        "major": "Computer Science",
+        "year": 3,
+        "isActive": true,
+        "address": {
+            "city": "Manila",
+            "zip": "1000"
+        },
+        "scores": [
+            {
+                "subject": "Math",
+                "grade": 92
+            },
+            {
+                "subject": "Science",
+                "grade": 88
+            }
+        ],
+        "hobbies": [
+            "Coding",
+            "Chess"
+        ]
+    },
+    {
+        "_id": 2,
+        "name": "Juan Dela Cruz",
+        "major": "Business",
+        "year": 4,
+        "isActive": false,
+        "address": {
+            "city": "Cebu",
+            "zip": "6000"
+        },
+        "scores": [
+            {
+                "subject": "Math",
+                "grade": 75
+            },
+            {
+                "subject": "Marketing",
+                "grade": 90
+            }
+        ],
+        "hobbies": [
+            "Basketball",
+            "Gaming"
+        ]
+    },
+    {
+        "_id": 3,
+        "name": "Anna Lee",
+        "major": "Computer Science",
+        "year": 2,
+        "isActive": true,
+        "address": {
+            "city": "Manila",
+            "zip": "1004"
+        },
+        "scores": [
+            {
+                "subject": "Math",
+                "grade": 95
+            },
+            {
+                "subject": "Science",
+                "grade": 98
+            }
+        ],
+        "hobbies": [
+            "Reading",
+            "Coding"
+        ]
+    },
+    {
+        "_id": 4,
+        "name": "Ben Yap",
+        "major": "Engineering",
+        "year": 5,
+        "isActive": true,
+        "address": {
+            "city": "Davao",
+            "zip": "8000"
+        },
+        "scores": [
+            {
+                "subject": "Math",
+                "grade": 80
+            },
+            {
+                "subject": "Physics",
+                "grade": 85
+            }
+        ],
+        "hobbies": [
+            "Swimming"
+        ]
+    },
+    {
+        "_id": 5,
+        "name": "Clara Diaz",
+        "major": "Psychology",
+        "year": 1,
+        "isActive": true,
+        "address": {
+            "city": "Quezon City",
+            "zip": "1100"
+        },
+        "scores": [
+            {
+                "subject": "Math",
+                "grade": 82
+            },
+            {
+                "subject": "Science",
+                "grade": 85
+            }
+        ],
+        "hobbies": [
+            "Painting",
+            "Reading"
+        ]
+    }
+]

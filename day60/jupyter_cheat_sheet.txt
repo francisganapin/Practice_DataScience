@@ -1,0 +1,39 @@
+# Jupyter Notebook Cheat Sheet for Teachers & Students
+
+## 1. Modes
+Jupyter has two modes:
+*   **Command Mode (Blue Border)**: Press `Esc` to enter. Used for navigating and manipulating cells.
+*   **Edit Mode (Green Border)**: Press `Enter` to enter. Used for typing code or text.
+
+## 2. Essential Shortcuts (Command Mode)
+*   `A`: Insert cell **A**bove
+*   `B`: Insert cell **B**elow
+*   `D`, `D` (press D twice): **D**elete current cell
+*   `M`: Change cell to **M**arkdown (text)
+*   `Y`: Change cell to Code
+*   `Z`: Undo cell deletion
+*   `Shift` + `Up/Down`: Select multiple cells
+
+## 3. Running Cells
+*   `Shift` + `Enter`: Run cell and select the next one (Most common!)
+*   `Ctrl` + `Enter`: Run cell and stay on it
+*   `Alt` + `Enter`: Run cell and insert a new one below
+
+## 4. Markdown Basics (Text Cells)
+Make your notebooks readable!
+*   `# Heading 1`
+*   `## Heading 2`
+*   `**Bold Text**`
+*   `*Italic Text*`
+*   `- Bullet point`
+*   `1. Numbered list`
+
+## 5. Useful Magic Commands
+*   `%timeit`: Times how long a line of code takes to run.
+*   `%pwd`: Print current working directory.
+*   `%ls`: List files in the current directory.
+*   `?function_name`: Shows the help documentation for a function (e.g., `?pd.read_csv`).
+
+## 6. Common Troubleshooting
+*   **Kernel Stuck?** Go to `Kernel` > `Restart` in the menu.
+*   **Variable not defined?** Make sure you ran the cell defining it! (Look at the number in `In [ ]`).
