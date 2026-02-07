@@ -1,0 +1,101 @@
+order_id,customer_name,product_category,product_name,quantity,unit_price,total_amount,order_date,order_time,city,region,payment_method,order_status
+1001,Maria Santos,Electronics,Wireless Earbuds,2,450,900,2025-01-05,09:23:45,Davao City,Davao Region,GCash,Delivered
+1002,Juan Dela Cruz,Fashion,Men's T-Shirt,3,299,897,2025-01-05,10:15:30,Cagayan de Oro,Northern Mindanao,COD,Delivered
+1003,Ana Reyes,Home & Living,Bedsheet Set,1,850,850,2025-01-06,14:45:12,General Santos,SOCCSKSARGEN,Credit Card,Delivered
+1004,Pedro Garcia,Electronics,Phone Case,2,150,300,2025-01-06,16:30:00,Zamboanga City,Zamboanga Peninsula,GCash,Delivered
+1005,Rosa Mendoza,Beauty,Facial Cleanser,4,125,500,2025-01-07,08:10:22,Butuan,Caraga,COD,Delivered
+1006,Carlos Ramos,Food & Beverages,Coffee Beans 500g,2,320,640,2025-01-07,11:20:15,Davao City,Davao Region,GCash,Delivered
+1007,Elena Cruz,Fashion,Women's Dress,1,599,599,2025-01-08,13:45:00,Iligan,Northern Mindanao,Credit Card,Delivered
+1008,Roberto Santos,Electronics,USB Cable,5,80,400,2025-01-08,15:30:45,Cotabato City,BARMM,COD,Delivered
+1009,Luz Fernandez,Home & Living,Throw Pillow,3,199,597,2025-01-09,09:00:00,Tagum,Davao Region,GCash,Delivered
+1010,Manuel Aquino,Beauty,Shampoo 500ml,2,189,378,2025-01-09,10:45:30,Dipolog,Zamboanga Peninsula,COD,Delivered
+1011,Carmen Villanueva,Electronics,Bluetooth Speaker,1,1250,1250,2025-01-10,14:20:00,Davao City,Davao Region,Credit Card,Delivered
+1012,Jose Reyes,Food & Beverages,Dried Mangoes,6,85,510,2025-01-10,16:00:15,Cagayan de Oro,Northern Mindanao,GCash,Delivered
+1013,Teresa Santos,Fashion,Sandals,1,450,450,2025-01-11,08:30:00,General Santos,SOCCSKSARGEN,COD,Delivered
+1014,Antonio Cruz,Home & Living,Kitchen Organizer,2,350,700,2025-01-11,11:15:45,Zamboanga City,Zamboanga Peninsula,GCash,Delivered
+1015,Gloria Mendez,Beauty,Lipstick Set,1,399,399,2025-01-12,13:00:00,Butuan,Caraga,Credit Card,Delivered
+1016,Ricardo Garcia,Electronics,Power Bank 10000mAh,1,650,650,2025-01-12,15:45:30,Davao City,Davao Region,GCash,Delivered
+1017,Josefa Ramos,Food & Beverages,Instant Noodles Pack,10,12,120,2025-01-13,09:30:00,Iligan,Northern Mindanao,COD,Delivered
+1018,Felipe Santos,Fashion,Jeans,1,799,799,2025-01-13,12:00:15,Cotabato City,BARMM,Credit Card,Delivered
+1019,Esperanza Cruz,Home & Living,Wall Clock,1,450,450,2025-01-14,14:30:00,Tagum,Davao Region,GCash,Delivered
+1020,Miguel Fernandez,Beauty,Perfume 50ml,1,550,550,2025-01-14,16:15:45,Dipolog,Zamboanga Peninsula,COD,Delivered
+1021,Luisa Aquino,Electronics,Mouse Wireless,1,350,350,2025-01-15,08:00:00,Davao City,Davao Region,GCash,Delivered
+1022,Ramon Villanueva,Food & Beverages,Chocolate Bar Pack,5,45,225,2025-01-15,10:30:30,Cagayan de Oro,Northern Mindanao,COD,Delivered
+1023,Remedios Reyes,Fashion,Cap,2,199,398,2025-01-16,13:15:00,General Santos,SOCCSKSARGEN,GCash,Delivered
+1024,Benjamin Santos,Home & Living,Storage Box,3,250,750,2025-01-16,15:00:15,Zamboanga City,Zamboanga Peninsula,Credit Card,Delivered
+1025,Consuelo Cruz,Beauty,Face Mask Pack,4,75,300,2025-01-17,09:45:00,Butuan,Caraga,COD,Delivered
+1026,Eduardo Mendez,Electronics,Webcam HD,1,890,890,2025-01-17,11:30:45,Davao City,Davao Region,GCash,Delivered
+1027,Magdalena Garcia,Food & Beverages,Rice 5kg,2,280,560,2025-01-18,14:00:00,Iligan,Northern Mindanao,COD,Delivered
+1028,Fernando Ramos,Fashion,Polo Shirt,2,399,798,2025-01-18,16:45:30,Cotabato City,BARMM,Credit Card,Delivered
+1029,Dolores Santos,Home & Living,LED Lamp,1,320,320,2025-01-19,08:15:00,Tagum,Davao Region,GCash,Delivered
+1030,Gregorio Cruz,Beauty,Sunscreen SPF50,2,285,570,2025-01-19,10:00:15,Dipolog,Zamboanga Peninsula,COD,Delivered
+1031,Patricia Fernandez,Electronics,Keyboard Wireless,1,550,550,2025-01-20,12:30:00,Davao City,Davao Region,GCash,Delivered
+1032,Andres Aquino,Food & Beverages,Milk Powder,3,195,585,2025-01-20,14:15:45,Cagayan de Oro,Northern Mindanao,COD,Delivered
+1033,Victoria Villanueva,Fashion,Sneakers,1,1299,1299,2025-01-21,09:00:00,General Santos,SOCCSKSARGEN,Credit Card,Delivered
+1034,Lorenzo Reyes,Home & Living,Curtain Set,1,650,650,2025-01-21,11:45:30,Zamboanga City,Zamboanga Peninsula,GCash,Delivered
+1035,Corazon Santos,Beauty,Hair Serum,1,420,420,2025-01-22,13:30:00,Butuan,Caraga,COD,Delivered
+1036,Alberto Cruz,Electronics,HDMI Cable,2,180,360,2025-01-22,15:15:15,Davao City,Davao Region,GCash,Delivered
+1037,Felisa Mendez,Food & Beverages,Cooking Oil 1L,4,145,580,2025-01-23,08:45:00,Iligan,Northern Mindanao,COD,Delivered
+1038,Domingo Garcia,Fashion,Backpack,1,699,699,2025-01-23,10:30:30,Cotabato City,BARMM,Credit Card,Delivered
+1039,Aurelia Ramos,Home & Living,Bathroom Mat,2,175,350,2025-01-24,13:00:00,Tagum,Davao Region,GCash,Delivered
+1040,Ernesto Santos,Beauty,Cologne 100ml,1,380,380,2025-01-24,14:45:45,Dipolog,Zamboanga Peninsula,COD,Delivered
+1041,Milagros Cruz,Electronics,Flash Drive 64GB,3,250,750,2025-01-25,09:15:00,Davao City,Davao Region,GCash,Delivered
+1042,Salvador Fernandez,Food & Beverages,Sugar 1kg,5,55,275,2025-01-25,11:00:30,Cagayan de Oro,Northern Mindanao,COD,Delivered
+1043,Rosario Aquino,Fashion,Wallet,1,450,450,2025-01-26,13:45:00,General Santos,SOCCSKSARGEN,Credit Card,Delivered
+1044,Oscar Villanueva,Home & Living,Picture Frame,4,120,480,2025-01-26,15:30:15,Zamboanga City,Zamboanga Peninsula,GCash,Delivered
+1045,Amparo Reyes,Beauty,Body Lotion,2,165,330,2025-01-27,08:00:00,Butuan,Caraga,COD,Delivered
+1046,Virgilio Santos,Electronics,Earphone Wired,2,120,240,2025-01-27,10:45:45,Davao City,Davao Region,GCash,Delivered
+1047,Natividad Cruz,Food & Beverages,Canned Goods Pack,8,35,280,2025-01-28,12:30:00,Iligan,Northern Mindanao,COD,Delivered
+1048,Simplicio Mendez,Fashion,Belt,1,299,299,2025-01-28,14:15:30,Cotabato City,BARMM,Credit Card,Delivered
+1049,Concepcion Garcia,Home & Living,Vase Ceramic,1,520,520,2025-01-29,09:00:00,Tagum,Davao Region,GCash,Delivered
+1050,Renato Ramos,Beauty,Deodorant,3,95,285,2025-01-29,11:45:15,Dipolog,Zamboanga Peninsula,COD,Delivered
+1051,Pilar Santos,Electronics,Screen Protector,4,75,300,2025-01-30,13:30:00,Davao City,Davao Region,GCash,Delivered
+1052,Teodoro Cruz,Food & Beverages,Bottled Water Pack,6,25,150,2025-01-30,15:15:45,Cagayan de Oro,Northern Mindanao,COD,Delivered
+1053,Lourdes Fernandez,Fashion,Scarf,1,199,199,2025-01-31,08:30:00,General Santos,SOCCSKSARGEN,Credit Card,Cancelled
+1054,Arturo Aquino,Home & Living,Desk Organizer,2,280,560,2025-01-31,10:15:30,Zamboanga City,Zamboanga Peninsula,GCash,Delivered
+1055,Leonora Villanueva,Beauty,Nail Polish Set,1,250,250,2025-02-01,12:00:00,Butuan,Caraga,COD,Delivered
+1056,Danilo Reyes,Electronics,Card Reader,1,180,180,2025-02-01,13:45:15,Davao City,Davao Region,GCash,Delivered
+1057,Rosalinda Santos,Food & Beverages,Biscuits Pack,5,45,225,2025-02-02,09:30:00,Iligan,Northern Mindanao,COD,Delivered
+1058,Marcelo Cruz,Fashion,Shorts,2,349,698,2025-02-02,11:15:45,Cotabato City,BARMM,Credit Card,Delivered
+1059,Asuncion Mendez,Home & Living,Rug Small,1,450,450,2025-02-03,13:00:00,Tagum,Davao Region,GCash,Delivered
+1060,Godofredo Garcia,Beauty,Hand Cream,3,125,375,2025-02-03,14:45:30,Dipolog,Zamboanga Peninsula,COD,Delivered
+1061,Evangelina Ramos,Electronics,Phone Stand,2,150,300,2025-02-04,08:15:00,Davao City,Davao Region,GCash,Delivered
+1062,Crisostomo Santos,Food & Beverages,Tea Bags Pack,4,85,340,2025-02-04,10:00:15,Cagayan de Oro,Northern Mindanao,COD,Delivered
+1063,Soledad Cruz,Fashion,Socks Pack,3,99,297,2025-02-05,12:45:00,General Santos,SOCCSKSARGEN,Credit Card,Delivered
+1064,Rufino Fernandez,Home & Living,Coaster Set,2,120,240,2025-02-05,14:30:45,Zamboanga City,Zamboanga Peninsula,GCash,Delivered
+1065,Presentacion Aquino,Beauty,Eye Cream,1,480,480,2025-02-06,09:00:00,Butuan,Caraga,COD,Returned
+1066,Leopoldo Villanueva,Electronics,USB Hub,1,320,320,2025-02-06,10:45:30,Davao City,Davao Region,GCash,Delivered
+1067,Adoracion Reyes,Food & Beverages,Jam Spread,3,95,285,2025-02-07,12:30:00,Iligan,Northern Mindanao,COD,Pending
+1068,Celestino Santos,Fashion,Watch Casual,1,899,899,2025-02-07,14:15:15,Cotabato City,BARMM,Credit Card,Pending
+1069,Remedios Cruz,Home & Living,Tissue Holder,2,85,170,2025-01-05,09:45:00,Tagum,Davao Region,GCash,Delivered
+1070,Alejandro Mendez,Beauty,Toner 150ml,1,295,295,2025-01-06,11:30:45,Dipolog,Zamboanga Peninsula,COD,Delivered
+1071,Visitacion Garcia,Electronics,Extension Cord,1,250,250,2025-01-07,13:15:00,Davao City,Davao Region,GCash,Delivered
+1072,Maximino Ramos,Food & Beverages,Peanut Butter,2,165,330,2025-01-08,15:00:30,Cagayan de Oro,Northern Mindanao,COD,Delivered
+1073,Encarnacion Santos,Fashion,Blouse,1,399,399,2025-01-09,08:45:00,General Santos,SOCCSKSARGEN,Credit Card,Delivered
+1074,Florencio Cruz,Home & Living,Soap Dispenser,3,95,285,2025-01-10,10:30:15,Zamboanga City,Zamboanga Peninsula,GCash,Delivered
+1075,Purificacion Fernandez,Beauty,Makeup Brush Set,1,350,350,2025-01-11,12:15:00,Butuan,Caraga,COD,Delivered
+1076,Casimiro Aquino,Electronics,Laptop Stand,1,680,680,2025-01-12,14:00:45,Davao City,Davao Region,Credit Card,Delivered
+1077,Tranquilina Villanueva,Food & Beverages,Honey 500ml,1,280,280,2025-01-13,09:30:00,Iligan,Northern Mindanao,GCash,Delivered
+1078,Victorino Reyes,Fashion,Jacket Light,1,750,750,2025-01-14,11:15:30,Cotabato City,BARMM,COD,Delivered
+1079,Patrocinia Santos,Home & Living,Trash Bin,1,280,280,2025-01-15,13:00:00,Tagum,Davao Region,Credit Card,Delivered
+1080,Eustaquio Cruz,Beauty,Face Mist,2,175,350,2025-01-16,14:45:15,Dipolog,Zamboanga Peninsula,GCash,Delivered
+1081,Filomena Mendez,Electronics,Headphones,1,450,450,2025-01-17,08:30:00,Davao City,Davao Region,COD,Delivered
+1082,Venancio Garcia,Food & Beverages,Vinegar 1L,3,45,135,2025-01-18,10:15:45,Cagayan de Oro,Northern Mindanao,GCash,Delivered
+1083,Modesta Ramos,Fashion,Maxi Skirt,1,550,550,2025-01-19,12:00:00,General Santos,SOCCSKSARGEN,Credit Card,Delivered
+1084,Ceferino Santos,Home & Living,Hangers Set,2,150,300,2025-01-20,13:45:30,Zamboanga City,Zamboanga Peninsula,COD,Delivered
+1085,Saturnina Cruz,Beauty,Lip Balm Pack,4,65,260,2025-01-21,09:15:00,Butuan,Caraga,GCash,Delivered
+1086,Aniceto Fernandez,Electronics,Monitor Stand,1,520,520,2025-01-22,11:00:15,Davao City,Davao Region,Credit Card,Delivered
+1087,Perpetua Aquino,Food & Beverages,Oatmeal Pack,3,125,375,2025-01-23,12:45:00,Iligan,Northern Mindanao,COD,Delivered
+1088,Hermogenes Villanueva,Fashion,Cardigan,1,650,650,2025-01-24,14:30:45,Cotabato City,BARMM,GCash,Delivered
+1089,Catalina Reyes,Home & Living,Doormat,1,220,220,2025-01-25,08:00:00,Tagum,Davao Region,Credit Card,Delivered
+1090,Nicanor Santos,Beauty,Body Wash,2,145,290,2025-01-26,09:45:30,Dipolog,Zamboanga Peninsula,COD,Delivered
+1091,Gregoria Cruz,Electronics,Cable Organizer,3,85,255,2025-01-27,11:30:00,Davao City,Davao Region,GCash,Delivered
+1092,Eleuterio Mendez,Food & Beverages,Cereal Box,2,195,390,2025-01-28,13:15:15,Cagayan de Oro,Northern Mindanao,Credit Card,Delivered
+1093,Bibiana Garcia,Fashion,Leggings,2,299,598,2025-01-29,15:00:00,General Santos,SOCCSKSARGEN,COD,Delivered
+1094,Emiliano Ramos,Home & Living,Cushion Cover,3,150,450,2025-01-30,08:45:45,Zamboanga City,Zamboanga Peninsula,GCash,Delivered
+1095,Anastacia Santos,Beauty,Mascara,1,320,320,2025-01-31,10:30:00,Butuan,Caraga,Credit Card,Delivered
+1096,Geronimo Cruz,Electronics,Portable Charger,1,550,550,2025-02-01,12:15:30,Davao City,Davao Region,COD,Delivered
+1097,Iluminada Fernandez,Food & Beverages,Pasta Pack,4,55,220,2025-02-02,14:00:00,Iligan,Northern Mindanao,GCash,Delivered
+1098,Policarpio Aquino,Fashion,Hoodie,1,799,799,2025-02-03,09:30:15,Cotabato City,BARMM,Credit Card,Delivered
+1099,Demetria Villanueva,Home & Living,Mirror Small,1,380,380,2025-02-04,11:15:00,Tagum,Davao Region,COD,Delivered
+1100,Teofilo Reyes,Beauty,Shaving Kit,1,450,450,2025-02-05,13:00:45,Dipolog,Zamboanga Peninsula,GCash,Delivered
