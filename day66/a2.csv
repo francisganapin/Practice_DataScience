@@ -1,0 +1,102 @@
+student_id,first_name,last_name,gender,grade_level,section,subject,score,attendance_pct,date_enrolled,date_enrolled,45825,city,remarks
+14,Isabella,  Ramos  ,Female,9,C,English,50,87,2025-06-17,2025-06-17,isabella.ramosC@school.com,Davao City,Negative score
+49,Kevin,Padilla,Male,9,C,English,50,84,2025-06-26,2025-06-26,kevin.padilla@school.com,davao city,Negative score error
+17,Rafael, Santos,male,10,D,Filipino,0,45,2025-06-18,2025-06-18,rafael.santos@school.com,Tagum City,Dropped out?
+12,Angela,Cruz,N/A,7,A,Math,56,60,2025-06-17,2025-06-17,angela.cruz@school.com,davao city,At risk
+63,Gerald,Natividad,Male,7,A,Math,58,55,2025-06-30,2025-06-30,gerald.natividad@school.com,Davao City,At risk student
+35,Mark,Dela Pena,male,7,A,Math,62,65,2025-06-23,2025-06-23,mark.delapena@school.com,Panabo City,
+67,Ronnie,Villamor,Male,7,A,Science,63,130,2025-07-01,2025-07-01,ronnie.villamor@school.com,davao city,Attendance impossible
+91,Ronnie,Villamor,Male,7,A,Science,63,67,2025-07-01,2025-07-01,ronnie.villamor@school.com,Davao City,Duplicate of row 67
+83,Raymond,Fajardo,Male,7,A,English,65,68,2025-07-05,2025-07-05,raymond.fajardo@school.com,General Santos,Below average
+53,Jomar,Dizon,Male,9,C,Science,66,69,2025-06-27,2025-06-27,jomar.dizon@school.com,General Santos,
+7,Carlos,Mendoza,Male,9,C,English,67,72.3,2025-06-16,2025-06-16,carlos.mendoza@school.com,Panabo City,Below average
+99,Jobert,Dela Rosa,,7,A,English,67,70,2025-07-09,2025-07-09,jobert.delarosa@school.com,Tagum City,Missing gender
+41,Ryan,Espinosa,Male,9,C,English,68,71,2025-06-24,2025-06-24,ryan.espinosa@school.com,Panabo City,Below average
+25,Victor,Santiago,Male,7,A,Math,69,75,2025-06-20,2025-06-20,victor.santiago@school.com, Tagum City,
+77,Joel,Lacsamana,Male,9,C,English,69,72,2025-07-03,2025-07-03,joel.lacsamana@school.com, General Santos,
+59,Vincent,Regalado,#REF!,7,A,Filipino,70,73,2025-06-29,2025-06-29,vincent.regalado@school.com,General Santos,
+97,Rodel, Magat ,male,9,C,Math,70,73,2025-07-08,2025-07-08,rodel.magat@school.com,Davao City,
+27,Roberto,Manalo,Male,8,B,Science,71,82,2025-06-21,2025-06-21,roberto.manalo@school.com,General Santos,Max score is wrong
+33,Daniel,Ocampo,Male,9,C,English,71,78,2025-06-22,2025-06-22,daniel.ocampo@school.com,tagum city,
+75,Dennis,  Resurreccion  ,Male,7,A,Math,71,74,2025-07-03,2025-07-03,dennis.resurreccion@school.com,Davao City,
+51,Aldrin,Salazar,Male,7,A,Science,72,76,2025-06-27,2025-06-27,aldrin.salazar@school.com,Davao City,
+89,Carlo,Magalona,Male,9,C,English,72,75.5,2025-07-06,2025-07-06,carlo.magalona@school.com,General Santos,
+9,Ramon,  Aquino,Male,7,A,Math,73,,2025-06-16,2025-06-16,ramon.aquino@school.com,Davao City,
+65,Jayson,Buendia,male,9,C,Filipino,73,77,2025-06-30,2025-06-30,jayson.buendia@school.com,General Santos,
+23,Marco,Tan,Male,9,C,English,74,79.5,2025-06-20,2025-06-20,marco.tan@school.com,General Santos,
+31,Ricardo,Magbanua,Male,7,A,Math,74,80.5,2025-06-22,2025-06-22,ricardo.magbanua@school.com,Davao City,
+87,Emman,Salonga,Male,7,A,Math,74,77,2025-07-06,2025-07-06,emman.salonga@school.com,Davao City,
+45,Paolo,Gutierrez,Male,9,C,English,75,,2025-06-25,2025-06-25,paolo.gutierrez@school.com,Tagum City,
+71,Marvin,De Guzman,Male,7,,Filipino,75,78.5,2025-07-02,2025-07-02,marvin.deguzman@school.com,General Santos,
+40,Samantha,Rivera,Female,8,B,Science,76,79,2025-06-24,2025-06-24,samantha.rivera@school.com,Davao City,
+62,Rachelle,Ignacio,Female,10,D,English,76,80,2025-06-29,2025-06-29,rachelle.ignacio@school.com,Tagum City,
+92,Joanne,Celestino,Female,8,B,Math,76,79,June 07 2025,June 07 2025,joanne.celestino@school.com,davao city,
+18,Carmen,De Leon,Female,9,C,English,77,83,June 18 2025,June 18 2025,carmen.deleon@school.com,davao city,
+47,Bryan,  Lopez  ,Male,7,A,Math,77,82,2025-06-26,2025-06-26,bryan.lopez@school.com,General Santos,
+80,Sheila,Dalisay,Female,8,B,Filipino,77,80,2025-07-04,2025-07-04,sheila.dalisay@school.com,Tagum City,
+2,maria,Santos,female,7,A,Math,78,88,2025-06-15,2025-06-15,maria.santos@school.com,davao city,
+6,Maria,Santos,Female,7,A,Math,78,88,2025-06-15,2025-06-15,maria.santos@school.com,Davao City,duplicate entry
+85,Christian,Cabrera,Male,9,C,Filipino,78,,2025-07-05,2025-07-05,christian.cabrera@school.com,davao city,
+15,Andres,Lim,Male,7,A,Math,79,120,2025-06-18,2025-06-18,andres.lim@school.com,General Santos,Attendance error
+38,Denise,Tolentino,Female,10,D,Filipino,79,81,2025-06-23,2025-06-23,denise.tolentino@school.com,davao city,
+56,Michelle,Dela Torre,Femal,8,B,Math,79,82,2025-06-28,2025-06-28,michelle.delatorre@school.com,Tagum City,Gender typo
+29,Antonio,  Cruz  ,Male,7,A,Math,80,87.3,2025-06-21,2025-06-21,antonio.cruz@school.com,Panabo City,
+69,Francis,Lacson,Male,9,C,Math,80,84,2025-07-01,2025-07-01,francis.lacson@school.com,Davao City,
+98,Hazel,Cunanan,Female,10,D,Filipino,80,83.5,2025-07-08,2025-07-08,hazel.cunanan@school.com,davao city,
+10,Sofia,Bautista,Female,9,C,English,81,85.5,2025-06-16,2025-06-16,sofia.bautista@school.com,General Santos,
+50,Julia,Mercado,Female,10,D,Filipino,81,83,June 26 2025,June 26 2025,julia.mercado@school.com,Tagum City,
+88,Rina,  Arevalo  ,Female,8,B,Science,81,84,2025-07-06,2025-07-06,rina.arevalo@school.com,Panabo City,
+19,Luis,Navarro,Female,7,A,Math,82,88.9,2025-06-19,2025-06-19,luis.navarro@school.com,Davao City,
+44,Hannah,Valdez,Female,8,B,Science,82,87,2025-06-25,2025-06-25,hannah.valdez@school.com,davao city,
+73,Glenn,Oliveros,Male,9,C,Science,82,85,2025-07-02,2025-07-02,glenn.oliveros@school.com,davao city,
+37,Kenneth,Rosal,Male,9,,English,83,86,2025-06-23,2025-06-23,kenneth.rosal@school.com,General Santos,
+60,Janelle,Corpuz,Female,8,B,Math,83,85,2025-06-29,2025-06-29,janelle.corpuz@school.com,Davao City,
+93,Edgar,Marasigan,Male,9,C,Science,83,86,2025-07-07,2025-07-07,edgar.marasigan@school.com,Tagum City,
+16,Patricia,Gonzales,Female,8,B,Science,84,91.5,2025-06-18,2025-06-18,patricia.gonzales@school.com,Davao City,
+55,Rex,Mangubat,Male,7,A,Filipino,84,87.5,2025-06-28,2025-06-28,rex.mangubat@school.com,davao city,
+78,Lovely,Pimentel,Female,10,D,Math,84,86.5,2025-06-03,2025-06-03,lovely.pimentel@school.com,Davao City,
+1,Juan,Dela Cruz,Male,7,A,Math,85,92.5,2025-06-15,2025-06-15,juan.delacruz@school.com,Davao City,Good student
+68,Dianne,Coronel,Female,8,B,Filipino,85,88,2025-07-01,2025-07-01,dianne.coronel@school.com,Tagum City,
+96,Janine,Bello,Female,8,B,Science,85,88,2025-07-08,2025-07-08,janine.bello@school.com,General Santos,
+24,Rosario,Aguilar,Femal,8,B,Science,86,90,2025-06-20,2025-06-20,rosario.aguilar@school.com,Davao City,Typo in gender
+86,Donna,Panganiban,Female,10,D,English,86,88,2025-07-05,2025-07-05,donna.panganiban@school.com,Tagum City,Max score error
+30,Bianca,Reyes,Female,8,B,Science,87,91,2025-06-21,2025-06-21,bianca.reyes@school.com,davao city,
+42,Karina,Lumaban,female,10,D,Filipino,87,89.5,2025-06-24,2025-06-24,karina.lumaban@school.com,General Santos,
+61,Darwin, Sarmiento ,Male,9,C,Science,87,89,2025-06-29,2025-06-29,darwin.sarmiento@school.com,davao city,
+74,Marian,Galang,N/A,10,D,Filipino,87,89,2025-07-02,2025-07-02,marian.galang@school.com,Tagum City,Invalid gender
+5,Pedro,Garcia,male,8,B,Science,88,91,2025-06-15,2025-06-15,pedro.garcia@school.com,Tagum City,
+13,Diego,Villanueva,Male,10,D,Filipino,88,90.1,2025-06-17,2025-06-17,diego.villanueva@school.com,Panabo City,
+21, Juan ,Dela Cruz,Male,7,A,Science,88,92.5,2025-06-15,2025-06-15,juan.delacruz@school.com,Davao City,Good student
+52,Nicole,Pangilinan,female,8,B,Math,88,90,2025-06-27,2025-06-27,nicole.pangilinan@school.com,Panabo City,
+84,Mae,Laurel,Female,8,B,Math,88,90.5,2025-07-05,2025-07-05,mae.laurel@school.com,Davao City,
+32,Camille, Tan ,Female,8,B,Science,89,92,2025-06-22,2025-06-22,camille.tan@school.com,General Santos,
+70,Bernadette,Sikat,Female,10,D,Science,89,91,July 01 2025,,bernadette.sikat@school.com,Panabo City,
+100,Mylene,Pagaduan,Female,8,B,Math,89,91,2025-07-09,2025-07-09,mylene.pagaduan@school.com,Davao City,
+11,Miguel,Torres,Male,8,,Science,90,93.2,2025-06-17,2025-06-17,miguel.torres@school.com,Tagum City,Honor student
+54,Alyssa,Capacillo,Female,10,,English,90,91.5,2025-06-27,2025-06-27,alyssa.capacillo@school.com,Davao City,
+79,Arnold,Cunanan,Male,7,A,Science,90,92,2025-07-04,2025-07-04,arnold.cunanan@school.com,davao city,
+20,Teresa,Morales,Female,8,B,Science,91,94,2025-06-19,2025-06-19,teresa.morales@school.com,General Santos,Top performer
+39,Jerome, Castillo,Male,7,A,Math,91,93,2025-06-24,2025-06-24,jerome.castillo@school.com,Tagum City,
+64,April,Manansala,Female,8,B,Science,91,93,2025-06-30,2025-06-30,april.manansala@school.com,Panabo City,
+82,Ivy,Mendez,Female,10,D,Science,91,93,2025-07-04,2025-07-04,ivy.mendez@school.com,Panabo City,
+3,Jose, Rizal ,Male,8,B,Science,92,95,2025-06-15,2025-06-15,jose.rizal@school.com,General Santos,Excellent
+58,Erica,Macaraeg,Female,10,D,English,92,94,2025-06-28,2025-06-28,erica.macaraeg@school.com,Panabo City,
+26,Grace,Dimaculangan,Female,10,D,Filipino,93,96,2025-06-20,2025-06-20,grace.dimaculangan@school.com,Davao City,Class valedictorian
+76,Cherry,Batungbakal,Female,8,B,Science,93,95,2025-07-03,2025-07-03,cherry.batungbakal@school.com,Panabo City,Honor student
+48,Trisha,Enriquez,Female,8,B,Science,94,95.5,2025-06-26,2025-06-26,trisha.enriquez@school.com,Davao City,Honor student
+90,Althea,Villegas,female,10,D,Filipino,94,96,2025-07-06,2025-07-06,althea.villegas@school.com,Davao City,Outstanding
+34,Angelica,Soriano,Female,10,D,Filipino,95,97,2025-06-22,2025-06-22,angelica.soriano@school.com,Davao City,Outstanding
+66,Cristina,Alcantara,Female,10,D,Math,96,97.5,2025-06-30,2025-06-30,cristina.alcantara@school.com,Davao City,Top performer
+8,Liza,Fernandez,Female,8,B,Science,100,89,2025-06-16,2025-06-16,liza.fernandez@school.com,Davao City,Score error?
+94,Precious,Abad,Female,10,D,English,100,91,2025-07-07,2025-07-07,precious.abad@school.com,Davao City,Score exceeds max
+43,Jericho,Magsaysay,Male,7,A,Math,100,94,2025-06-25,2025-06-25,jericho.magsaysay@school.com,Davao City,Score exceeds max
+22,Elena,Pascual,Female,10,D,Filipino,50,70.2,2025-06-19,2025-06-19,elena.pascual@school.com,Panabo City,Was absent during exam
+46,Katrina,Domingo,Female,10,D,Filipino,50,68,2025-06-25,2025-06-25,katrina.domingo@school.com,Panabo City,Absent during exam
+81,Philip,Guevarra,male,9,C,Math,50,60,2025-07-04,2025-07-04,philip.guevarra@school.com,Davao City,Absent during exam
+28,Jasmine,Flores,Female,9,C,English,50,85,2025-06-21,2025-06-21,jasmine.flores@school.com,Davao City,
+57,Lance,Borja,Male,9,C,Science,50,88,2025-06-28,2025-06-28,lance.borja@school.com,Davao City,
+4,Ana,Reyes,Female,7,A,Math,50,76.5,2025-06-15,2025-06-15,ana.reyes@school.com,Davao City,Needs improvement
+36,Christine,Velasco,Female,8,B,Science,50,88.5,2025-06-23,2025-06-23,christine.velasco@school.com,Davao City,
+72,Stephanie,Macapagal,Female,8,B,Math,50,86,2025-07-02,2025-07-02,stephanie.macapagal@school.com,Davao City,
+95,Nelson,Tiangco,Male,7,A,Filipino,50,81,2025-07-08,2025-07-08,nelson.tiangco@school.com,Panabo City,
+,,,,,,,,,,#VALUE!,,,
