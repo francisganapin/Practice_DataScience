@@ -1,0 +1,51 @@
+Name,Email,Financial Status,Fulfillment Status,Total,Subtotal,Shipping,Discount Amount,Created at,Billing City,Billing Province,Billing Country,Shipping City,Shipping Province,Shipping Country,Payment Method,Lineitem quantity,Lineitem price
+#1001,maria.santos@gmail.com,paid,fulfilled,1250.00,1100.00,150.00,0.00,2026-01-02 10:23:00,Davao City,Davao del Sur,PH,Davao City,Davao del Sur,PH,Credit Card,2,550.00
+#1002,john.reyes@yahoo.com,paid,fulfilled,850.00,750.00,100.00,0.00,2026-01-02 14:15:00,Cebu City,Cebu,PH,Cebu City,Cebu,PH,Credit Card,1,750.00
+#1003,anna.cruz@gmail.com,paid,fulfilled,2100.00,1950.00,150.00,0.00,2026-01-03 09:45:00,Manila,Metro Manila,PH,Manila,Metro Manila,PH,PayPal,3,650.00
+#1004,fakeemail001@tempmail.com,paid,unfulfilled,18500.00,18000.00,500.00,0.00,2026-01-03 02:13:00,Manila,Metro Manila,PH,Cagayan de Oro,Misamis Oriental,PH,Credit Card,10,1800.00
+#1005,pedro.garcia@gmail.com,paid,fulfilled,1500.00,1350.00,150.00,0.00,2026-01-04 11:30:00,Zamboanga City,Zamboanga del Sur,PH,Zamboanga City,Zamboanga del Sur,PH,GCash,2,675.00
+#1006,lisa.fernandez@outlook.com,paid,fulfilled,950.00,800.00,150.00,0.00,2026-01-04 16:20:00,Iloilo City,Iloilo,PH,Iloilo City,Iloilo,PH,Credit Card,1,800.00
+#1007,fakeemail001@tempmail.com,paid,unfulfilled,22000.00,21500.00,500.00,0.00,2026-01-04 03:05:00,Quezon City,Metro Manila,PH,General Santos,South Cotabato,PH,Credit Card,12,1791.67
+#1008,mark.villanueva@gmail.com,paid,fulfilled,750.00,650.00,100.00,0.00,2026-01-05 13:10:00,Butuan,Agusan del Norte,PH,Butuan,Agusan del Norte,PH,GCash,1,650.00
+#1009,rosa.delacosta@yahoo.com,paid,fulfilled,1800.00,1600.00,200.00,0.00,2026-01-05 10:00:00,Taguig,Metro Manila,PH,Taguig,Metro Manila,PH,Credit Card,2,800.00
+#1010,carlos.mendoza@gmail.com,paid,fulfilled,1100.00,950.00,150.00,0.00,2026-01-06 15:45:00,Bacolod,Negros Occidental,PH,Bacolod,Negros Occidental,PH,PayPal,1,950.00
+#1011,suspicious.buyer99@proton.me,paid,unfulfilled,15200.00,14500.00,700.00,0.00,2026-01-06 01:30:00,Makati,Metro Manila,PH,Davao City,Davao del Sur,PH,Credit Card,8,1812.50
+#1012,elena.aquino@gmail.com,paid,fulfilled,650.00,550.00,100.00,0.00,2026-01-07 09:20:00,Antipolo,Rizal,PH,Antipolo,Rizal,PH,GCash,1,550.00
+#1013,david.tan@yahoo.com,paid,fulfilled,2200.00,2000.00,200.00,0.00,2026-01-07 12:35:00,Pasig,Metro Manila,PH,Pasig,Metro Manila,PH,Credit Card,3,666.67
+#1014,fakeemail001@tempmail.com,paid,unfulfilled,19800.00,19000.00,800.00,0.00,2026-01-07 02:48:00,Mandaluyong,Metro Manila,PH,Tagum,Davao del Norte,PH,Credit Card,11,1727.27
+#1015,grace.lim@gmail.com,paid,fulfilled,900.00,780.00,120.00,0.00,2026-01-08 14:55:00,Caloocan,Metro Manila,PH,Caloocan,Metro Manila,PH,GCash,1,780.00
+#1016,ramon.bautista@outlook.com,paid,fulfilled,1350.00,1200.00,150.00,0.00,2026-01-08 10:10:00,Paranaque,Metro Manila,PH,Paranaque,Metro Manila,PH,Credit Card,2,600.00
+#1017,jenny.lee@gmail.com,paid,fulfilled,780.00,680.00,100.00,0.00,2026-01-09 11:40:00,Lapu-Lapu,Cebu,PH,Lapu-Lapu,Cebu,PH,PayPal,1,680.00
+#1018,suspicious.buyer99@proton.me,paid,unfulfilled,16500.00,15800.00,700.00,0.00,2026-01-09 03:22:00,Pasay,Metro Manila,PH,Iligan,Lanao del Norte,PH,Credit Card,9,1755.56
+#1019,miguel.soriano@gmail.com,paid,fulfilled,1050.00,900.00,150.00,0.00,2026-01-10 08:30:00,Mandaue,Cebu,PH,Mandaue,Cebu,PH,GCash,1,900.00
+#1020,test.buyer777@mail.com,paid,unfulfilled,25000.00,24200.00,800.00,0.00,2026-01-10 04:10:00,San Juan,Metro Manila,PH,Cotabato City,Maguindanao,PH,Credit Card,15,1613.33
+#1021,sophia.navarro@yahoo.com,paid,fulfilled,1600.00,1400.00,200.00,0.00,2026-01-11 13:25:00,Valenzuela,Metro Manila,PH,Valenzuela,Metro Manila,PH,Credit Card,2,700.00
+#1022,robert.delos.santos@gmail.com,paid,fulfilled,920.00,800.00,120.00,0.00,2026-01-11 09:50:00,Las Pinas,Metro Manila,PH,Las Pinas,Metro Manila,PH,GCash,1,800.00
+#1023,fakeemail001@tempmail.com,paid,unfulfilled,21000.00,20200.00,800.00,0.00,2026-01-11 01:55:00,Marikina,Metro Manila,PH,Zamboanga City,Zamboanga del Sur,PH,Credit Card,13,1553.85
+#1024,carmen.rivera@gmail.com,paid,fulfilled,1450.00,1300.00,150.00,0.00,2026-01-12 10:15:00,Muntinlupa,Metro Manila,PH,Muntinlupa,Metro Manila,PH,PayPal,2,650.00
+#1025,discount.hunter@fakemail.net,paid,fulfilled,350.00,1200.00,150.00,1000.00,2026-01-12 16:30:00,Quezon City,Metro Manila,PH,Quezon City,Metro Manila,PH,Credit Card,2,600.00
+#1026,paolo.santos@outlook.com,paid,fulfilled,1150.00,1000.00,150.00,0.00,2026-01-13 11:05:00,Malabon,Metro Manila,PH,Malabon,Metro Manila,PH,Credit Card,1,1000.00
+#1027,nina.castro@gmail.com,paid,fulfilled,850.00,750.00,100.00,0.00,2026-01-13 14:40:00,Navotas,Metro Manila,PH,Navotas,Metro Manila,PH,GCash,1,750.00
+#1028,suspicious.buyer99@proton.me,paid,unfulfilled,17800.00,17000.00,800.00,0.00,2026-01-13 02:05:00,Taguig,Metro Manila,PH,Butuan,Agusan del Norte,PH,Credit Card,10,1700.00
+#1029,discount.hunter@fakemail.net,paid,fulfilled,200.00,1500.00,100.00,1400.00,2026-01-14 12:20:00,Manila,Metro Manila,PH,Manila,Metro Manila,PH,Credit Card,3,500.00
+#1030,rico.gonzales@yahoo.com,paid,fulfilled,1300.00,1150.00,150.00,0.00,2026-01-14 09:35:00,San Fernando,Pampanga,PH,San Fernando,Pampanga,PH,Credit Card,2,575.00
+#1031,andrea.lopez@gmail.com,paid,fulfilled,700.00,600.00,100.00,0.00,2026-01-15 15:50:00,Angeles,Pampanga,PH,Angeles,Pampanga,PH,GCash,1,600.00
+#1032,test.buyer777@mail.com,paid,unfulfilled,23500.00,22800.00,700.00,0.00,2026-01-15 03:40:00,Makati,Metro Manila,PH,Pagadian,Zamboanga del Sur,PH,Credit Card,14,1628.57
+#1033,diana.reyes@outlook.com,paid,fulfilled,980.00,850.00,130.00,0.00,2026-01-16 10:55:00,Baguio,Benguet,PH,Baguio,Benguet,PH,PayPal,1,850.00
+#1034,jose.hernandez@gmail.com,paid,fulfilled,1750.00,1550.00,200.00,0.00,2026-01-16 13:15:00,Olongapo,Zambales,PH,Olongapo,Zambales,PH,Credit Card,2,775.00
+#1035,fakeemail001@tempmail.com,paid,unfulfilled,20500.00,19700.00,800.00,0.00,2026-01-16 01:20:00,Pasig,Metro Manila,PH,Surigao City,Surigao del Norte,PH,Credit Card,12,1641.67
+#1036,rachel.dimaculangan@yahoo.com,paid,fulfilled,1100.00,950.00,150.00,0.00,2026-01-17 08:45:00,Lipa,Batangas,PH,Lipa,Batangas,PH,GCash,1,950.00
+#1037,kevin.ramos@gmail.com,paid,fulfilled,1550.00,1400.00,150.00,0.00,2026-01-17 14:30:00,Batangas City,Batangas,PH,Batangas City,Batangas,PH,Credit Card,2,700.00
+#1038,discount.hunter@fakemail.net,paid,fulfilled,150.00,1800.00,150.00,1800.00,2026-01-17 11:10:00,Cebu City,Cebu,PH,Cebu City,Cebu,PH,Credit Card,3,600.00
+#1039,suspicious.buyer99@proton.me,paid,unfulfilled,19000.00,18200.00,800.00,0.00,2026-01-18 02:35:00,Mandaluyong,Metro Manila,PH,Ozamiz,Misamis Occidental,PH,Credit Card,11,1654.55
+#1040,michelle.santos@gmail.com,paid,fulfilled,880.00,780.00,100.00,0.00,2026-01-18 09:20:00,Lucena,Quezon,PH,Lucena,Quezon,PH,GCash,1,780.00
+#1041,benjamin.cruz@yahoo.com,paid,fulfilled,1200.00,1050.00,150.00,0.00,2026-01-19 12:00:00,Naga,Camarines Sur,PH,Naga,Camarines Sur,PH,PayPal,2,525.00
+#1042,clara.villanueva@gmail.com,paid,fulfilled,950.00,830.00,120.00,0.00,2026-01-19 15:35:00,Legazpi,Albay,PH,Legazpi,Albay,PH,Credit Card,1,830.00
+#1043,test.buyer777@mail.com,paid,unfulfilled,26000.00,25200.00,800.00,0.00,2026-01-19 04:50:00,San Juan,Metro Manila,PH,Dipolog,Zamboanga del Norte,PH,Credit Card,16,1575.00
+#1044,daniel.abella@outlook.com,paid,fulfilled,1400.00,1250.00,150.00,0.00,2026-01-20 10:40:00,Tacloban,Leyte,PH,Tacloban,Leyte,PH,Credit Card,2,625.00
+#1045,patricia.go@gmail.com,paid,fulfilled,680.00,580.00,100.00,0.00,2026-01-20 16:15:00,Ormoc,Leyte,PH,Ormoc,Leyte,PH,GCash,1,580.00
+#1046,discount.hunter@fakemail.net,paid,fulfilled,100.00,2000.00,100.00,2000.00,2026-01-20 13:55:00,Davao City,Davao del Sur,PH,Davao City,Davao del Sur,PH,Credit Card,4,500.00
+#1047,arnold.pangilinan@yahoo.com,paid,fulfilled,1650.00,1500.00,150.00,0.00,2026-01-21 09:10:00,Puerto Princesa,Palawan,PH,Puerto Princesa,Palawan,PH,Credit Card,2,750.00
+#1048,victoria.chua@gmail.com,paid,fulfilled,820.00,720.00,100.00,0.00,2026-01-21 11:50:00,Dumaguete,Negros Oriental,PH,Dumaguete,Negros Oriental,PH,PayPal,1,720.00
+#1049,fakeemail001@tempmail.com,paid,unfulfilled,24000.00,23200.00,800.00,0.00,2026-01-21 01:45:00,Quezon City,Metro Manila,PH,Valencia,Bukidnon,PH,Credit Card,14,1657.14
+#1050,tony.marquez@gmail.com,paid,fulfilled,1050.00,900.00,150.00,0.00,2026-01-22 14:25:00,Tagaytay,Cavite,PH,Tagaytay,Cavite,PH,GCash,1,900.00
