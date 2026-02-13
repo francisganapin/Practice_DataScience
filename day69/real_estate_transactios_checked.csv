@@ -1,0 +1,201 @@
+,txn_id,date,city,property_type,agent,listed_price,sold_price,appraised_value,days_on_market,buyer_city,buyer_txn_count,price_ratio,flag_price_flip,value_ratio,flag_undervalue,zscore_sold,flag_zscore_outlier,sold_speed,flag_volume,fraud_score
+0,TXN-0001,2025-11-24,Manila,Condo,Agent_F,3650175.91,3224863.29,3822808.22,169,Makati,1,0.8835,False,0.8436,False,-0.6607,False,slow,False,0
+1,TXN-0002,2025-02-17,Cebu,House & Lot,Agent_E,10224224.75,9551335.39,10665951.36,169,Cebu,1,0.9342,False,0.8955,False,0.5048,False,slow,False,0
+2,TXN-0003,2025-05-23,Manila,House & Lot,Agent_F,8071372.78,7197087.34,7611811.03,116,Makati,1,0.8917,False,0.9455,False,-0.2255,False,slow,False,0
+3,TXN-0004,2025-06-26,Quezon City,Townhouse,Agent_A,7972988.4,7418341.19,8727417.7,126,Davao,2,0.9304,False,0.85,False,0.8243,False,slow,False,0
+4,TXN-0005,2025-11-13,Davao,Commercial,Agent_B,22614295.91,19377594.45,21383618.13,104,Davao,2,0.8569,False,0.9062,False,0.3265,False,average,False,0
+5,TXN-0006,2025-02-21,Makati,Townhouse,Agent_D,7267633.33,6575208.31,7078937.9,83,Makati,2,0.9047,False,0.9288,False,0.4378,False,average,False,0
+6,TXN-0007,2025-12-16,Taguig,Condo,Agent_E,5809869.73,5403881.74,5513346.67,148,Taguig,3,0.9301,False,0.9801,False,0.2141,False,slow,False,0
+7,TXN-0008,2025-11-24,Taguig,Commercial,Agent_B,22115356.27,21594048.4,23336123.54,88,Taguig,2,0.9764,False,0.9253,False,0.6726,False,average,False,0
+8,TXN-0009,2025-07-25,Davao,Condo,Agent_B,7478816.75,6993269.59,7804764.93,84,Davao,1,0.9351,False,0.896,False,0.8521,False,average,False,0
+9,TXN-0010,2025-11-26,Makati,House & Lot,Agent_C,4675563.83,4496715.79,4712011.99,179,Makati,1,0.9617,False,0.9543,False,-1.0631,False,slow,False,0
+10,TXN-0011,2025-07-05,Cebu,House & Lot,Agent_E,8922190.02,8595346.32,9566555.78,69,Cebu,2,0.9634,False,0.8985,False,0.2083,False,fast,False,0
+11,TXN-0012,2025-08-05,Quezon City,Condo,Agent_D,4289715.72,4287219.99,4314694.17,171,Quezon City,1,0.9994,False,0.9936,False,-0.2342,False,slow,False,0
+12,TXN-0013,2025-02-28,Taguig,Commercial,Agent_C,24214968.32,21818323.82,23214890.75,70,Taguig,3,0.901,False,0.9398,False,0.7077,False,fast,False,0
+13,TXN-0014,2025-05-15,Quezon City,House & Lot,Agent_E,13951534.07,13680564.38,13389133.2,159,Quezon City,1,0.9806,False,1.0218,False,1.7857,False,slow,False,0
+14,TXN-0015,2025-03-24,Quezon City,Commercial,Agent_A,19973614.61,18441455.73,18423133.72,122,Quezon City,2,0.9233,False,1.001,False,0.1803,False,slow,False,0
+15,TXN-0016,2025-06-07,Cebu,Condo,Agent_B,7268057.6,7210221.43,6665758.68,154,Cebu,3,0.992,False,1.0817,False,0.9392,False,slow,False,0
+16,TXN-0017,2025-09-30,Cebu,House & Lot,Agent_F,8703388.54,8115653.4,8294427.85,138,Cebu,3,0.9325,False,0.9784,False,0.0595,False,slow,False,0
+17,TXN-0018,2025-12-20,Cebu,Townhouse,Agent_D,9963620.17,9440347.86,9840270.72,162,Cebu,1,0.9475,False,0.9594,False,1.7512,False,slow,False,0
+18,TXN-0019,2025-02-02,Davao,Condo,Agent_E,5323529.13,4994886.47,4798832.35,45,Manila,2,0.9383,False,1.0409,False,0.0499,False,fast,False,0
+19,TXN-0020,2025-02-06,Quezon City,House & Lot,Agent_C,11027733.34,9727955.3,10216779.96,176,Quezon City,1,0.8821,False,0.9522,False,0.5596,False,slow,False,0
+20,TXN-0021,2025-08-31,Makati,House & Lot,Agent_A,4163169.77,3807875.19,4099538.74,149,Makati,1,0.9147,False,0.9289,False,-1.2767,False,slow,False,0
+21,TXN-0022,2025-12-01,Taguig,Condo,Agent_A,4415727.69,3978108.72,4735137.18,93,Quezon City,1,0.9009,False,0.8401,False,-0.3583,False,average,False,0
+22,TXN-0023,2025-08-05,Cebu,Townhouse,Agent_D,4373548.36,4323208.12,4323804.27,170,Taguig,3,0.9885,False,0.9999,False,-0.5946,False,slow,False,0
+23,TXN-0024,2025-01-08,Manila,House & Lot,Agent_B,7876968.7,7264170.17,8451436.65,45,Manila,3,0.9222,False,0.8595,False,-0.2046,False,fast,False,0
+24,TXN-0025,2025-05-16,Makati,Townhouse,Agent_D,7724436.28,7412182.1,8162197.89,154,Davao,1,0.9596,False,0.9081,False,0.8215,False,slow,False,0
+25,TXN-0026,2025-01-30,Quezon City,Commercial,Agent_A,23699389.01,20347697.96,24098380.52,158,Quezon City,1,0.8586,False,0.8444,False,0.478,False,slow,False,0
+26,TXN-0027,2025-01-30,Quezon City,Condo,Agent_B,2411128.0,2074038.15,2585606.48,133,Quezon City,1,0.8602,False,0.8021,False,-1.1226,False,slow,False,0
+27,TXN-0028,2025-11-01,Manila,Commercial,Agent_A,15480622.88,14513871.04,15551161.01,96,Taguig,1,0.9376,False,0.9333,False,-0.4331,False,average,False,0
+28,TXN-0029,2025-05-16,Makati,House & Lot,Agent_F,10746009.47,9871108.99,11668056.48,48,Quezon City,3,0.9186,False,0.846,False,0.604,False,fast,False,0
+29,TXN-0030,2025-02-21,Manila,Commercial,Agent_B,17647117.35,15350671.24,17114205.59,47,Manila,1,0.8699,False,0.897,False,-0.3024,False,fast,False,0
+30,TXN-0031,2025-03-22,Makati,Commercial,Agent_F,12562928.57,12532501.11,13334543.5,165,Quezon City,1,0.9976,False,0.9399,False,-0.7425,False,slow,False,0
+31,TXN-0032,2025-12-06,Manila,House & Lot,Agent_C,4385144.05,3797777.67,4431822.72,99,Cebu,2,0.8661,False,0.8569,False,-1.2799,False,average,False,0
+32,TXN-0033,2025-04-15,Taguig,Townhouse,Agent_E,6163988.89,6076463.17,6590664.78,53,Taguig,2,0.9858,False,0.922,False,0.2092,False,fast,False,0
+33,TXN-0034,2025-01-23,Manila,Townhouse,Agent_B,7278350.33,6472588.11,7629502.94,171,Manila,1,0.8893,False,0.8484,False,0.3908,False,slow,False,0
+34,TXN-0035,2025-02-27,Manila,House & Lot,Agent_E,3432337.66,3107578.1,3468394.43,140,Davao,1,0.9054,False,0.896,False,-1.494,False,slow,False,0
+35,TXN-0036,2025-01-21,Davao,House & Lot,Agent_F,5994356.87,5187630.59,6330180.21,134,Davao,2,0.8654,False,0.8195,False,-0.8488,False,slow,False,0
+36,TXN-0037,2025-05-02,Cebu,House & Lot,Agent_D,3297436.34,3167137.06,3186764.79,135,Cebu,2,0.9605,False,0.9938,False,-1.4755,False,slow,False,0
+37,TXN-0038,2025-05-08,Davao,House & Lot,Agent_F,4297147.52,4214749.79,4605333.14,86,Makati,1,0.9808,False,0.9152,False,-1.1505,False,average,False,0
+38,TXN-0039,2025-04-27,Cebu,Condo,Agent_F,3158778.73,2840497.95,3388960.79,101,Cebu,1,0.8992,False,0.8382,False,-0.8149,False,average,False,0
+39,TXN-0040,2025-12-14,Quezon City,Townhouse,Agent_A,3365063.14,3350122.57,3148735.22,97,Quezon City,1,0.9956,False,1.064,False,-1.0407,False,average,False,0
+40,TXN-0041,2025-06-10,Makati,Commercial,Agent_E,7891144.6,7772191.2,7402017.96,41,Makati,1,0.9849,False,1.05,False,-1.4859,False,fast,False,0
+41,TXN-0042,2025-10-03,Taguig,House & Lot,Agent_C,8175568.8,8112871.78,8863577.02,110,Taguig,1,0.9923,False,0.9153,False,0.0586,False,average,False,0
+42,TXN-0043,2025-06-03,Quezon City,Townhouse,Agent_F,5562946.81,5064284.58,5335594.96,62,Taguig,3,0.9104,False,0.9492,False,-0.2548,False,fast,False,0
+43,TXN-0044,2025-12-13,Taguig,House & Lot,Agent_E,9829263.06,8953586.55,10485317.56,107,Makati,2,0.9109,False,0.8539,False,0.3194,False,average,False,0
+44,TXN-0045,2025-11-07,Taguig,Townhouse,Agent_D,5813395.13,5530539.07,5826386.9,73,Taguig,1,0.9513,False,0.9492,False,-0.0411,False,average,False,0
+45,TXN-0046,2025-12-06,Taguig,Commercial,Agent_C,7334680.0,7281869.93,6945749.2,109,Cebu,1,0.9928,False,1.0484,False,-1.5625,False,average,False,0
+46,TXN-0047,2025-01-24,Cebu,Vacant Lot,Agent_E,4323819.63,3722481.1,4249831.3,177,Taguig,1,0.8609,False,0.8759,False,0.8879,False,slow,False,0
+47,TXN-0048,2025-07-24,Cebu,House & Lot,Agent_F,11251468.96,11070308.76,12062566.13,57,Cebu,1,0.9839,False,0.9177,False,0.976,False,fast,False,0
+48,TXN-0049,2025-12-23,Quezon City,Vacant Lot,Agent_A,3008326.07,2971084.5,2780510.71,64,Quezon City,1,0.9876,False,1.0685,False,0.2431,False,fast,False,0
+49,TXN-0050,2025-10-14,Quezon City,Townhouse,Agent_D,7094892.42,6796134.26,7101672.53,170,Quezon City,1,0.9579,False,0.957,False,0.5391,False,slow,False,0
+50,TXN-0051,2025-09-01,Makati,Townhouse,Agent_B,8798971.66,7845134.12,9287622.26,154,Makati,1,0.8916,False,0.8447,False,1.02,False,slow,False,0
+51,TXN-0052,2025-02-09,Taguig,Townhouse,Agent_B,4537863.3,4074803.55,4574304.36,65,Makati,1,0.898,False,0.8908,False,-0.7084,False,fast,False,0
+52,TXN-0053,2025-12-28,Cebu,Condo,Agent_D,4445596.22,4140591.29,4370709.47,82,Cebu,1,0.9314,False,0.9473,False,-0.2931,False,average,False,0
+53,TXN-0054,2025-10-27,Taguig,Condo,Agent_E,4282286.17,3643730.55,4155323.92,129,Taguig,3,0.8509,False,0.8769,False,-0.4925,False,slow,False,0
+54,TXN-0055,2025-08-03,Quezon City,Commercial,Agent_E,27445283.68,25338430.6,26198912.72,154,Davao,1,0.9232,False,0.9672,False,1.2574,False,slow,False,0
+55,TXN-0056,2025-07-27,Taguig,House & Lot,Agent_D,14034499.45,13993915.84,14130281.06,130,Taguig,1,0.9971,False,0.9903,False,1.8829,False,slow,False,0
+56,TXN-0057,2025-02-12,Taguig,Vacant Lot,Agent_B,4400831.1,3860670.25,4189728.79,113,Davao,1,0.8773,False,0.9215,False,1.0064,False,slow,False,0
+57,TXN-0058,2025-07-14,Davao,Vacant Lot,Agent_C,4257099.12,3918855.67,4469123.31,43,Davao,1,0.9205,False,0.8769,False,1.0563,False,fast,False,0
+58,TXN-0059,2025-11-29,Manila,Condo,Agent_A,7697670.4,6773211.76,6959279.09,69,Makati,1,0.8799,False,0.9733,False,0.7637,False,fast,False,0
+59,TXN-0060,2025-10-16,Cebu,Vacant Lot,Agent_F,1653096.63,1496605.04,1688106.8,59,Cebu,1,0.9053,False,0.8866,False,-1.022,False,fast,False,0
+60,TXN-0061,2025-06-09,Manila,Commercial,Agent_A,28222179.21,26426388.1,30525256.64,126,Manila,2,0.9364,False,0.8657,False,1.4273,False,slow,False,0
+61,TXN-0062,2025-02-08,Quezon City,House & Lot,Agent_A,11366316.03,10175551.24,11785185.32,60,Quezon City,1,0.8952,False,0.8634,False,0.6984,False,fast,False,0
+62,TXN-0063,2025-01-22,Davao,Commercial,Agent_D,21538033.52,18530107.37,22173591.83,33,Davao,2,0.8603,False,0.8357,False,0.1941,False,fast,False,0
+63,TXN-0064,2025-02-24,Makati,Townhouse,Agent_F,9186812.61,8442321.6,8549231.55,75,Makati,3,0.919,False,0.9875,False,1.2937,False,average,False,0
+64,TXN-0065,2025-05-19,Quezon City,Commercial,Agent_D,16621844.29,16187352.43,16929264.03,112,Quezon City,2,0.9739,False,0.9562,False,-0.1717,False,slow,False,0
+65,TXN-0066,2025-02-14,Davao,Vacant Lot,Agent_B,3877143.27,3626980.09,4007561.43,116,Davao,1,0.9355,False,0.905,False,0.8059,False,slow,False,0
+66,TXN-0067,2025-04-19,Davao,Townhouse,Agent_C,4597438.66,4318940.77,4946942.7,172,Cebu,1,0.9394,False,0.8731,False,-0.5965,False,slow,False,0
+67,TXN-0068,2025-07-28,Makati,Commercial,Agent_B,22265233.49,21082625.3,22224360.47,34,Cebu,1,0.9469,False,0.9486,False,0.5928,False,fast,False,0
+68,TXN-0069,2025-05-05,Davao,Commercial,Agent_C,16831512.22,15647218.23,16580735.52,170,Davao,2,0.9296,False,0.9437,False,-0.2561,False,slow,False,0
+69,TXN-0070,2025-05-19,Davao,Townhouse,Agent_B,3404919.14,2992541.36,3145842.07,167,Davao,1,0.8789,False,0.9513,False,-1.2046,False,slow,False,0
+70,TXN-0071,2025-04-09,Cebu,Vacant Lot,Agent_C,3760632.5,3747436.64,3779162.54,102,Cebu,2,0.9965,False,0.9916,False,0.9093,False,average,False,0
+71,TXN-0072,2025-06-01,Cebu,Townhouse,Agent_B,4767006.92,4558225.24,4410990.6,41,Cebu,1,0.9562,False,1.0334,False,-0.4868,False,fast,False,0
+72,TXN-0073,2025-12-24,Cebu,Vacant Lot,Agent_A,4427238.81,4144380.9,4400141.4,142,Cebu,3,0.9361,False,0.9419,False,1.2499,False,slow,False,0
+73,TXN-0074,2025-05-10,Makati,Condo,Agent_A,4404244.65,3792549.35,4518266.76,43,Quezon City,3,0.8611,False,0.8394,False,-0.4328,False,fast,False,0
+74,TXN-0075,2025-02-13,Cebu,Condo,Agent_E,6586660.67,6197702.86,6969662.91,87,Cebu,1,0.9409,False,0.8892,False,0.5327,False,average,False,0
+75,TXN-0076,2025-08-15,Davao,Commercial,Agent_D,12634506.11,11916286.22,12911532.6,55,Davao,1,0.9432,False,0.9229,False,-0.8387,False,fast,False,0
+76,TXN-0077,2025-04-19,Davao,Condo,Agent_B,3439191.07,3208073.43,3202941.08,134,Davao,1,0.9328,False,1.0016,False,-0.6674,False,slow,False,0
+77,TXN-0078,2025-05-30,Manila,House & Lot,Agent_C,11483469.96,10971859.94,11377893.98,89,Manila,2,0.9554,False,0.9643,False,0.9454,False,average,False,0
+78,TXN-0079,2025-11-17,Quezon City,House & Lot,Agent_D,4377315.63,3868327.57,4070018.79,98,Quezon City,1,0.8837,False,0.9504,False,-1.258,False,average,False,0
+79,TXN-0080,2025-03-26,Davao,Commercial,Agent_F,25606007.53,25303315.83,25294400.08,149,Davao,1,0.9882,False,1.0004,False,1.2519,False,slow,False,0
+80,TXN-0081,2025-05-20,Quezon City,Commercial,Agent_D,15943971.59,14982637.78,17185761.09,112,Quezon City,1,0.9397,False,0.8718,False,-0.3599,False,slow,False,0
+81,TXN-0082,2025-04-28,Taguig,Commercial,Agent_E,28769656.95,28767811.74,29760953.37,98,Taguig,2,0.9999,False,0.9666,False,1.793,False,average,False,0
+82,TXN-0083,2025-03-31,Makati,Commercial,Agent_F,16055735.11,14317276.08,17651500.09,141,Makati,1,0.8917,False,0.8111,False,-0.4638,False,slow,False,0
+83,TXN-0084,2025-02-16,Makati,Townhouse,Agent_D,4999812.95,4752422.34,5357532.66,114,Makati,1,0.9505,False,0.8871,False,-0.3978,False,slow,False,0
+84,TXN-0085,2025-12-06,Makati,Commercial,Agent_A,16370647.72,14687378.0,15792023.2,133,Makati,2,0.8972,False,0.9301,False,-0.406,False,slow,False,0
+85,TXN-0086,2025-01-01,Taguig,Commercial,Agent_D,15331189.27,13462890.4,14907371.91,157,Taguig,2,0.8781,False,0.9031,False,-0.5972,False,slow,False,0
+86,TXN-0087,2025-04-15,Davao,Commercial,Agent_B,28191819.02,25815739.62,29309624.81,61,Taguig,1,0.9157,False,0.8808,False,1.3319,False,fast,False,0
+87,TXN-0088,2025-05-03,Taguig,House & Lot,Agent_C,9610068.08,8964633.91,8828210.63,59,Taguig,1,0.9328,False,1.0155,False,0.3228,False,fast,False,0
+88,TXN-0089,2025-03-20,Makati,Townhouse,Agent_E,7790587.22,7107536.2,7763319.51,150,Quezon City,1,0.9123,False,0.9155,False,0.6818,False,slow,False,0
+89,TXN-0090,2025-04-08,Quezon City,Commercial,Agent_F,26983156.38,26432809.01,25775646.12,136,Quezon City,2,0.9796,False,1.0255,False,1.4283,False,slow,False,0
+90,TXN-0091,2025-05-17,Manila,Townhouse,Agent_F,4739168.87,4445533.09,5212045.35,155,Manila,1,0.938,False,0.8529,False,-0.5385,False,slow,False,0
+91,TXN-0092,2025-09-05,Davao,Townhouse,Agent_E,8221545.08,7453500.74,8933287.95,78,Davao,1,0.9066,False,0.8344,False,0.8404,False,average,False,0
+92,TXN-0093,2025-07-16,Cebu,Vacant Lot,Agent_A,1931793.47,1779078.31,2091525.81,127,Cebu,1,0.9209,False,0.8506,False,-0.7796,False,slow,False,0
+93,TXN-0094,2025-11-30,Cebu,Vacant Lot,Agent_A,1068108.21,1062557.29,1032218.64,55,Cebu,1,0.9948,False,1.0294,False,-1.3944,False,fast,False,0
+94,TXN-0095,2025-09-27,Makati,Condo,Agent_F,2864932.5,2809467.25,3134211.4,49,Makati,3,0.9806,False,0.8964,False,-0.8274,False,fast,False,0
+95,TXN-0096,2025-06-23,Quezon City,Vacant Lot,Agent_F,861418.94,774660.99,891457.91,166,Quezon City,1,0.8993,False,0.869,False,-1.6414,False,slow,False,0
+96,TXN-0097,2025-09-07,Quezon City,Condo,Agent_E,2410524.48,2277160.17,2613456.46,88,Quezon City,1,0.9447,False,0.8713,False,-1.0411,False,average,False,0
+97,TXN-0098,2025-02-20,Taguig,Condo,Agent_D,2998188.72,2683138.79,2715727.71,113,Taguig,1,0.8949,False,0.988,False,-0.8781,False,slow,False,0
+98,TXN-0099,2025-07-11,Makati,House & Lot,Agent_B,9373995.82,8763647.54,9922411.09,73,Quezon City,2,0.9349,False,0.8832,False,0.2605,False,average,False,0
+99,TXN-0100,2025-11-14,Taguig,House & Lot,Agent_D,13953948.19,12160414.55,13845525.77,95,Taguig,1,0.8715,False,0.8783,False,1.3141,False,average,False,0
+100,TXN-0101,2025-08-27,Davao,Commercial,Agent_B,6846547.51,6790305.49,7514293.61,106,Davao,1,0.9918,False,0.9037,False,-1.6392,False,average,False,0
+101,TXN-0102,2025-05-09,Makati,Townhouse,Agent_B,9995301.74,9775408.29,9208977.88,127,Makati,1,0.978,False,1.0615,False,1.9048,False,slow,False,0
+102,TXN-0103,2025-12-25,Davao,Condo,Agent_F,4374834.45,3723923.37,4694256.34,42,Davao,2,0.8512,False,0.7933,False,-0.4603,False,fast,False,0
+103,TXN-0104,2025-05-27,Cebu,Commercial,Agent_C,10475113.47,9202594.57,9952670.96,65,Cebu,3,0.8785,False,0.9246,False,-1.2625,False,fast,False,0
+104,TXN-0105,2025-11-27,Manila,Townhouse,Agent_D,2750233.98,2488216.95,2547493.23,105,Manila,1,0.9047,False,0.9767,False,-1.4358,False,average,False,0
+105,TXN-0106,2025-04-13,Cebu,Commercial,Agent_C,18271309.34,18034203.4,19478942.83,95,Cebu,3,0.987,False,0.9258,False,0.1167,False,average,False,0
+106,TXN-0107,2025-06-01,Taguig,Townhouse,Agent_A,6012485.42,5178523.05,6318101.85,87,Taguig,2,0.8613,False,0.8196,False,-0.2025,False,average,False,0
+107,TXN-0108,2025-07-23,Quezon City,Townhouse,Agent_A,8430114.76,7183197.92,8491776.51,146,Quezon City,2,0.8521,False,0.8459,False,0.7165,False,slow,False,0
+108,TXN-0109,2025-05-15,Quezon City,Vacant Lot,Agent_F,4731313.51,4098509.39,4479439.1,36,Quezon City,3,0.8663,False,0.915,False,1.2105,False,fast,False,0
+109,TXN-0110,2025-06-17,Quezon City,House & Lot,Agent_F,3758604.49,3659295.78,4066349.73,107,Quezon City,1,0.9736,False,0.8999,False,-1.3228,False,average,False,0
+110,TXN-0111,2025-01-24,Manila,Townhouse,Agent_D,3370903.61,2983991.31,3396216.81,129,Manila,1,0.8852,False,0.8786,False,-1.2085,False,slow,False,0
+111,TXN-0112,2025-12-23,Quezon City,Vacant Lot,Agent_E,3840210.57,3353189.06,3774838.3,55,Quezon City,1,0.8732,False,0.8883,False,0.571,False,fast,False,0
+112,TXN-0113,2025-05-24,Manila,Townhouse,Agent_B,5825373.15,5782167.96,6239499.15,55,Manila,1,0.9926,False,0.9267,False,0.0742,False,fast,False,0
+113,TXN-0114,2025-11-27,Davao,Condo,Agent_D,3655288.65,3637856.69,3983541.46,146,Cebu,1,0.9952,False,0.9132,False,-0.4949,False,slow,False,0
+114,TXN-0115,2025-11-02,Manila,Condo,Agent_C,3461413.38,3007582.57,3506119.59,47,Manila,1,0.8689,False,0.8578,False,-0.7479,False,fast,False,0
+115,TXN-0116,2025-10-28,Cebu,House & Lot,Agent_C,12292422.93,11902710.88,12528392.3,100,Cebu,1,0.9683,False,0.9501,False,1.2342,False,average,False,0
+116,TXN-0117,2025-03-08,Quezon City,Townhouse,Agent_B,3324447.61,3257849.56,3079637.44,121,Quezon City,1,0.98,False,1.0579,False,-1.083,False,slow,False,0
+117,TXN-0118,2025-06-15,Manila,House & Lot,Agent_C,3628788.21,3488200.64,3647719.98,46,Manila,2,0.9613,False,0.9563,False,-1.3759,False,fast,False,0
+118,TXN-0119,2025-09-20,Quezon City,Condo,Agent_D,5023032.14,4981905.29,4564293.72,163,Quezon City,1,0.9918,False,1.0915,False,0.0447,False,slow,False,0
+119,TXN-0120,2025-01-16,Manila,Vacant Lot,Agent_D,2418231.29,2094658.1,2520958.39,143,Manila,1,0.8662,False,0.8309,False,-0.5088,False,slow,False,0
+120,TXN-0121,2025-03-17,Manila,House & Lot,Agent_C,10491809.93,9839268.7,10936983.29,127,Manila,1,0.9378,False,0.8996,False,0.5941,False,slow,False,0
+121,TXN-0122,2025-08-21,Quezon City,Commercial,Agent_D,7479461.54,7144882.13,8007201.48,171,Quezon City,1,0.9553,False,0.8923,False,-1.5839,False,slow,False,0
+122,TXN-0123,2025-08-20,Cebu,Vacant Lot,Agent_C,4223386.51,3842477.29,4417334.98,110,Cebu,1,0.9098,False,0.8699,False,0.9908,False,average,False,0
+123,TXN-0124,2025-07-11,Cebu,Vacant Lot,Agent_A,910511.55,785593.6,898106.11,125,Cebu,1,0.8628,False,0.8747,False,-1.632,False,slow,False,0
+124,TXN-0125,2025-10-28,Quezon City,Commercial,Agent_C,21750331.62,19828065.48,23375548.47,138,Quezon City,2,0.9116,False,0.8482,False,0.3968,False,slow,False,0
+125,TXN-0126,2025-05-28,Quezon City,Townhouse,Agent_C,3277004.24,3034872.56,3050714.1,153,Manila,1,0.9261,False,0.9948,False,-1.1852,False,slow,False,0
+126,TXN-0127,2025-10-12,Davao,Condo,Agent_C,5444600.03,5287159.65,5820446.39,172,Taguig,2,0.9711,False,0.9084,False,0.1672,False,slow,False,0
+127,TXN-0128,2025-05-17,Manila,House & Lot,Agent_C,11432385.27,10247392.28,11066148.02,31,Cebu,1,0.8963,False,0.926,False,0.7207,False,fast,False,0
+128,TXN-0129,2025-07-25,Manila,House & Lot,Agent_F,10598064.15,9057090.41,11119725.8,85,Manila,1,0.8546,False,0.8145,False,0.3515,False,average,False,0
+129,TXN-0130,2025-03-22,Davao,Townhouse,Agent_F,4932871.69,4889517.24,5027803.59,43,Quezon City,1,0.9912,False,0.9725,False,-0.335,False,fast,False,0
+130,TXN-0131,2025-02-11,Davao,Vacant Lot,Agent_F,2408066.48,2266138.42,2366736.23,85,Davao,1,0.9411,False,0.9575,False,-0.3617,False,average,False,0
+131,TXN-0132,2025-08-09,Manila,Townhouse,Agent_F,7588646.91,7004282.49,7842308.91,41,Quezon City,1,0.923,False,0.8931,False,0.6345,False,fast,False,0
+132,TXN-0133,2025-04-15,Davao,House & Lot,Agent_B,12169930.75,10872823.87,11244977.91,157,Davao,1,0.8934,False,0.9669,False,0.9147,False,slow,False,0
+133,TXN-0134,2025-07-14,Quezon City,House & Lot,Agent_E,9704682.81,9221459.73,9421630.54,131,Quezon City,1,0.9502,False,0.9788,False,0.4025,False,slow,False,0
+134,TXN-0135,2025-01-10,Makati,Condo,Agent_C,5454554.96,5105517.73,5683099.68,136,Makati,1,0.936,False,0.8984,False,0.0943,False,slow,False,0
+135,TXN-0136,2025-06-16,Cebu,Commercial,Agent_D,25800647.83,25490148.97,23675344.65,57,Quezon City,1,0.988,False,1.0767,False,1.2811,False,fast,False,0
+136,TXN-0137,2025-02-10,Makati,Townhouse,Agent_F,5046349.61,4541514.28,4711405.93,160,Makati,1,0.9,False,0.9639,False,-0.4945,False,slow,False,0
+137,TXN-0138,2025-04-10,Davao,Townhouse,Agent_F,9686675.12,9171503.31,9004132.3,56,Cebu,1,0.9468,False,1.0186,False,1.628,False,fast,False,0
+138,TXN-0139,2025-03-20,Taguig,Condo,Agent_B,7707752.84,7277601.0,7652184.67,174,Taguig,1,0.9442,False,0.951,False,0.9662,False,slow,False,0
+139,TXN-0140,2025-10-17,Taguig,Commercial,Agent_C,26606171.87,25118424.21,24748834.4,47,Taguig,1,0.9441,False,1.0149,False,1.223,False,fast,False,0
+140,TXN-0141,2025-05-21,Quezon City,Condo,Agent_C,5044021.31,4522273.69,4995511.81,44,Quezon City,1,0.8966,False,0.9053,False,-0.1398,False,fast,False,0
+141,TXN-0142,2025-11-27,Manila,Commercial,Agent_E,17676695.43,16252073.08,17868722.22,40,Manila,2,0.9194,False,0.9095,False,-0.1616,False,fast,False,0
+142,TXN-0143,2025-11-30,Cebu,Townhouse,Agent_E,6067217.71,5294431.1,5535576.18,56,Cebu,2,0.8726,False,0.9564,False,-0.1493,False,fast,False,0
+143,TXN-0144,2025-02-13,Quezon City,House & Lot,Agent_A,5972924.68,5469190.56,5900558.86,163,Quezon City,1,0.9157,False,0.9269,False,-0.7614,False,slow,False,0
+144,TXN-0145,2025-05-25,Makati,Vacant Lot,Agent_C,3555039.74,3049708.0,3648101.13,115,Manila,1,0.8579,False,0.836,False,0.3106,False,slow,False,0
+145,TXN-0146,2025-07-17,Davao,Townhouse,Agent_F,8886746.95,8839305.09,9069282.18,68,Davao,1,0.9947,False,0.9746,False,1.4757,False,fast,False,0
+146,TXN-0147,2025-03-14,Davao,Townhouse,Agent_F,7738599.72,7032790.65,7885696.92,51,Davao,1,0.9088,False,0.8918,False,0.6476,False,fast,False,0
+147,TXN-0148,2025-06-18,Cebu,Commercial,Agent_A,21150620.52,19321323.55,20566136.22,122,Cebu,3,0.9135,False,0.9395,False,0.3177,False,slow,False,0
+148,TXN-0149,2025-06-24,Makati,House & Lot,Agent_B,14999719.45,13098381.65,14387107.21,55,Makati,1,0.8732,False,0.9104,False,1.6051,False,fast,False,0
+149,TXN-0150,2025-09-27,Manila,Townhouse,Agent_E,3482867.81,3157247.47,3247598.15,72,Manila,1,0.9065,False,0.9722,False,-1.1291,False,average,False,0
+150,TXN-0151,2025-07-06,Taguig,House & Lot,Agent_D,10327145.07,9943581.22,10913314.57,89,Taguig,1,0.9629,False,0.9111,False,0.6265,False,average,False,0
+151,TXN-0152,2025-08-29,Cebu,Townhouse,Agent_F,9603476.28,9581061.47,9529875.2,102,Cebu,1,0.9977,False,1.0054,False,1.8158,False,average,False,0
+152,TXN-0153,2025-08-03,Cebu,House & Lot,Agent_E,4660782.42,4136446.64,4792383.37,125,Cebu,1,0.8875,False,0.8631,False,-1.1748,False,slow,False,0
+153,TXN-0154,2025-09-22,Manila,Townhouse,Agent_A,8223376.23,7326359.62,8889973.32,67,Manila,1,0.8909,False,0.8241,False,0.7821,False,fast,False,0
+154,TXN-0155,2025-04-24,Makati,Townhouse,Agent_A,5611726.79,5103686.47,5470268.05,128,Makati,1,0.9095,False,0.933,False,-0.2368,False,slow,False,0
+155,TXN-0156,2025-01-15,Davao,Condo,Agent_F,5899764.11,5715143.36,5472148.72,103,Davao,1,0.9687,False,1.0444,False,0.339,False,average,False,0
+156,TXN-0157,2025-03-13,Taguig,Vacant Lot,Agent_D,3269067.16,3222903.43,2954585.44,85,Taguig,1,0.9859,False,1.0908,False,0.4592,False,average,False,0
+157,TXN-0158,2025-11-08,Quezon City,Vacant Lot,Agent_A,3992776.85,3536186.98,3690801.82,91,Quezon City,2,0.8856,False,0.9581,False,0.728,False,average,False,0
+158,TXN-0159,2025-08-23,Manila,Condo,Agent_D,5580434.26,4757126.58,5597594.91,91,Manila,1,0.8525,False,0.8499,False,-0.0456,False,average,False,0
+159,TXN-0160,2025-01-01,Quezon City,Townhouse,Agent_B,6779977.87,5953478.82,7008076.53,164,Quezon City,1,0.8781,False,0.8495,False,0.1528,False,slow,False,0
+160,TXN-0161,2025-09-27,Quezon City,Commercial,Agent_E,18853798.81,17129959.41,18741185.36,129,Quezon City,1,0.9086,False,0.914,False,-0.0245,False,slow,False,0
+161,TXN-0162,2025-01-09,Davao,Condo,Agent_C,3446755.55,3269473.95,3173540.8,178,Davao,1,0.9486,False,1.0302,False,-0.6427,False,slow,False,0
+162,TXN-0163,2025-01-23,Davao,Commercial,Agent_C,25337721.64,22202517.33,26752289.11,148,Davao,1,0.8763,False,0.8299,False,0.7677,False,slow,False,0
+163,TXN-0164,2025-04-04,Cebu,Condo,Agent_F,6657142.4,6115596.76,6382125.96,41,Cebu,2,0.9187,False,0.9582,False,0.4998,False,fast,False,0
+164,TXN-0165,2025-06-11,Davao,Commercial,Agent_D,29728067.56,27690345.42,28261366.55,78,Manila,2,0.9315,False,0.9798,False,1.6247,False,average,False,0
+165,TXN-0166,2025-06-19,Davao,Condo,Agent_C,4621708.3,4205769.65,4566004.36,128,Davao,1,0.91,False,0.9211,False,-0.2669,False,slow,False,0
+166,TXN-0167,2025-12-21,Makati,Townhouse,Agent_E,4500405.22,3881112.23,4432448.8,140,Makati,2,0.8624,False,0.8756,False,-0.7972,False,slow,False,0
+167,TXN-0168,2025-10-07,Davao,Townhouse,Agent_A,3100516.83,2942817.98,2980524.26,139,Makati,1,0.9491,False,0.9873,False,-1.2274,False,slow,False,0
+168,TXN-0169,2025-01-22,Taguig,Townhouse,Agent_E,9986129.48,8899471.86,10944852.39,44,Taguig,1,0.8912,False,0.8131,False,1.5033,False,fast,False,0
+169,TXN-0170,2025-09-20,Taguig,House & Lot,Agent_A,4713353.62,4435906.47,4978538.18,38,Cebu,2,0.9411,False,0.891,False,-1.0819,False,fast,False,0
+170,TXN-0171,2025-07-07,Davao,Vacant Lot,Agent_E,645733.96,563735.9,639266.62,124,Davao,2,0.873,False,0.8818,False,-1.8224,False,slow,False,0
+171,TXN-0172,2025-10-21,Cebu,Commercial,Agent_C,14950851.15,14164946.36,14202147.37,59,Cebu,1,0.9474,False,0.9974,False,-0.4876,False,fast,False,0
+172,TXN-0173,2025-07-18,Quezon City,Condo,Agent_C,6649786.9,6354574.08,6270177.73,103,Quezon City,3,0.9556,False,1.0135,False,0.5957,False,average,False,0
+173,TXN-0174,2025-04-13,Manila,House & Lot,Agent_A,8424512.22,8296475.26,8332029.93,52,Manila,3,0.9848,False,0.9957,False,0.1156,False,fast,False,0
+174,TXN-0175,2025-06-13,Taguig,Townhouse,Agent_F,2987043.09,2781910.01,3220828.01,70,Taguig,3,0.9313,False,0.8637,False,-1.3011,False,fast,False,0
+175,TXN-0176,2025-11-23,Cebu,Townhouse,Agent_E,4181812.11,4172486.18,4426084.86,90,Cebu,1,0.9978,False,0.9427,False,-0.6637,False,average,False,0
+176,TXN-0177,2025-10-11,Quezon City,Townhouse,Agent_D,8527462.95,7953965.83,8718390.05,52,Makati,3,0.9327,False,0.9123,False,1.0699,False,fast,False,0
+177,TXN-0178,2025-09-03,Quezon City,Vacant Lot,Agent_D,4205027.3,3620791.77,4602301.23,48,Quezon City,1,0.8611,False,0.7867,False,0.8006,False,fast,False,0
+178,TXN-0179,2025-06-26,Cebu,Commercial,Agent_F,19694649.76,19008630.86,18233436.57,158,Cebu,1,0.9652,False,1.0425,False,0.2689,False,slow,False,0
+179,TXN-0180,2025-03-05,Quezon City,House & Lot,Agent_C,4975884.96,4470330.63,5184207.48,118,Quezon City,13,0.8984,False,0.8623,False,-1.0713,False,slow,True,1
+180,TXN-0181,2025-05-26,Manila,Townhouse,Agent_B,7262928.19,6773597.21,6718455.94,107,Manila,13,0.9326,False,1.0082,False,0.5287,False,average,True,1
+181,TXN-0182,2025-11-25,Cebu,Commercial,Agent_E,8854856.67,8401575.95,9245590.98,2,Cebu,1,0.9488,False,0.9087,False,-1.3876,False,fast,False,0
+182,TXN-0183,2025-01-15,Manila,Condo,Agent_F,6626134.21,15639102.72,6242889.71,176,Manila,1,2.3602,True,2.5051,False,4.3227,True,slow,False,2
+183,TXN-0184,2025-09-12,Taguig,Commercial,Agent_C,21047682.23,18844287.03,19973736.5,133,Manila,14,0.8953,False,0.9435,False,0.2432,False,slow,True,1
+184,TXN-0185,2025-03-22,Makati,Vacant Lot,Agent_D,2589989.71,2333655.54,2405410.83,1,Makati,2,0.901,False,0.9702,False,-0.3038,False,,False,0
+185,TXN-0186,2025-07-24,Cebu,Townhouse,Agent_E,6712384.12,6026830.76,6667374.32,0,Cebu,1,0.8979,False,0.9039,False,0.1864,False,,False,0
+186,TXN-0187,2025-01-26,Davao,Vacant Lot,Agent_E,2381606.35,2368276.21,2573235.55,0,Davao,2,0.9944,False,0.9203,False,-0.2741,False,,False,0
+187,TXN-0188,2025-04-08,Cebu,Vacant Lot,Agent_E,2600668.03,2553495.42,2599300.22,3,Cebu,1,0.9819,False,0.9824,False,-0.1152,False,fast,False,0
+188,TXN-0189,2025-05-04,Cebu,Commercial,Agent_C,6216453.32,5546341.1,6337697.5,3,Manila,2,0.8922,False,0.8751,False,-1.8335,False,fast,False,0
+189,TXN-0190,2025-08-09,Cebu,Townhouse,Agent_F,5243332.3,1622562.11,4766443.25,43,Cebu,1,0.3095,False,0.3404,True,-1.8326,False,fast,False,1
+190,TXN-0191,2025-10-11,Davao,Condo,Agent_D,5025533.17,4847933.93,4804128.96,2,Manila,1,0.9647,False,1.0091,False,-0.0091,False,fast,False,0
+191,TXN-0192,2025-06-23,Quezon City,Townhouse,Agent_B,3992934.11,1285127.16,3992996.32,41,Taguig,1,0.3219,False,0.3218,True,-1.9873,False,fast,False,1
+192,TXN-0193,2025-08-31,Quezon City,Vacant Lot,Agent_B,3228172.35,1086283.6,3117101.17,111,Quezon City,2,0.3365,False,0.3485,True,-1.3741,False,slow,False,1
+193,TXN-0194,2025-06-03,Quezon City,Townhouse,Agent_E,8712170.39,3880748.13,9075885.74,106,Quezon City,1,0.4454,False,0.4276,True,-0.7974,False,average,False,1
+194,TXN-0195,2025-06-19,Taguig,Condo,Agent_D,5502212.85,9080285.02,5750169.21,36,Taguig,1,1.6503,True,1.5791,False,1.6899,False,fast,False,1
+195,TXN-0196,2025-12-02,Quezon City,Commercial,Agent_B,23035002.81,21595971.44,21517051.69,3,Taguig,1,0.9375,False,1.0037,False,0.6729,False,fast,False,0
+196,TXN-0197,2025-10-21,Taguig,Condo,Agent_B,2113624.21,5330112.13,1966275.54,82,Taguig,2,2.5218,True,2.7108,False,0.1844,False,average,False,1
+197,TXN-0198,2025-08-30,Taguig,Condo,Agent_F,2828494.91,821686.26,2729525.61,152,Taguig,1,0.2905,False,0.301,True,-1.6254,False,slow,False,1
+198,TXN-0199,2025-03-30,Makati,Commercial,Agent_C,18656830.48,7638569.22,20028683.66,97,Makati,1,0.4094,False,0.3814,True,-1.5068,False,average,False,1
+199,TXN-0200,2025-05-07,Davao,Commercial,Agent_C,10621675.95,10578515.77,10191741.45,103,Davao,15,0.9959,False,1.0379,False,-1.0476,False,average,True,1
