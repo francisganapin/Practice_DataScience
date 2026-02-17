@@ -1,0 +1,501 @@
+transaction_id,product,customer_name,customer_city,quantity,unit_price,sale_date,region
+1,tablet,Charlie Reyes,manila,8,-50.0,2025-04-21,Visayas
+2,Phone,Eve Garcia,cebu,3,299.99,2025-05-16,
+3,Headphones,alice santos,Davao,2,79.99,2025-12-28,
+4,phone,Diana Lopez,Davao,3,-50.0,2025-07-05,
+5,tablet,Charlie Reyes,Manila,5,999.99,2025-05-24,luzon
+6,LAPTOP,,,8,999.99,2025-03-13,
+7,tablet,Eve Garcia,Cebu,7,999.99,2025-05-09,Mindanao
+8,Headphones,alice santos,Cebu,7,999.99,2025-12-30,luzon
+9,phone,Bob Cruz,cebu,7,299.99,2025-09-18,Luzon
+10,Phone,Bob Cruz,Cebu,8,79.99,2025-01-03,
+11,Headphones,alice santos,manila,1,499.99,2025-04-14,
+12,Headphones,Eve Garcia,Cebu,4,299.99,2025-08-12,Luzon
+13,LAPTOP,,cebu,6,299.99,2025-11-16,
+14,Tablet,alice santos,Cebu,9,499.99,2025-12-28,Luzon
+15,phone,Diana Lopez,manila,2,499.99,2025-12-20,luzon
+16,laptop,Diana Lopez,Manila,1,999.99,2025-01-10,Mindanao
+17,Headphones,Bob Cruz,cebu,2,299.99,2025-10-29,Luzon
+18,Tablet,Charlie Reyes,Manila,7,-50.0,2025-08-19,Visayas
+19,laptop,,Manila,3,499.99,2025-08-07,Luzon
+20,phone,Bob Cruz,Manila,2,499.99,2025-03-07,
+21,Laptop,Charlie Reyes,Davao,7,79.99,2025-04-22,luzon
+22,Tablet,Charlie Reyes,,2,-50.0,2025-01-13,luzon
+23,headphones,Frank Torres,Davao,3,-50.0,2025-03-27,Luzon
+24,Laptop,Diana Lopez,,7,499.99,2025-08-22,Mindanao
+25,LAPTOP,Eve Garcia,Manila,4,999.99,2025-03-31,Visayas
+26,tablet,Alice Santos,cebu,1,79.99,2025-11-10,luzon
+27,Phone,Eve Garcia,,5,-50.0,2025-02-23,
+28,headphones,Alice Santos,manila,9,499.99,2025-01-12,
+29,LAPTOP,alice santos,manila,8,-50.0,2025-07-28,Mindanao
+30,phone,Diana Lopez,Cebu,9,79.99,2025-01-14,luzon
+31,LAPTOP,Charlie Reyes,,9,79.99,2025-05-01,Luzon
+32,tablet,,cebu,7,299.99,2025-01-20,
+33,phone,Alice Santos,Davao,4,499.99,2025-03-16,Mindanao
+34,headphones,Eve Garcia,Manila,5,79.99,2025-08-31,luzon
+35,tablet,Charlie Reyes,Cebu,1,299.99,2025-08-11,luzon
+36,laptop,Alice Santos,manila,1,299.99,2025-03-11,luzon
+37,Phone,Alice Santos,Davao,3,-50.0,2025-11-08,luzon
+38,headphones,Frank Torres,Davao,8,-50.0,2025-07-30,luzon
+39,laptop,Alice Santos,Manila,2,299.99,2025-04-11,
+40,headphones,,,4,-50.0,2025-07-05,Mindanao
+41,phone,Diana Lopez,manila,2,79.99,2025-05-12,luzon
+42,laptop,,cebu,5,999.99,2025-04-21,Visayas
+43,Phone,Bob Cruz,Davao,9,79.99,2025-05-12,Visayas
+44,tablet,Charlie Reyes,Manila,1,299.99,2025-01-20,Mindanao
+45,Headphones,Diana Lopez,cebu,5,299.99,2025-01-24,Luzon
+46,LAPTOP,Frank Torres,,9,79.99,2025-08-15,Luzon
+47,Laptop,Diana Lopez,manila,1,-50.0,2025-06-03,Luzon
+48,Phone,Diana Lopez,,9,-50.0,2025-10-20,Visayas
+49,laptop,Eve Garcia,Davao,8,299.99,2025-08-18,Luzon
+50,Headphones,Diana Lopez,cebu,4,499.99,2025-11-06,
+51,Phone,Frank Torres,cebu,5,-50.0,2025-12-25,luzon
+52,laptop,,cebu,5,79.99,2025-07-21,Visayas
+53,Tablet,Diana Lopez,Davao,6,-50.0,2025-02-07,Mindanao
+54,Tablet,alice santos,Davao,7,79.99,2025-09-17,Mindanao
+55,Phone,Charlie Reyes,,8,299.99,2025-07-07,luzon
+56,Tablet,Diana Lopez,Cebu,8,-50.0,2025-02-26,Visayas
+57,laptop,Charlie Reyes,,2,79.99,2025-01-20,Luzon
+58,laptop,alice santos,manila,9,299.99,2025-09-30,Luzon
+59,Phone,alice santos,Manila,7,499.99,2025-04-29,
+60,Headphones,Charlie Reyes,cebu,4,79.99,2025-03-12,
+61,tablet,Alice Santos,Cebu,4,499.99,2025-01-04,Luzon
+62,headphones,Bob Cruz,Manila,8,499.99,2025-08-09,Mindanao
+63,Headphones,Eve Garcia,Cebu,4,999.99,2025-01-14,Mindanao
+64,phone,Alice Santos,,6,-50.0,2025-01-03,
+65,laptop,Alice Santos,Davao,5,79.99,2025-08-04,luzon
+66,phone,,cebu,3,499.99,2025-08-17,Luzon
+67,Headphones,Eve Garcia,,2,999.99,2025-12-02,
+68,headphones,Eve Garcia,Manila,9,299.99,2025-07-05,
+69,headphones,Alice Santos,Manila,9,79.99,2025-02-24,Luzon
+70,Laptop,Diana Lopez,Manila,1,499.99,2025-09-11,Luzon
+71,headphones,,Manila,3,-50.0,2025-01-24,Mindanao
+72,tablet,,Manila,8,999.99,2025-06-11,luzon
+73,headphones,alice santos,Cebu,6,499.99,2025-06-07,luzon
+74,Headphones,Frank Torres,,5,-50.0,2025-03-23,Luzon
+75,Laptop,Eve Garcia,cebu,5,499.99,2025-06-08,Visayas
+76,Headphones,Alice Santos,Davao,6,79.99,2025-07-07,
+77,Headphones,alice santos,Davao,7,79.99,2025-03-01,
+78,LAPTOP,Charlie Reyes,,1,79.99,2025-11-01,Luzon
+79,Laptop,Bob Cruz,,9,999.99,2025-11-15,Visayas
+80,Headphones,Frank Torres,Davao,3,79.99,2025-07-30,Mindanao
+81,LAPTOP,Frank Torres,Davao,4,-50.0,2025-06-01,Luzon
+82,LAPTOP,Frank Torres,Cebu,1,499.99,2025-04-19,Luzon
+83,Laptop,,manila,3,299.99,2025-03-17,
+84,phone,Charlie Reyes,cebu,2,-50.0,2025-01-30,Luzon
+85,tablet,Frank Torres,Manila,2,-50.0,2025-11-10,Luzon
+86,headphones,Charlie Reyes,manila,1,79.99,2025-04-27,Luzon
+87,tablet,Diana Lopez,,8,999.99,2025-12-22,
+88,headphones,Frank Torres,Davao,3,499.99,2025-07-11,Mindanao
+89,Headphones,Bob Cruz,manila,3,999.99,2025-01-19,Mindanao
+90,laptop,Charlie Reyes,cebu,6,499.99,2025-06-22,Luzon
+91,Laptop,Charlie Reyes,,8,499.99,2025-08-16,
+92,tablet,Bob Cruz,Manila,9,999.99,2025-12-16,Mindanao
+93,tablet,Frank Torres,Manila,9,-50.0,2025-07-02,Mindanao
+94,Headphones,Bob Cruz,cebu,4,499.99,2025-04-23,Mindanao
+95,phone,Charlie Reyes,cebu,5,999.99,2025-07-02,
+96,LAPTOP,Bob Cruz,Davao,2,499.99,2025-05-26,
+97,Headphones,Charlie Reyes,Manila,9,299.99,2025-11-15,Luzon
+98,Tablet,Charlie Reyes,,8,-50.0,2025-04-26,luzon
+99,LAPTOP,Diana Lopez,manila,3,79.99,2025-04-23,Mindanao
+100,Laptop,Alice Santos,,9,499.99,2025-09-08,luzon
+101,LAPTOP,Charlie Reyes,Cebu,3,299.99,2025-09-08,
+102,phone,Frank Torres,Cebu,9,79.99,2025-10-30,
+103,LAPTOP,alice santos,cebu,2,79.99,2025-11-09,
+104,Laptop,,Davao,9,499.99,2025-04-28,luzon
+105,phone,Eve Garcia,Cebu,8,999.99,2025-10-28,
+106,tablet,Alice Santos,Manila,9,499.99,2025-06-10,Luzon
+107,tablet,Alice Santos,,5,299.99,2025-07-17,
+108,headphones,Alice Santos,,2,79.99,2025-09-17,Visayas
+109,LAPTOP,Diana Lopez,cebu,8,499.99,2025-05-28,luzon
+110,tablet,Charlie Reyes,manila,6,999.99,2025-08-28,Visayas
+111,Laptop,Diana Lopez,cebu,8,499.99,2025-02-16,
+112,Phone,Charlie Reyes,manila,5,-50.0,2025-07-17,Luzon
+113,Phone,Frank Torres,cebu,2,999.99,2025-02-16,Mindanao
+114,phone,Diana Lopez,cebu,6,299.99,2025-03-19,
+115,tablet,Diana Lopez,cebu,5,79.99,2025-05-04,Luzon
+116,tablet,,manila,5,499.99,2025-03-16,luzon
+117,Phone,alice santos,manila,1,999.99,2025-12-25,Visayas
+118,tablet,Diana Lopez,cebu,2,-50.0,2025-05-17,Visayas
+119,LAPTOP,,Cebu,8,999.99,2025-03-31,Visayas
+120,Tablet,Bob Cruz,Davao,3,-50.0,2025-11-21,luzon
+121,laptop,alice santos,Davao,3,299.99,2025-03-02,Luzon
+122,headphones,Frank Torres,Davao,8,79.99,2025-05-18,luzon
+123,phone,Diana Lopez,manila,8,299.99,2025-02-19,Visayas
+124,Tablet,Eve Garcia,manila,2,499.99,2025-09-16,
+125,Phone,Alice Santos,Cebu,8,999.99,2025-04-17,Mindanao
+126,tablet,Bob Cruz,Davao,1,-50.0,2025-04-23,luzon
+127,headphones,Bob Cruz,Davao,6,-50.0,2025-12-16,luzon
+128,tablet,Frank Torres,cebu,8,999.99,2025-09-11,Luzon
+129,Laptop,,manila,3,999.99,2025-04-28,Luzon
+130,Laptop,Bob Cruz,Davao,8,499.99,2025-07-17,luzon
+131,headphones,alice santos,,1,299.99,2025-12-03,Visayas
+132,headphones,Diana Lopez,Cebu,9,-50.0,2025-12-31,Mindanao
+133,Phone,Diana Lopez,,9,499.99,2025-02-20,Luzon
+134,headphones,Eve Garcia,,5,299.99,2025-09-02,Visayas
+135,LAPTOP,Frank Torres,Cebu,4,499.99,2025-02-04,
+136,tablet,Alice Santos,,6,-50.0,2025-10-29,Luzon
+137,Tablet,,Davao,7,999.99,2025-03-10,Visayas
+138,Headphones,Alice Santos,manila,5,999.99,2025-12-15,Visayas
+139,headphones,Bob Cruz,Cebu,9,299.99,2025-11-16,Mindanao
+140,phone,Frank Torres,cebu,3,79.99,2025-02-18,Mindanao
+141,Laptop,Eve Garcia,,7,299.99,2025-03-15,
+142,LAPTOP,Alice Santos,Cebu,5,79.99,2025-07-11,Visayas
+143,Headphones,alice santos,Manila,7,499.99,2025-09-18,Visayas
+144,Tablet,Diana Lopez,Manila,2,499.99,2025-12-22,Mindanao
+145,Headphones,Bob Cruz,manila,4,-50.0,2025-03-11,Luzon
+146,headphones,Eve Garcia,Davao,2,79.99,2025-03-31,Luzon
+147,Phone,Alice Santos,manila,7,-50.0,2025-09-17,luzon
+148,Laptop,,manila,2,999.99,2025-05-06,Mindanao
+149,Laptop,alice santos,manila,1,79.99,2025-08-19,luzon
+150,Phone,alice santos,manila,9,299.99,2025-10-22,Mindanao
+151,tablet,Alice Santos,cebu,1,999.99,2025-05-09,
+152,laptop,Diana Lopez,cebu,8,999.99,2025-10-07,Visayas
+153,LAPTOP,Alice Santos,Cebu,2,299.99,2025-11-09,
+154,Laptop,Bob Cruz,Manila,8,999.99,2025-04-10,Mindanao
+155,phone,Alice Santos,manila,3,79.99,2025-11-22,Visayas
+156,Laptop,alice santos,Cebu,6,-50.0,2025-10-24,Luzon
+157,Headphones,Eve Garcia,Manila,3,999.99,2025-07-01,Luzon
+158,Laptop,Alice Santos,,7,79.99,2025-06-23,luzon
+159,Laptop,Diana Lopez,Davao,9,499.99,2025-11-12,Mindanao
+160,laptop,Frank Torres,cebu,2,79.99,2025-12-30,Mindanao
+161,laptop,Eve Garcia,,5,-50.0,2025-07-07,Luzon
+162,Tablet,,Manila,6,79.99,2025-02-26,
+163,tablet,Charlie Reyes,,4,299.99,2025-01-31,Visayas
+164,phone,Alice Santos,Davao,4,-50.0,2025-03-25,
+165,Laptop,Diana Lopez,Manila,4,499.99,2025-06-01,
+166,Laptop,Eve Garcia,,2,299.99,2025-02-05,Luzon
+167,LAPTOP,Diana Lopez,cebu,4,79.99,2025-08-01,Luzon
+168,laptop,,cebu,1,-50.0,2025-12-30,Luzon
+169,phone,alice santos,Cebu,6,499.99,2025-04-16,luzon
+170,Tablet,Diana Lopez,,1,299.99,2025-12-08,
+171,tablet,Eve Garcia,manila,6,499.99,2025-08-08,Mindanao
+172,Phone,Diana Lopez,,1,79.99,2025-06-12,Visayas
+173,tablet,Diana Lopez,Manila,6,499.99,2025-08-08,luzon
+174,Headphones,Diana Lopez,Manila,8,999.99,2025-09-27,Mindanao
+175,Laptop,Bob Cruz,,2,299.99,2025-04-30,
+176,Tablet,Bob Cruz,Davao,2,499.99,2025-12-02,Luzon
+177,Headphones,alice santos,cebu,4,79.99,2025-07-01,
+178,phone,Alice Santos,Manila,3,79.99,2025-04-16,Visayas
+179,Phone,Diana Lopez,cebu,4,499.99,2025-08-05,luzon
+180,laptop,,Manila,7,79.99,2025-07-24,luzon
+181,Tablet,Alice Santos,Cebu,1,-50.0,2025-03-11,Visayas
+182,Tablet,,manila,6,-50.0,2025-02-13,Mindanao
+183,Laptop,Alice Santos,Manila,3,-50.0,2025-11-25,Mindanao
+184,headphones,alice santos,cebu,7,999.99,2025-10-28,luzon
+185,Tablet,Diana Lopez,Cebu,2,499.99,2025-08-16,luzon
+186,LAPTOP,Diana Lopez,Manila,2,999.99,2025-07-03,Luzon
+187,Phone,Charlie Reyes,Davao,4,79.99,2025-04-17,Mindanao
+188,Phone,,manila,1,999.99,2025-03-25,Visayas
+189,LAPTOP,Alice Santos,Manila,3,79.99,2025-12-04,Mindanao
+190,LAPTOP,Alice Santos,Cebu,9,79.99,2025-09-07,Luzon
+191,LAPTOP,Frank Torres,Davao,7,299.99,2025-12-29,luzon
+192,Phone,Frank Torres,,7,-50.0,2025-01-21,luzon
+193,tablet,Bob Cruz,Cebu,4,79.99,2025-07-15,Luzon
+194,Phone,Charlie Reyes,Cebu,2,299.99,2025-06-27,Visayas
+195,headphones,Eve Garcia,Davao,4,-50.0,2025-01-07,luzon
+196,Laptop,Frank Torres,Cebu,6,79.99,2025-03-11,
+197,Headphones,Eve Garcia,Davao,3,79.99,2025-05-07,luzon
+198,tablet,Bob Cruz,Manila,1,999.99,2025-06-09,
+199,laptop,Bob Cruz,Davao,8,999.99,2025-09-05,Luzon
+200,Headphones,Bob Cruz,Davao,5,-50.0,2025-07-22,Luzon
+201,Laptop,,manila,5,79.99,2025-05-28,luzon
+202,headphones,,Davao,4,499.99,2025-05-23,Mindanao
+203,headphones,alice santos,Davao,6,999.99,2025-07-18,
+204,laptop,alice santos,,3,-50.0,2025-06-03,Visayas
+205,tablet,Bob Cruz,Manila,9,79.99,2025-05-22,luzon
+206,LAPTOP,Charlie Reyes,manila,5,79.99,2025-11-09,Visayas
+207,tablet,Alice Santos,,3,499.99,2025-06-14,luzon
+208,headphones,,cebu,1,-50.0,2025-11-10,Mindanao
+209,Phone,Charlie Reyes,Manila,6,79.99,2025-01-21,Mindanao
+210,Laptop,Diana Lopez,Manila,2,999.99,2025-03-23,Mindanao
+211,laptop,,cebu,3,499.99,2025-03-10,Mindanao
+212,Laptop,,Davao,1,-50.0,2025-05-11,Luzon
+213,phone,alice santos,,9,499.99,2025-03-28,Luzon
+214,phone,Alice Santos,Cebu,8,999.99,2025-08-06,
+215,tablet,Alice Santos,manila,2,-50.0,2025-11-01,Visayas
+216,headphones,Frank Torres,Cebu,8,499.99,2025-12-11,luzon
+217,headphones,Eve Garcia,cebu,9,299.99,2025-12-07,luzon
+218,LAPTOP,Eve Garcia,Manila,1,999.99,2025-06-10,Luzon
+219,LAPTOP,Eve Garcia,Manila,5,999.99,2025-06-27,luzon
+220,LAPTOP,Eve Garcia,manila,8,999.99,2025-04-27,Luzon
+221,Phone,Diana Lopez,Manila,2,299.99,2025-07-15,
+222,Headphones,Diana Lopez,Manila,4,299.99,2025-11-23,Visayas
+223,Tablet,,manila,7,79.99,2025-03-27,
+224,Headphones,Bob Cruz,,3,499.99,2025-10-16,Mindanao
+225,Laptop,alice santos,,5,79.99,2025-03-22,Mindanao
+226,Headphones,alice santos,manila,8,499.99,2025-06-01,Mindanao
+227,Phone,Eve Garcia,cebu,3,299.99,2025-03-02,
+228,Laptop,,Manila,4,299.99,2025-03-02,luzon
+229,Headphones,Frank Torres,Manila,9,79.99,2025-12-20,Visayas
+230,Phone,Charlie Reyes,cebu,7,-50.0,2025-01-28,Mindanao
+231,Tablet,Bob Cruz,,1,79.99,2025-02-12,Mindanao
+232,Headphones,,Davao,4,499.99,2025-06-18,Mindanao
+233,Phone,Bob Cruz,Davao,4,79.99,2025-03-27,Visayas
+234,LAPTOP,Bob Cruz,Davao,9,999.99,2025-06-26,Mindanao
+235,headphones,Bob Cruz,,6,499.99,2025-01-17,Visayas
+236,LAPTOP,,,9,499.99,2025-04-08,Mindanao
+237,headphones,Eve Garcia,cebu,6,-50.0,2025-07-17,
+238,laptop,alice santos,Manila,6,299.99,2025-04-08,
+239,laptop,alice santos,cebu,5,499.99,2025-03-06,Visayas
+240,laptop,Eve Garcia,cebu,5,299.99,2025-11-26,
+241,Tablet,Bob Cruz,,2,79.99,2025-12-07,Visayas
+242,LAPTOP,Charlie Reyes,Davao,8,999.99,2025-01-05,
+243,headphones,Alice Santos,Cebu,8,-50.0,2025-01-02,
+244,Phone,,Manila,1,299.99,2025-01-22,Visayas
+245,Laptop,Alice Santos,,8,499.99,2025-04-22,luzon
+246,Phone,Frank Torres,Davao,5,299.99,2025-02-26,
+247,Laptop,Eve Garcia,Cebu,2,499.99,2025-03-07,Mindanao
+248,phone,Charlie Reyes,Cebu,2,299.99,2025-11-26,luzon
+249,Phone,,,6,499.99,2025-04-08,Visayas
+250,Headphones,Eve Garcia,manila,9,79.99,2025-05-24,luzon
+251,Headphones,Bob Cruz,Manila,1,499.99,2025-05-05,Luzon
+252,tablet,alice santos,Cebu,6,499.99,2025-06-16,Luzon
+253,LAPTOP,Alice Santos,,9,999.99,2025-03-27,
+254,Laptop,Diana Lopez,,8,499.99,2025-03-17,
+255,Laptop,Diana Lopez,Davao,6,999.99,2025-12-10,Mindanao
+256,LAPTOP,Charlie Reyes,manila,3,-50.0,2025-10-21,luzon
+257,Tablet,Bob Cruz,Manila,8,999.99,2025-02-28,Luzon
+258,tablet,Frank Torres,cebu,9,79.99,2025-05-18,
+259,Tablet,Alice Santos,Davao,1,999.99,2025-04-09,luzon
+260,Tablet,Bob Cruz,Cebu,9,-50.0,2025-07-11,
+261,Tablet,Alice Santos,Cebu,6,79.99,2025-08-31,
+262,LAPTOP,Charlie Reyes,Davao,6,299.99,2025-11-15,Luzon
+263,Tablet,Charlie Reyes,,4,299.99,2025-02-18,Luzon
+264,Headphones,Frank Torres,Cebu,1,999.99,2025-02-01,
+265,laptop,Diana Lopez,manila,8,999.99,2025-10-04,Visayas
+266,phone,Bob Cruz,Manila,2,-50.0,2025-01-20,
+267,Laptop,,manila,1,-50.0,2025-06-03,
+268,Laptop,Diana Lopez,Cebu,2,499.99,2025-03-09,Mindanao
+269,phone,Bob Cruz,cebu,1,-50.0,2025-08-02,Mindanao
+270,LAPTOP,Diana Lopez,Manila,1,499.99,2025-05-23,Mindanao
+271,Phone,,Manila,9,79.99,2025-08-20,Visayas
+272,LAPTOP,alice santos,Davao,1,999.99,2025-08-01,Visayas
+273,Laptop,alice santos,Davao,4,79.99,2025-03-20,
+274,Laptop,Frank Torres,cebu,6,-50.0,2025-08-02,Mindanao
+275,phone,alice santos,,7,79.99,2025-04-26,Visayas
+276,Tablet,alice santos,Manila,2,79.99,2025-04-02,Luzon
+277,LAPTOP,Eve Garcia,cebu,6,79.99,2025-09-27,
+278,headphones,Alice Santos,Davao,7,-50.0,2025-06-17,luzon
+279,phone,Eve Garcia,Davao,2,79.99,2025-02-27,
+280,Headphones,Eve Garcia,Manila,2,499.99,2025-10-11,luzon
+281,Laptop,Frank Torres,manila,7,-50.0,2025-01-26,Mindanao
+282,phone,Eve Garcia,Cebu,1,79.99,2025-03-07,luzon
+283,LAPTOP,alice santos,Davao,8,-50.0,2025-09-05,Mindanao
+284,Laptop,,,3,299.99,2025-09-11,Luzon
+285,Phone,Frank Torres,,6,499.99,2025-02-13,luzon
+286,phone,Frank Torres,Davao,9,79.99,2025-04-07,
+287,tablet,Charlie Reyes,manila,6,299.99,2025-02-11,Mindanao
+288,Laptop,Frank Torres,manila,9,299.99,2025-08-15,
+289,LAPTOP,Charlie Reyes,cebu,7,-50.0,2025-09-19,Visayas
+290,laptop,Frank Torres,,9,299.99,2025-06-16,Mindanao
+291,headphones,Alice Santos,cebu,2,499.99,2025-10-06,luzon
+292,Tablet,alice santos,,8,499.99,2025-03-30,Mindanao
+293,LAPTOP,Frank Torres,Cebu,8,999.99,2025-06-27,
+294,Headphones,alice santos,Cebu,2,499.99,2025-07-16,Luzon
+295,Headphones,alice santos,Manila,4,299.99,2025-11-03,Mindanao
+296,laptop,Diana Lopez,cebu,7,499.99,2025-09-24,luzon
+297,Tablet,Frank Torres,Davao,4,-50.0,2025-09-25,Visayas
+298,tablet,Bob Cruz,cebu,4,999.99,2025-03-15,Luzon
+299,laptop,Diana Lopez,Davao,6,299.99,2025-01-08,Visayas
+300,laptop,Bob Cruz,manila,6,999.99,2025-10-24,Mindanao
+301,Laptop,alice santos,cebu,3,299.99,2025-06-13,
+302,Headphones,alice santos,manila,9,-50.0,2025-03-26,
+303,Laptop,Diana Lopez,Cebu,2,999.99,2025-03-13,luzon
+304,headphones,Diana Lopez,Cebu,6,79.99,2025-02-24,
+305,Tablet,Bob Cruz,Manila,7,299.99,2025-02-16,Luzon
+306,tablet,Charlie Reyes,cebu,9,79.99,2025-08-26,
+307,tablet,Bob Cruz,manila,3,999.99,2025-04-14,luzon
+308,LAPTOP,Diana Lopez,Davao,3,79.99,2025-07-29,Mindanao
+309,laptop,,Cebu,7,79.99,2025-02-11,Mindanao
+310,headphones,Diana Lopez,Cebu,4,999.99,2025-11-12,
+311,Headphones,,Davao,8,-50.0,2025-09-25,Visayas
+312,tablet,Alice Santos,manila,7,79.99,2025-09-20,Mindanao
+313,headphones,Diana Lopez,manila,5,79.99,2025-12-02,
+314,Phone,Alice Santos,cebu,7,-50.0,2025-12-31,luzon
+315,Phone,Charlie Reyes,cebu,3,79.99,2025-09-16,
+316,Laptop,Bob Cruz,,2,79.99,2025-10-10,Mindanao
+317,Headphones,,,6,79.99,2025-04-24,luzon
+318,LAPTOP,Bob Cruz,Manila,2,499.99,2025-12-29,
+319,tablet,Alice Santos,Cebu,3,-50.0,2025-02-09,Luzon
+320,laptop,,cebu,6,79.99,2025-08-08,luzon
+321,laptop,Bob Cruz,manila,5,-50.0,2025-05-09,Luzon
+322,tablet,Diana Lopez,Davao,8,299.99,2025-01-08,Visayas
+323,Tablet,alice santos,manila,9,299.99,2025-04-11,luzon
+324,LAPTOP,Alice Santos,Cebu,3,79.99,2025-06-25,Luzon
+325,headphones,Bob Cruz,,3,-50.0,2025-04-17,Mindanao
+326,Tablet,Alice Santos,manila,3,-50.0,2025-04-11,Mindanao
+327,Tablet,Eve Garcia,Manila,6,-50.0,2025-09-17,Visayas
+328,Laptop,Alice Santos,Cebu,1,499.99,2025-09-03,luzon
+329,Phone,,,7,299.99,2025-10-02,luzon
+330,Tablet,Eve Garcia,Davao,1,-50.0,2025-02-01,luzon
+331,Tablet,Frank Torres,,5,-50.0,2025-05-17,Visayas
+332,phone,,Manila,8,499.99,2025-01-12,luzon
+333,Laptop,alice santos,Cebu,4,499.99,2025-10-29,Mindanao
+334,Headphones,Eve Garcia,Davao,5,-50.0,2025-01-16,Luzon
+335,phone,Frank Torres,Manila,4,999.99,2025-05-09,Mindanao
+336,phone,Diana Lopez,,4,-50.0,2025-03-04,Mindanao
+337,tablet,Alice Santos,Manila,8,-50.0,2025-04-19,Luzon
+338,Phone,Bob Cruz,Cebu,2,499.99,2025-01-21,Mindanao
+339,Tablet,Charlie Reyes,cebu,1,499.99,2025-06-07,Visayas
+340,Phone,Alice Santos,Manila,3,-50.0,2025-09-26,Luzon
+341,LAPTOP,Frank Torres,Manila,9,-50.0,2025-06-11,Mindanao
+342,tablet,Alice Santos,,4,-50.0,2025-09-17,
+343,Headphones,alice santos,,5,499.99,2025-04-12,Mindanao
+344,Phone,Diana Lopez,Davao,2,-50.0,2025-08-11,Visayas
+345,laptop,Charlie Reyes,,4,-50.0,2025-02-28,luzon
+346,LAPTOP,Eve Garcia,manila,2,79.99,2025-09-04,Mindanao
+347,Laptop,Eve Garcia,Cebu,2,999.99,2025-05-08,luzon
+348,Headphones,Eve Garcia,Cebu,4,299.99,2025-10-10,
+349,LAPTOP,Frank Torres,cebu,6,999.99,2025-11-21,Mindanao
+350,tablet,,cebu,7,79.99,2025-01-25,Luzon
+351,phone,,Cebu,3,299.99,2025-05-11,luzon
+352,phone,Bob Cruz,cebu,3,-50.0,2025-12-19,
+353,tablet,Charlie Reyes,Davao,6,79.99,2025-07-15,Luzon
+354,headphones,Eve Garcia,,3,-50.0,2025-10-08,Luzon
+355,phone,,Cebu,2,499.99,2025-06-03,Luzon
+356,Laptop,Frank Torres,cebu,8,79.99,2025-05-13,Luzon
+357,Laptop,Bob Cruz,Cebu,5,499.99,2025-08-15,Mindanao
+358,laptop,Diana Lopez,manila,1,79.99,2025-07-08,Mindanao
+359,Tablet,Bob Cruz,Manila,3,79.99,2025-09-22,Mindanao
+360,headphones,,,8,499.99,2025-05-14,
+361,Headphones,alice santos,Cebu,4,299.99,2025-07-30,
+362,phone,Frank Torres,Manila,7,999.99,2025-03-01,
+363,Laptop,alice santos,cebu,2,-50.0,2025-12-30,Visayas
+364,tablet,Eve Garcia,Manila,7,79.99,2025-12-30,
+365,phone,alice santos,,5,-50.0,2025-08-01,Mindanao
+366,Tablet,Eve Garcia,Cebu,5,499.99,2025-08-04,Mindanao
+367,tablet,Eve Garcia,manila,6,-50.0,2025-08-14,Visayas
+368,LAPTOP,,cebu,9,499.99,2025-05-11,Visayas
+369,LAPTOP,alice santos,Cebu,6,-50.0,2025-03-17,
+370,phone,Eve Garcia,,8,999.99,2025-10-13,luzon
+371,Tablet,Charlie Reyes,cebu,7,999.99,2025-10-04,Visayas
+372,headphones,Diana Lopez,Davao,9,999.99,2025-06-05,Luzon
+373,phone,Bob Cruz,Manila,4,999.99,2025-09-05,Mindanao
+374,Laptop,Bob Cruz,,2,999.99,2025-08-06,Luzon
+375,Phone,,Davao,7,999.99,2025-07-09,Mindanao
+376,phone,alice santos,Cebu,6,499.99,2025-06-12,Mindanao
+377,phone,alice santos,manila,1,79.99,2025-06-29,Visayas
+378,tablet,Eve Garcia,cebu,9,-50.0,2025-02-03,Visayas
+379,Phone,Frank Torres,Manila,9,999.99,2025-02-10,Luzon
+380,Laptop,Alice Santos,cebu,2,499.99,2025-11-03,Mindanao
+381,phone,Eve Garcia,Cebu,3,499.99,2025-12-04,Luzon
+382,tablet,Diana Lopez,cebu,5,499.99,2025-11-10,luzon
+383,Tablet,Charlie Reyes,Manila,5,79.99,2025-03-16,Luzon
+384,phone,Bob Cruz,Cebu,1,-50.0,2025-10-06,
+385,Phone,Eve Garcia,cebu,8,79.99,2025-06-25,Luzon
+386,laptop,Alice Santos,manila,8,299.99,2025-05-30,
+387,Phone,Alice Santos,,4,499.99,2025-09-30,
+388,LAPTOP,Eve Garcia,Cebu,7,299.99,2025-11-21,
+389,Laptop,,,3,999.99,2025-04-18,luzon
+390,Headphones,Bob Cruz,Cebu,6,999.99,2025-05-19,Luzon
+391,phone,,manila,9,79.99,2025-12-16,Luzon
+392,Phone,Charlie Reyes,,1,-50.0,2025-09-28,luzon
+393,Headphones,Alice Santos,Davao,5,299.99,2025-12-13,Mindanao
+394,tablet,Alice Santos,Manila,4,-50.0,2025-10-16,Visayas
+395,laptop,Diana Lopez,Davao,8,79.99,2025-07-31,Luzon
+396,Laptop,Charlie Reyes,cebu,1,999.99,2025-09-29,Visayas
+397,Phone,Alice Santos,manila,9,-50.0,2025-03-07,luzon
+398,Headphones,Charlie Reyes,Davao,6,-50.0,2025-09-05,Mindanao
+399,laptop,Bob Cruz,Cebu,4,999.99,2025-06-05,Mindanao
+400,LAPTOP,alice santos,cebu,9,299.99,2025-02-16,Mindanao
+401,Laptop,Alice Santos,cebu,5,999.99,2025-07-20,luzon
+402,Laptop,Diana Lopez,Davao,5,-50.0,2025-05-28,
+403,LAPTOP,Bob Cruz,Davao,5,299.99,2025-05-04,
+404,phone,Eve Garcia,manila,1,299.99,2025-01-01,Visayas
+405,LAPTOP,Charlie Reyes,Manila,1,999.99,2025-09-04,
+406,Laptop,Eve Garcia,Davao,8,-50.0,2025-12-09,
+407,Laptop,,Davao,8,79.99,2025-05-08,Mindanao
+408,Headphones,Bob Cruz,,6,-50.0,2025-07-10,Mindanao
+409,laptop,Eve Garcia,Cebu,4,499.99,2025-03-08,Visayas
+410,LAPTOP,Frank Torres,,2,79.99,2025-01-04,Luzon
+411,laptop,Frank Torres,,2,299.99,2025-10-30,Visayas
+412,LAPTOP,Alice Santos,cebu,9,79.99,2025-10-21,Visayas
+413,tablet,Charlie Reyes,Manila,5,299.99,2025-05-23,luzon
+414,Laptop,alice santos,Cebu,4,299.99,2025-07-10,luzon
+415,Headphones,Bob Cruz,manila,1,79.99,2025-01-21,Visayas
+416,laptop,Alice Santos,manila,7,299.99,2025-08-15,Visayas
+417,LAPTOP,Diana Lopez,Davao,3,299.99,2025-11-09,Visayas
+418,headphones,,Davao,6,499.99,2025-04-27,
+419,tablet,Charlie Reyes,manila,5,-50.0,2025-10-29,luzon
+420,Phone,Bob Cruz,Davao,5,-50.0,2025-05-22,Visayas
+421,phone,Frank Torres,Manila,5,499.99,2025-02-08,Mindanao
+422,laptop,Bob Cruz,,1,79.99,2025-12-21,Mindanao
+423,Headphones,alice santos,Davao,1,999.99,2025-09-09,
+424,Phone,Frank Torres,cebu,3,999.99,2025-11-29,
+425,headphones,alice santos,Davao,4,999.99,2025-07-26,Luzon
+426,phone,Diana Lopez,Cebu,5,499.99,2025-07-29,Luzon
+427,headphones,,Manila,2,499.99,2025-04-25,Luzon
+428,Phone,Diana Lopez,Cebu,8,299.99,2025-08-13,
+429,phone,Alice Santos,Cebu,2,999.99,2025-05-14,
+430,headphones,Alice Santos,cebu,9,79.99,2025-09-08,
+431,Headphones,Diana Lopez,Manila,2,79.99,2025-08-07,Mindanao
+432,LAPTOP,,Manila,9,999.99,2025-04-01,
+433,Laptop,Diana Lopez,Manila,7,999.99,2025-12-20,Mindanao
+434,LAPTOP,,Manila,8,999.99,2025-02-15,Luzon
+435,Phone,,Manila,2,499.99,2025-02-07,Luzon
+436,laptop,Eve Garcia,cebu,7,499.99,2025-05-22,Luzon
+437,Laptop,Frank Torres,Davao,6,499.99,2025-04-10,Visayas
+438,tablet,Charlie Reyes,Cebu,4,-50.0,2025-11-24,Visayas
+439,Headphones,,Manila,7,79.99,2025-07-09,luzon
+440,tablet,alice santos,Davao,4,79.99,2025-02-04,luzon
+441,phone,,Davao,2,299.99,2025-05-27,luzon
+442,Laptop,,Cebu,7,499.99,2025-01-30,Visayas
+443,tablet,,cebu,8,-50.0,2025-11-30,Visayas
+444,tablet,Eve Garcia,manila,2,-50.0,2025-03-25,luzon
+445,headphones,Frank Torres,manila,5,79.99,2025-10-08,luzon
+446,LAPTOP,Eve Garcia,Davao,1,499.99,2025-12-10,
+447,headphones,Alice Santos,,7,299.99,2025-09-27,luzon
+448,Laptop,Eve Garcia,,8,499.99,2025-06-03,
+449,Laptop,alice santos,Cebu,6,999.99,2025-04-12,Mindanao
+450,Phone,alice santos,manila,5,499.99,2025-08-03,Visayas
+451,headphones,Eve Garcia,Davao,6,999.99,2025-05-30,luzon
+452,Tablet,Frank Torres,cebu,2,999.99,2025-03-24,Visayas
+453,LAPTOP,Diana Lopez,manila,1,299.99,2025-04-20,Visayas
+454,Laptop,Charlie Reyes,Davao,7,79.99,2025-10-02,Visayas
+455,Phone,Frank Torres,Davao,7,499.99,2025-07-20,Mindanao
+456,headphones,Eve Garcia,Manila,2,999.99,2025-10-11,Luzon
+457,LAPTOP,,cebu,2,499.99,2025-06-22,luzon
+458,headphones,Bob Cruz,Manila,1,79.99,2025-11-23,Luzon
+459,tablet,Charlie Reyes,Cebu,8,79.99,2025-07-25,Luzon
+460,Phone,Charlie Reyes,Manila,8,-50.0,2025-03-04,Luzon
+461,LAPTOP,alice santos,Manila,1,79.99,2025-03-14,Visayas
+462,phone,Charlie Reyes,manila,8,299.99,2025-09-08,
+463,phone,Eve Garcia,,9,999.99,2025-05-04,Visayas
+464,LAPTOP,,Davao,4,-50.0,2025-05-01,Visayas
+465,headphones,,cebu,1,299.99,2025-10-02,Luzon
+466,Phone,Alice Santos,Manila,1,499.99,2025-04-30,Visayas
+467,phone,,cebu,3,999.99,2025-11-13,Luzon
+468,Phone,Frank Torres,,5,79.99,2025-06-13,
+469,phone,,,5,999.99,2025-10-13,luzon
+470,tablet,alice santos,Manila,9,499.99,2025-09-22,Luzon
+471,headphones,,Cebu,2,-50.0,2025-11-16,
+472,tablet,Alice Santos,Manila,2,-50.0,2025-06-10,luzon
+473,phone,Bob Cruz,manila,6,-50.0,2025-11-04,Mindanao
+474,tablet,Eve Garcia,Davao,9,79.99,2025-03-30,Luzon
+475,phone,alice santos,Cebu,1,299.99,2025-05-22,Luzon
+476,LAPTOP,Frank Torres,Manila,9,299.99,2025-07-22,Mindanao
+477,tablet,Bob Cruz,cebu,9,999.99,2025-11-05,Mindanao
+478,laptop,alice santos,Cebu,9,79.99,2025-08-15,Luzon
+479,headphones,Diana Lopez,Cebu,5,-50.0,2025-11-30,Mindanao
+480,Laptop,Charlie Reyes,Manila,9,-50.0,2025-08-10,Visayas
+481,Tablet,Diana Lopez,Cebu,4,499.99,2025-02-10,luzon
+482,tablet,,cebu,2,499.99,2025-07-15,luzon
+483,Headphones,Bob Cruz,,6,-50.0,2025-03-09,luzon
+484,headphones,,Cebu,4,-50.0,2025-09-21,Visayas
+485,laptop,Charlie Reyes,,6,79.99,2025-01-02,Mindanao
+486,laptop,alice santos,cebu,3,299.99,2025-12-27,
+487,phone,Charlie Reyes,Manila,6,499.99,2025-05-05,Mindanao
+488,phone,Alice Santos,Davao,2,299.99,2025-04-20,Luzon
+489,Tablet,Charlie Reyes,Cebu,2,79.99,2025-03-27,luzon
+490,LAPTOP,Alice Santos,Davao,9,-50.0,2025-04-30,Mindanao
+491,Headphones,Charlie Reyes,cebu,7,299.99,2025-05-07,
+492,Laptop,Eve Garcia,Cebu,3,-50.0,2025-09-12,Luzon
+493,Tablet,Alice Santos,,1,-50.0,2025-07-02,Visayas
+494,Phone,Bob Cruz,manila,8,999.99,2025-01-16,Visayas
+495,Laptop,,Davao,6,299.99,2025-03-03,
+496,tablet,Frank Torres,Cebu,7,299.99,2025-06-07,Luzon
+497,headphones,,Davao,9,-50.0,2025-09-25,luzon
+498,Phone,Diana Lopez,Cebu,5,79.99,2025-02-04,Mindanao
+499,Phone,,Manila,1,999.99,2025-09-24,Luzon
+500,Tablet,alice santos,,7,-50.0,2025-03-05,Visayas

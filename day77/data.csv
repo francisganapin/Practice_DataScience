@@ -1,0 +1,29 @@
+date,description,account,debit,credit
+2026-01-02,Owner invested cash,Cash,50000,0
+2026-01-02,Owner invested cash,Owner's Equity,0,50000
+2026-01-05,Bought inventory,Inventory,15000,0
+2026-01-05,Bought inventory,Cash,0,15000
+2026-01-08,Sold goods for cash,Cash,8000,0
+2026-01-08,Sold goods for cash,Sales Revenue,0,8000
+2026-01-08,Cost of goods sold,COGS,5000,0
+2026-01-08,Cost of goods sold,Inventory,0,5000
+2026-01-10,Paid rent,Rent Expense,3000,0
+2026-01-10,Paid rent,Cash,0,3000
+2026-01-12,Sold goods on credit,Accounts Receivable,6000,0
+2026-01-12,Sold goods on credit,Sales Revenue,0,6000
+2026-01-12,Cost of goods sold,COGS,3500,0
+2026-01-12,Cost of goods sold,Inventory,0,3500
+2026-01-15,Received payment from customer,Cash,4000,0
+2026-01-15,Received payment from customer,Accounts Receivable,0,4000
+2026-01-18,Bought supplies on credit,Supplies,2000,0
+2026-01-18,Bought supplies on credit,Accounts Payable,0,2000
+2026-01-20,Paid electricity bill,Utilities Expense,1500,0
+2026-01-20,Paid electricity bill,Cash,0,1500
+2026-01-25,Owner withdrew cash,Owner's Drawings,5000,0
+2026-01-25,Owner withdrew cash,Cash,0,5000
+2026-01-28,Paid supplier,Accounts Payable,1000,0
+2026-01-28,Paid supplier,Cash,0,1000
+2026-01-31,Sold goods for cash,Cash,12000,0
+2026-01-31,Sold goods for cash,Sales Revenue,0,12000
+2026-01-31,Cost of goods sold,COGS,7000,0
+2026-01-31,Cost of goods sold,Inventory,0,7000

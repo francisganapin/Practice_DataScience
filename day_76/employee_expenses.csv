@@ -1,0 +1,26 @@
+Employee_ID,Employee_Name,Department,Expense_Date,Category,Vendor,Amount,Receipt_Attached,Approved_By
+E001,Juan Dela Cruz,Sales,2024-01-05,Transportation,Grab,350,Yes,Manager_A
+E002,Maria Santos,Marketing,2024-01-05,Office Supplies,National Bookstore,1200,Yes,Manager_B
+E001,Juan Dela Cruz,Sales,2024-01-06,Client Meal,Jollibee,850,Yes,Manager_A
+E003,Pedro Reyes,IT,2024-01-06,Software License,Adobe,5500,Yes,Manager_C
+E002,Maria Santos,Marketing,2024-01-07,Transportation,Grab,450,Yes,Manager_B
+E004,Ana Garcia,HR,2024-01-07,Office Supplies,SM Office,780,Yes,Manager_A
+E001,Juan Dela Cruz,Sales,2024-01-08,Client Meal,Max's Restaurant,15000,Yes,Manager_A
+E005,Rico Mendoza,Sales,2024-01-08,Transportation,Grab,280,Yes,Manager_A
+E002,Maria Santos,Marketing,2024-01-09,Client Meal,Starbucks,2200,No,Manager_B
+E003,Pedro Reyes,IT,2024-01-09,Office Supplies,National Bookstore,1100,Yes,Manager_C
+E001,Juan Dela Cruz,Sales,2024-01-10,Transportation,Grab,350,Yes,Manager_A
+E001,Juan Dela Cruz,Sales,2024-01-10,Transportation,Grab,350,Yes,Manager_A
+E004,Ana Garcia,HR,2024-01-10,Training,Udemy,3500,Yes,Manager_A
+E002,Maria Santos,Marketing,2024-01-11,Office Supplies,Lazada,8500,No,Manager_B
+E005,Rico Mendoza,Sales,2024-01-11,Client Meal,Mang Inasal,650,Yes,Manager_A
+E001,Juan Dela Cruz,Sales,2024-01-12,Client Meal,Dencio's,4200,Yes,Manager_A
+E003,Pedro Reyes,IT,2024-01-12,Software License,Microsoft,12000,Yes,Manager_C
+E001,Juan Dela Cruz,Sales,2024-01-13,Transportation,Grab,9500,Yes,Manager_A
+E002,Maria Santos,Marketing,2024-01-13,Client Meal,Yellow Cab,1800,Yes,Manager_B
+E004,Ana Garcia,HR,2024-01-14,Office Supplies,SM Office,750,Yes,Manager_A
+E001,Juan Dela Cruz,Sales,2024-01-14,Client Meal,Sambokojin,7800,Yes,Manager_A
+E005,Rico Mendoza,Sales,2024-01-14,Transportation,Grab,300,Yes,Manager_A
+E002,Maria Santos,Marketing,2024-01-15,Transportation,Angkas,150,Yes,Manager_B
+E003,Pedro Reyes,IT,2024-01-15,Office Supplies,National Bookstore,1050,Yes,Manager_C
+E001,Juan Dela Cruz,Sales,2024-01-15,Client Meal,Vikings,22000,No,Manager_A

@@ -1,0 +1,501 @@
+order_id,customer_name,customer_email,product,category,quantity,unit_price,discount_pct,discount_amount,total,order_date,order_hour,payment_method,status,shipping_city,is_refunded
+SHOP-00001,Richard Allen,lisa94@example.net,Hoodie Premium,Apparel,1,1200,10,120.0,1080.0,2025-05-21 11:14:00,11,GCash,Completed,North Robinmouth,False
+SHOP-00002,Michael Martinez,daniel50@example.com,Hoodie Premium,Apparel,5,1200,0,0.0,6000.0,2025-01-17 08:05:00,8,GCash,Completed,Clarkchester,False
+SHOP-00003,Stephanie Mcgrath,xwhite@example.com,Classic T-Shirt,Apparel,5,450,0,0.0,2250.0,2025-11-29 19:34:00,19,COD,Completed,North Jade,False
+SHOP-00004,Matthew Herring,bterry@example.org,Water Bottle,Home,5,600,0,0.0,3000.0,2025-01-04 20:51:00,20,GCash,Pending,Leefurt,False
+SHOP-00005,Anthony Stewart,rmartin@example.net,Sticker Pack (10),Stationery,3,150,0,0.0,450.0,2025-04-21 20:21:00,20,Credit Card,Completed,Michaelchester,False
+SHOP-00006,Mary Williams DVM,youngjoshua@example.com,Coffee Mug,Home,1,400,0,0.0,400.0,2025-06-26 17:16:00,17,Credit Card,Pending,Port Jack,False
+SHOP-00007,Penny Williams,kathleengomez@example.com,Hoodie Premium,Apparel,4,1200,0,0.0,4800.0,2025-10-10 12:53:00,12,PayPal,Shipped,Coleberg,False
+SHOP-00008,Gary Randolph,robert08@example.net,Laptop Sleeve,Accessories,1,800,0,0.0,800.0,2025-12-05 11:49:00,11,PayPal,Completed,South Nathan,False
+SHOP-00009,Steven Hernandez,victoria84@example.org,Laptop Sleeve,Accessories,1,800,0,0.0,800.0,2025-05-23 15:40:00,15,PayPal,Completed,Waynetown,False
+SHOP-00010,Tara Martinez,ericreynolds@example.net,Sticker Pack (10),Stationery,3,150,0,0.0,450.0,2025-12-10 12:44:00,12,Credit Card,Shipped,New Karenport,False
+SHOP-00011,Kenneth Rodriguez,jonathanshea@example.net,Phone Case,Accessories,5,350,10,175.0,1575.0,2025-10-10 00:40:00,10,COD,Refunded,Lake Christinachester,True
+SHOP-00012,Brandon Peterson,tinadillon@example.net,Laptop Sleeve,Accessories,3,800,15,360.0,2040.0,2025-01-29 11:52:00,11,Credit Card,Completed,West Ronaldhaven,False
+SHOP-00013,Ronald Ho,alexis93@example.org,Coffee Mug,Home,3,400,0,0.0,1200.0,2025-04-19 22:36:00,22,PayPal,Completed,Chanfurt,False
+SHOP-00014,Jamie Jenkins,james18@example.org,Water Bottle,Home,4,600,10,240.0,2160.0,2025-08-23 10:16:00,10,GCash,Completed,Veronicabury,False
+SHOP-00015,Richard Powell,rsmith@example.net,Canvas Tote Bag,Bags,5,550,0,0.0,2750.0,2025-10-26 14:23:00,14,GCash,Completed,Whitetown,False
+SHOP-00016,Edward Duncan,mackenzie00@example.com,Water Bottle,Home,1,600,15,90.0,510.0,2025-01-25 04:41:00,4,GCash,Completed,Timothyburgh,False
+SHOP-00017,Lindsey Zimmerman,sandragood@example.org,Coffee Mug,Home,5,400,0,0.0,2000.0,2025-07-17 14:38:00,14,COD,Shipped,Hoganmouth,False
+SHOP-00018,James Thornton,markbaker@example.com,Canvas Tote Bag,Bags,5,550,15,412.5,2337.5,2025-10-10 00:37:00,18,Credit Card,Refunded,Frankmouth,True
+SHOP-00019,Dustin Martin,josephhardy@example.org,Canvas Tote Bag,Bags,3,550,0,0.0,1650.0,2025-05-31 14:10:00,14,COD,Completed,West Donald,False
+SHOP-00020,Lisa Shah,christopherbrown@example.net,Canvas Tote Bag,Bags,5,550,15,412.5,2337.5,2025-04-02 16:58:00,16,Credit Card,Completed,South Sarahhaven,False
+SHOP-00021,Steven Jimenez,hamiltonalex@example.org,Laptop Sleeve,Accessories,2,800,0,0.0,1600.0,2025-03-24 16:49:00,16,Credit Card,Shipped,Lake Jamie,False
+SHOP-00022,Jason Rodriguez,joseph31@example.org,Sticker Pack (10),Stationery,4,150,0,0.0,600.0,2025-02-27 22:23:00,22,PayPal,Completed,Chavezside,False
+SHOP-00023,Dr. Briana Noble,jaredvasquez@example.com,Classic T-Shirt,Apparel,2,450,5,45.0,855.0,2025-02-10 09:46:00,9,COD,Completed,Reynoldsfort,False
+SHOP-00024,Nicole Colon,cruzamanda@example.com,Phone Case,Accessories,2,350,10,70.0,630.0,2025-09-01 16:10:00,16,PayPal,Shipped,South Austinmouth,False
+SHOP-00025,Yolanda Madden,dennis72@example.com,Coffee Mug,Home,2,400,95,760.0,40.0,2025-12-20 11:45:00,11,PayPal,Pending,South Heatherstad,False
+SHOP-00026,Juan Suspicious,suspicious.buyer@fakeemail.com,Sticker Pack (10),Stationery,4,150,5,30.0,570.0,2025-08-20 09:15:00,9,GCash,Completed,Joshuachester,False
+SHOP-00027,Edward York,ttate@example.net,Sticker Pack (10),Stationery,1,150,5,7.5,142.5,2025-10-11 11:37:00,11,GCash,Completed,Lake Josephfurt,False
+SHOP-00028,Joshua Beasley,portega@example.com,Hoodie Premium,Apparel,1,1200,0,0.0,1200.0,2025-02-04 01:21:00,1,PayPal,Completed,Campbellborough,False
+SHOP-00029,Carly Stephens,leealicia@example.net,Laptop Sleeve,Accessories,3,800,10,240.0,2160.0,2025-09-06 11:34:00,11,GCash,Shipped,New Kristenhaven,False
+SHOP-00030,Sarah Mitchell,qfrancis@example.com,Water Bottle,Home,2,600,15,180.0,1020.0,2025-08-31 20:26:00,20,GCash,Completed,Joshuatown,False
+SHOP-00031,Vanessa Stokes,alexis57@example.net,Hoodie Premium,Apparel,4,1200,0,0.0,4800.0,2025-08-05 14:29:00,14,Credit Card,Completed,New Sergioberg,False
+SHOP-00032,Kristie Miller,kimnicholas@example.org,Classic T-Shirt,Apparel,4,450,10,180.0,1620.0,2025-06-23 20:55:00,20,Credit Card,Completed,Turnerbury,False
+SHOP-00033,Robert Washington,curtischase@example.net,Laptop Sleeve,Accessories,2,800,5,80.0,1520.0,2025-08-18 10:27:00,10,GCash,Completed,Elizabethbury,False
+SHOP-00034,Michael Miller,timothygonzales@example.net,Water Bottle,Home,2,600,15,180.0,1020.0,2025-02-08 15:51:00,15,Credit Card,Completed,Paulastad,False
+SHOP-00035,Tammy Robinson,ylara@example.com,Classic T-Shirt,Apparel,1,450,15,67.5,382.5,2025-05-02 10:26:00,10,COD,Pending,Lake Diane,False
+SHOP-00036,Kathryn Hess,rsanford@example.net,Laptop Sleeve,Accessories,4,800,0,0.0,3200.0,2025-03-26 14:00:00,14,COD,Completed,Lake Justin,False
+SHOP-00037,Mitchell Santiago,jenniferlane@example.net,Water Bottle,Home,3,600,0,0.0,1800.0,2025-12-23 19:50:00,19,COD,Completed,Lake Ashley,False
+SHOP-00038,Melinda Clark,pmills@example.org,Laptop Sleeve,Accessories,3,800,0,0.0,2400.0,2025-01-30 17:47:00,17,Credit Card,Completed,Lake Gabriel,False
+SHOP-00039,Jared Hurley,michelle10@example.com,Classic T-Shirt,Apparel,1,450,5,22.5,427.5,2025-09-02 01:21:00,1,GCash,Completed,Lake Mary,False
+SHOP-00040,Cynthia Henderson,evansjennifer@example.org,Hoodie Premium,Apparel,2,1200,0,0.0,2400.0,2025-11-01 09:43:00,9,GCash,Pending,West Adrianfort,False
+SHOP-00041,Lori Mata,vmeyer@example.com,Hoodie Premium,Apparel,5,1200,0,0.0,6000.0,2025-10-24 17:02:00,17,Credit Card,Pending,Dustinburgh,False
+SHOP-00042,Christopher Hernandez,morenopriscilla@example.net,Sticker Pack (10),Stationery,3,150,0,0.0,450.0,2025-12-09 19:20:00,19,GCash,Completed,Brianville,False
+SHOP-00043,Courtney Hunt,reginald46@example.com,Coffee Mug,Home,2,400,10,80.0,720.0,2025-11-27 12:29:00,12,PayPal,Completed,South Josephview,False
+SHOP-00044,Susan Williams,zlevy@example.net,Classic T-Shirt,Apparel,4,450,5,90.0,1710.0,2025-10-16 09:04:00,9,GCash,Shipped,Jacobmouth,False
+SHOP-00045,Veronica Clarke,stephanie45@example.net,Canvas Tote Bag,Bags,2,550,0,0.0,1100.0,2025-02-05 22:15:00,22,PayPal,Completed,East Noahborough,False
+SHOP-00046,Jennifer Hansen,nathanielcooper@example.net,Phone Case,Accessories,4,350,15,210.0,1190.0,2025-10-06 19:19:00,19,Credit Card,Shipped,East Madison,False
+SHOP-00047,Stephanie Norris,tgreen@example.com,Canvas Tote Bag,Bags,1,550,0,0.0,550.0,2025-05-16 09:56:00,9,Credit Card,Shipped,West Michaelmouth,False
+SHOP-00048,David Boyd,dianaholland@example.net,Phone Case,Accessories,3,350,0,0.0,1050.0,2025-11-06 11:45:00,11,PayPal,Completed,Gabriellestad,False
+SHOP-00049,Andrew Gomez,sgibbs@example.org,Canvas Tote Bag,Bags,5,550,0,0.0,2750.0,2025-05-09 22:58:00,22,Credit Card,Completed,Stanleybury,False
+SHOP-00050,Juan Suspicious,suspicious.buyer@fakeemail.com,Coffee Mug,Home,3,400,0,0.0,1200.0,2025-01-02 13:49:00,13,GCash,Completed,North Wesley,False
+SHOP-00051,Aaron Jimenez,jaredrobinson@example.org,Phone Case,Accessories,4,350,5,70.0,1330.0,2025-12-28 14:35:00,14,Credit Card,Completed,Colonside,False
+SHOP-00052,April Ryan,sophialeblanc@example.org,Hoodie Premium,Apparel,2,1200,5,120.0,2280.0,2025-01-19 21:23:00,21,GCash,Pending,South Beverly,False
+SHOP-00053,Thomas Watson,moniquesmith@example.net,Phone Case,Accessories,1,350,0,0.0,350.0,2025-07-06 22:59:00,22,Credit Card,Completed,Turnerburgh,False
+SHOP-00054,Adam Hood,cynthiadixon@example.com,Laptop Sleeve,Accessories,2,800,10,160.0,1440.0,2025-02-22 13:49:00,13,COD,Shipped,Hodgeville,False
+SHOP-00055,Tiffany Wells,jamesdyer@example.net,Phone Case,Accessories,2,350,15,105.0,595.0,2025-03-25 20:51:00,20,GCash,Pending,Lake Kerri,False
+SHOP-00056,Allison Carlson,cthompson@example.com,Classic T-Shirt,Apparel,2,450,10,90.0,810.0,2025-06-20 20:59:00,20,COD,Completed,Amyberg,False
+SHOP-00057,Robert Potts,roger19@example.org,Canvas Tote Bag,Bags,2,550,15,165.0,935.0,2025-12-26 09:24:00,9,Credit Card,Pending,Thomasmouth,False
+SHOP-00058,Aaron Allison,taylorerin@example.com,Laptop Sleeve,Accessories,2,800,15,240.0,1360.0,2025-08-24 13:19:00,13,GCash,Completed,Jeremychester,False
+SHOP-00059,Andrea Clark,michael76@example.net,Classic T-Shirt,Apparel,2,450,0,0.0,900.0,2025-06-18 12:55:00,12,Credit Card,Completed,Martinezstad,False
+SHOP-00060,William Williams,bobby72@example.org,Sticker Pack (10),Stationery,5,150,0,0.0,750.0,2025-12-14 21:34:00,21,PayPal,Completed,West Dianastad,False
+SHOP-00061,Joshua Lewis,rpowell@example.org,Hoodie Premium,Apparel,3,1200,0,0.0,3600.0,2025-10-25 12:02:00,12,Credit Card,Shipped,South Courtneyfort,False
+SHOP-00062,David Nash,kathryn40@example.net,Coffee Mug,Home,3,400,10,120.0,1080.0,2025-06-10 14:38:00,14,Credit Card,Pending,East Matthew,False
+SHOP-00063,Courtney Daniels,paigeraymond@example.net,Laptop Sleeve,Accessories,3,800,0,0.0,2400.0,2025-12-29 14:00:00,14,GCash,Completed,Blackton,False
+SHOP-00064,Megan Barton,jamesholder@example.com,Coffee Mug,Home,1,400,10,40.0,360.0,2025-06-19 17:20:00,17,Credit Card,Completed,Shepherdbury,False
+SHOP-00065,Nicole Bennett,fscott@example.net,Canvas Tote Bag,Bags,4,550,0,0.0,2200.0,2025-07-26 19:18:00,19,GCash,Completed,Bowmanmouth,False
+SHOP-00066,Brandon Leach,dawn08@example.com,Coffee Mug,Home,4,400,10,160.0,1440.0,2025-03-31 17:36:00,17,PayPal,Pending,New Theresaville,False
+SHOP-00067,Marvin Walters,cruzmichael@example.org,Classic T-Shirt,Apparel,3,450,0,0.0,1350.0,2025-04-18 14:50:00,14,PayPal,Pending,New Jessica,False
+SHOP-00068,Kevin Shaw,morsewilliam@example.com,Water Bottle,Home,4,600,10,240.0,2160.0,2025-04-20 16:30:00,16,GCash,Completed,West Andrea,False
+SHOP-00069,Diane Cunningham,melissa62@example.org,Canvas Tote Bag,Bags,5,550,10,275.0,2475.0,2025-11-21 17:21:00,17,Credit Card,Completed,North Maria,False
+SHOP-00070,Diamond Rivera,edwardmiller@example.net,Canvas Tote Bag,Bags,2,550,15,165.0,935.0,2025-04-12 10:01:00,10,Credit Card,Completed,New Allison,False
+SHOP-00071,John Lee,irasmussen@example.net,Water Bottle,Home,5,600,15,450.0,2550.0,2025-02-07 15:26:00,15,GCash,Pending,Hallmouth,False
+SHOP-00072,Jenny Atkins,dosborne@example.net,Water Bottle,Home,4,600,0,0.0,2400.0,2025-03-17 18:44:00,18,Credit Card,Completed,East John,False
+SHOP-00073,Shawn Rhodes,smithjoe@example.com,Coffee Mug,Home,2,400,0,0.0,800.0,2025-12-23 16:29:00,16,Credit Card,Shipped,South Sabrina,False
+SHOP-00074,Kevin Shepherd,vincent47@example.com,Laptop Sleeve,Accessories,1,800,0,0.0,800.0,2025-03-10 20:29:00,20,PayPal,Pending,Joannaland,False
+SHOP-00075,Andrea Wagner,stacyrocha@example.net,Coffee Mug,Home,5,400,0,0.0,2000.0,2025-03-23 19:55:00,19,COD,Pending,South Rogerland,False
+SHOP-00076,Janet Thompson,lauren20@example.com,Canvas Tote Bag,Bags,2,550,15,165.0,935.0,2025-11-23 12:49:00,12,COD,Completed,Jeffview,False
+SHOP-00077,Brenda Bridges,paula69@example.org,Canvas Tote Bag,Bags,4,550,0,0.0,2200.0,2025-05-27 11:17:00,11,PayPal,Completed,Nguyenhaven,False
+SHOP-00078,Tina Thompson,shall@example.com,Hoodie Premium,Apparel,2,1200,0,0.0,2400.0,2025-04-29 14:44:00,14,GCash,Completed,Marcusborough,False
+SHOP-00079,Anthony Smith,alejandrohill@example.net,Hoodie Premium,Apparel,4,1200,0,0.0,4800.0,2025-06-19 16:29:00,16,COD,Completed,Lloydberg,False
+SHOP-00080,Leah Dunn,shepardrebecca@example.net,Laptop Sleeve,Accessories,4,800,0,0.0,3200.0,2025-10-27 19:01:00,19,COD,Pending,South Rachel,False
+SHOP-00081,William Townsend,edgar25@example.net,Classic T-Shirt,Apparel,3,450,0,0.0,1350.0,2025-07-19 21:57:00,21,COD,Shipped,East Markhaven,False
+SHOP-00082,Theresa Wolf,lowekyle@example.net,Laptop Sleeve,Accessories,4,800,0,0.0,3200.0,2025-05-20 14:31:00,14,Credit Card,Pending,Smithville,False
+SHOP-00083,Paul Evans,gevans@example.net,Sticker Pack (10),Stationery,4,150,10,60.0,540.0,2025-03-26 21:29:00,21,GCash,Shipped,South Donaldville,False
+SHOP-00084,Ryan Gutierrez,benjamin30@example.net,Classic T-Shirt,Apparel,4,450,5,90.0,1710.0,2025-10-16 18:01:00,18,Credit Card,Pending,Wilkersonville,False
+SHOP-00085,Zachary Walker,colechristina@example.com,Phone Case,Accessories,4,350,0,0.0,1400.0,2025-01-26 04:10:00,4,PayPal,Completed,Scottport,False
+SHOP-00086,Gary Howard,toddcolleen@example.net,Water Bottle,Home,3,600,0,0.0,1800.0,2025-07-14 12:48:00,12,COD,Completed,Port Kevinbury,False
+SHOP-00087,Mary Hogan,smithjoseph@example.net,Hoodie Premium,Apparel,4,1200,0,0.0,4800.0,2025-10-04 08:22:00,8,GCash,Completed,West James,False
+SHOP-00088,Evelyn Martinez,troy62@example.org,Classic T-Shirt,Apparel,1,450,0,0.0,450.0,2025-04-13 21:01:00,21,GCash,Completed,Thompsonbury,False
+SHOP-00089,Douglas Mcdaniel,wmays@example.net,Phone Case,Accessories,4,350,10,140.0,1260.0,2025-02-28 17:13:00,17,COD,Completed,East Adam,False
+SHOP-00090,Daniel Barker,coopereric@example.org,Sticker Pack (10),Stationery,2,150,5,15.0,285.0,2025-11-07 19:45:00,19,Credit Card,Completed,Gregoryborough,False
+SHOP-00091,Michael Cole,vturner@example.org,Canvas Tote Bag,Bags,1,550,5,27.5,522.5,2025-01-14 22:19:00,22,COD,Pending,Tammyshire,False
+SHOP-00092,Sheila Robertson,jhernandez@example.net,Laptop Sleeve,Accessories,1,800,5,40.0,760.0,2025-12-20 21:40:00,21,GCash,Completed,Gentryfort,False
+SHOP-00093,Zachary Spears,vevans@example.com,Canvas Tote Bag,Bags,5,550,15,412.5,2337.5,2025-03-03 20:36:00,20,Credit Card,Completed,East Gina,False
+SHOP-00094,Olivia Olson,karensexton@example.com,Coffee Mug,Home,3,400,0,0.0,1200.0,2025-09-17 18:21:00,18,Credit Card,Pending,Reynoldsfurt,False
+SHOP-00095,Todd Murphy,robertstyler@example.net,Water Bottle,Home,1,600,0,0.0,600.0,2025-07-05 18:57:00,18,COD,Completed,Smithton,False
+SHOP-00096,Stephanie Allen,joshuahiggins@example.org,Coffee Mug,Home,2,400,10,80.0,720.0,2025-09-25 18:17:00,18,COD,Pending,Richardbury,False
+SHOP-00097,Jessica Chase,jasonwilliams@example.net,Coffee Mug,Home,5,400,0,0.0,2000.0,2025-06-15 21:15:00,21,Credit Card,Completed,Port Paulmouth,False
+SHOP-00098,Heidi Austin,kwallace@example.org,Water Bottle,Home,2,600,15,180.0,1020.0,2025-08-26 17:39:00,17,COD,Completed,Santanaberg,False
+SHOP-00099,Dr. Angela Kelly,watsonpatricia@example.com,Classic T-Shirt,Apparel,4,450,15,270.0,1530.0,2025-06-16 10:31:00,10,GCash,Completed,Lake Lorishire,False
+SHOP-00100,Miss Debra Ryan,tlee@example.net,Canvas Tote Bag,Bags,3,550,0,0.0,1650.0,2025-11-02 19:56:00,19,PayPal,Shipped,East Arthurmouth,False
+SHOP-00101,Melissa Harding,mcaldwell@example.com,Classic T-Shirt,Apparel,5,450,0,0.0,2250.0,2025-02-13 11:46:00,11,COD,Pending,Lake Nicolebury,False
+SHOP-00102,Elizabeth Brown,rruiz@example.net,Laptop Sleeve,Accessories,4,800,10,320.0,2880.0,2025-12-31 15:28:00,15,Credit Card,Completed,East Jason,False
+SHOP-00103,James Moore,swilliams@example.net,Canvas Tote Bag,Bags,2,550,0,0.0,1100.0,2025-12-21 11:19:00,11,PayPal,Pending,Fuentesbury,False
+SHOP-00104,Kristine Mercer,peterflores@example.org,Sticker Pack (10),Stationery,4,150,10,60.0,540.0,2025-10-09 13:22:00,13,COD,Completed,Laurenshire,False
+SHOP-00105,Eric Massey,adam95@example.org,Canvas Tote Bag,Bags,3,550,0,0.0,1650.0,2025-03-03 19:12:00,19,PayPal,Completed,Michaelstad,False
+SHOP-00106,Carlos Rowe,lisa73@example.com,Phone Case,Accessories,2,350,0,0.0,700.0,2025-09-05 02:26:00,2,PayPal,Completed,Jilltown,False
+SHOP-00107,Jennifer Smith,katherinepatterson@example.com,Laptop Sleeve,Accessories,3,800,0,0.0,2400.0,2025-07-04 10:19:00,10,Credit Card,Shipped,Port Terri,False
+SHOP-00108,Emily Brown,laura74@example.com,Phone Case,Accessories,3,350,0,0.0,1050.0,2025-01-28 16:18:00,16,GCash,Pending,Lopezbury,False
+SHOP-00109,Brett Johnson,lmarks@example.net,Hoodie Premium,Apparel,1,1200,5,60.0,1140.0,2025-05-26 15:30:00,15,COD,Completed,North Sheilafort,False
+SHOP-00110,Ms. Sydney Chavez,myersann@example.com,Phone Case,Accessories,1,350,0,0.0,350.0,2025-09-02 09:52:00,9,Credit Card,Pending,Michaelhaven,False
+SHOP-00111,Tracy Oconnell,brittany64@example.com,Water Bottle,Home,1,600,5,30.0,570.0,2025-11-19 18:03:00,18,GCash,Completed,Johnsonfort,False
+SHOP-00112,Brian Watkins,kevingraham@example.net,Canvas Tote Bag,Bags,1,550,0,0.0,550.0,2025-03-02 16:48:00,16,COD,Shipped,Billyfort,False
+SHOP-00113,Yvette Foster,waynemelendez@example.net,Laptop Sleeve,Accessories,5,800,0,0.0,4000.0,2025-08-19 22:28:00,22,PayPal,Shipped,Petersonville,False
+SHOP-00114,Dana Arellano,jbrown@example.net,Coffee Mug,Home,3,400,5,60.0,1140.0,2025-11-14 08:39:00,8,Credit Card,Completed,New Scottland,False
+SHOP-00115,Joseph Villarreal,robert34@example.org,Laptop Sleeve,Accessories,3,800,10,240.0,2160.0,2025-02-11 10:15:00,10,GCash,Shipped,South Josephfort,False
+SHOP-00116,Mr. Brian Kennedy DDS,scott31@example.com,Hoodie Premium,Apparel,2,1200,0,0.0,2400.0,2025-10-10 00:20:00,15,COD,Refunded,Priceborough,True
+SHOP-00117,Suzanne Perry,davidscott@example.com,Classic T-Shirt,Apparel,2,450,0,0.0,900.0,2025-12-28 12:44:00,12,COD,Completed,Shannonburgh,False
+SHOP-00118,Jason West,johnsonkelsey@example.com,Laptop Sleeve,Accessories,3,800,15,360.0,2040.0,2025-11-17 17:42:00,17,GCash,Pending,Rogersside,False
+SHOP-00119,Jeanne Brown,allencynthia@example.net,Hoodie Premium,Apparel,5,1200,0,0.0,6000.0,2025-11-28 10:58:00,10,PayPal,Completed,Port Stephanie,False
+SHOP-00120,Kyle Williams,ywhite@example.org,Hoodie Premium,Apparel,1,1200,0,0.0,1200.0,2025-06-07 17:47:00,17,PayPal,Pending,East Tracibury,False
+SHOP-00121,Lauren Martin,savila@example.net,Hoodie Premium,Apparel,4,1200,10,480.0,4320.0,2025-06-05 19:25:00,19,PayPal,Shipped,Cobbburgh,False
+SHOP-00122,Juan Suspicious,suspicious.buyer@fakeemail.com,Water Bottle,Home,4,600,0,0.0,2400.0,2025-11-03 08:56:00,8,COD,Completed,Kennethburgh,False
+SHOP-00123,Angela Contreras,qjohnson@example.org,Canvas Tote Bag,Bags,1,550,0,0.0,550.0,2025-04-28 18:53:00,18,Credit Card,Completed,North Justin,False
+SHOP-00124,Karen Mendoza,smithkimberly@example.org,Classic T-Shirt,Apparel,2,450,0,0.0,900.0,2025-09-23 18:28:00,18,PayPal,Completed,Danielview,False
+SHOP-00125,Nathaniel Walker,josesmith@example.com,Coffee Mug,Home,4,400,0,0.0,1600.0,2025-08-29 13:26:00,13,PayPal,Completed,Port Kaylamouth,False
+SHOP-00126,Paula Greene,gchaney@example.org,Hoodie Premium,Apparel,2,1200,0,0.0,2400.0,2025-07-30 19:31:00,19,PayPal,Pending,Port Angelachester,False
+SHOP-00127,Sean Hubbard,zpearson@example.net,Classic T-Shirt,Apparel,4,450,0,0.0,1800.0,2025-06-11 12:20:00,12,Credit Card,Pending,South Heather,False
+SHOP-00128,Kimberly Baker,morganmeza@example.com,Classic T-Shirt,Apparel,5,450,80,1800.0,450.0,2025-07-31 08:12:00,8,PayPal,Shipped,Shelbyfurt,False
+SHOP-00129,Michelle Rodriguez,joshua34@example.org,Water Bottle,Home,4,600,15,360.0,2040.0,2025-01-27 11:17:00,11,GCash,Completed,Kellymouth,False
+SHOP-00130,Claire Davis,pjohnston@example.com,Water Bottle,Home,4,600,0,0.0,2400.0,2025-01-15 18:38:00,18,GCash,Completed,Lake Ashleyhaven,False
+SHOP-00131,Joshua Phillips,tranjasmine@example.org,Canvas Tote Bag,Bags,5,550,0,0.0,2750.0,2025-10-10 14:05:00,14,GCash,Completed,Anthonychester,False
+SHOP-00132,Courtney Jennings,kyleowen@example.net,Water Bottle,Home,1,600,10,60.0,540.0,2025-03-20 15:59:00,15,PayPal,Shipped,Kristyland,False
+SHOP-00133,Jane Bennett,vyoung@example.org,Canvas Tote Bag,Bags,4,550,15,330.0,1870.0,2025-09-05 15:15:00,15,COD,Shipped,Glennstad,False
+SHOP-00134,Tammy Camacho,derrickrodriguez@example.com,Phone Case,Accessories,4,350,0,0.0,1400.0,2025-11-03 01:04:00,1,GCash,Completed,West Matthew,False
+SHOP-00135,Courtney Yang,aarongreen@example.net,Canvas Tote Bag,Bags,4,550,0,0.0,2200.0,2025-09-17 12:52:00,12,Credit Card,Completed,New Cody,False
+SHOP-00136,Tyrone Calderon,brandon83@example.com,Canvas Tote Bag,Bags,103,550,0,0.0,56650.0,2025-12-04 15:55:00,15,GCash,Pending,North Jillian,False
+SHOP-00137,Harry Serrano,rwilson@example.com,Water Bottle,Home,3,600,0,0.0,1800.0,2025-10-10 20:34:00,20,COD,Pending,Craigview,False
+SHOP-00138,Justin Higgins,williamjohnson@example.org,Sticker Pack (10),Stationery,2,150,10,30.0,270.0,2025-05-03 17:24:00,17,GCash,Pending,North Justin,False
+SHOP-00139,Shannon Christian,rowemichael@example.com,Classic T-Shirt,Apparel,3,450,10,135.0,1215.0,2025-08-31 19:58:00,19,COD,Pending,Lake Anthonyburgh,False
+SHOP-00140,Cynthia Davis,wherrera@example.com,Phone Case,Accessories,4,350,0,0.0,1400.0,2025-03-06 16:37:00,16,PayPal,Completed,North Peter,False
+SHOP-00141,Lucas Rodriguez,michaelmiller@example.org,Water Bottle,Home,1,600,5,30.0,570.0,2025-08-22 08:46:00,8,GCash,Pending,New Paulshire,False
+SHOP-00142,Theresa Wright,yjones@example.net,Phone Case,Accessories,1,350,0,0.0,350.0,2025-05-16 13:39:00,13,COD,Completed,Port Claytonport,False
+SHOP-00143,Justin Miles,qriley@example.org,Sticker Pack (10),Stationery,5,150,0,0.0,750.0,2025-06-12 18:45:00,18,COD,Shipped,North Timothymouth,False
+SHOP-00144,Matthew Stanley,jennifer51@example.org,Classic T-Shirt,Apparel,5,450,0,0.0,2250.0,2025-05-01 18:43:00,18,PayPal,Completed,Hillchester,False
+SHOP-00145,Juan Suspicious,suspicious.buyer@fakeemail.com,Hoodie Premium,Apparel,4,1200,0,0.0,4800.0,2025-11-21 19:55:00,19,Credit Card,Pending,Petersonfort,False
+SHOP-00146,Ashley Salas,svillanueva@example.net,Phone Case,Accessories,3,350,0,0.0,1050.0,2025-01-24 13:50:00,13,Credit Card,Completed,Garyton,False
+SHOP-00147,Trevor Smith,crystalsanders@example.com,Sticker Pack (10),Stationery,3,150,0,0.0,450.0,2025-03-16 11:33:00,11,COD,Shipped,Suzannemouth,False
+SHOP-00148,Brendan Vaughan,daniel90@example.net,Phone Case,Accessories,2,350,0,0.0,700.0,2025-02-10 17:55:00,17,COD,Shipped,West Robertfort,False
+SHOP-00149,Ronnie Wilkinson,melissa61@example.com,Laptop Sleeve,Accessories,4,800,5,160.0,3040.0,2025-03-15 11:29:00,11,PayPal,Pending,East Barbara,False
+SHOP-00150,Amanda Torres,efleming@example.net,Canvas Tote Bag,Bags,1,550,15,82.5,467.5,2025-08-27 22:18:00,22,GCash,Completed,Lake Karenmouth,False
+SHOP-00151,Jessica Wallace,vyoder@example.net,Water Bottle,Home,3,600,5,90.0,1710.0,2025-06-03 18:27:00,18,PayPal,Pending,Dayberg,False
+SHOP-00152,Jacqueline Carter,olivia59@example.net,Canvas Tote Bag,Bags,2,550,0,0.0,1100.0,2025-09-05 09:15:00,9,COD,Shipped,West Mirandaland,False
+SHOP-00153,Juan Suspicious,suspicious.buyer@fakeemail.com,Sticker Pack (10),Stationery,5,150,0,0.0,750.0,2025-12-25 12:01:00,12,COD,Completed,Lake Anthonyville,False
+SHOP-00154,Christine Mitchell,thomas57@example.com,Classic T-Shirt,Apparel,5,450,15,337.5,1912.5,2025-12-18 20:47:00,20,Credit Card,Shipped,North Dylan,False
+SHOP-00155,Wendy Williams,hollywilliams@example.net,Water Bottle,Home,3,600,15,270.0,1530.0,2025-04-28 17:51:00,17,PayPal,Completed,Aguirreburgh,False
+SHOP-00156,Janet Porter,owarren@example.com,Laptop Sleeve,Accessories,5,800,0,0.0,4000.0,2025-12-14 20:46:00,20,GCash,Completed,Ryanport,False
+SHOP-00157,Warren Berg,monica19@example.org,Classic T-Shirt,Apparel,3,450,15,202.5,1147.5,2025-08-14 08:37:00,8,PayPal,Completed,West Craig,False
+SHOP-00158,Allison Williams,marcomyers@example.com,Hoodie Premium,Apparel,3,1200,0,0.0,3600.0,2025-08-01 10:12:00,10,GCash,Shipped,North Lori,False
+SHOP-00159,Gregory Herrera,teresa14@example.org,Sticker Pack (10),Stationery,5,150,5,37.5,712.5,2025-05-20 21:10:00,21,PayPal,Pending,Nelsonside,False
+SHOP-00160,James Yang,derek70@example.com,Canvas Tote Bag,Bags,3,550,15,247.5,1402.5,2025-02-28 15:04:00,15,GCash,Completed,Daughertyborough,False
+SHOP-00161,Daniel Sosa,lozanolaura@example.org,Coffee Mug,Home,5,400,0,0.0,2000.0,2025-02-16 20:25:00,20,Credit Card,Completed,Steventown,False
+SHOP-00162,Michael Hicks,brandon52@example.com,Hoodie Premium,Apparel,4,1200,0,0.0,4800.0,2025-12-11 19:43:00,19,PayPal,Shipped,West Elizabeth,False
+SHOP-00163,Phillip Flores,sarahjacobs@example.com,Coffee Mug,Home,3,400,0,0.0,1200.0,2025-12-12 11:30:00,11,Credit Card,Shipped,Port Justin,False
+SHOP-00164,Mark Cruz,rhobbs@example.org,Sticker Pack (10),Stationery,92,150,0,0.0,13800.0,2025-11-28 09:40:00,9,COD,Completed,Port Christine,False
+SHOP-00165,Matthew Stephens,richard45@example.com,Coffee Mug,Home,1,400,0,0.0,400.0,2025-01-24 08:19:00,8,COD,Completed,New Margaretside,False
+SHOP-00166,Kelli Carlson,sherry11@example.net,Hoodie Premium,Apparel,2,1200,5,120.0,2280.0,2025-03-11 14:29:00,14,PayPal,Shipped,Jamestown,False
+SHOP-00167,Eric Price,nmiller@example.net,Coffee Mug,Home,5,400,10,200.0,1800.0,2025-03-21 22:26:00,22,Credit Card,Pending,North Bryan,False
+SHOP-00168,Mary Rios,jbruce@example.com,Coffee Mug,Home,3,400,0,0.0,1200.0,2025-12-20 13:13:00,13,COD,Pending,West Samanthamouth,False
+SHOP-00169,Michael Smith,wendyjones@example.org,Laptop Sleeve,Accessories,3,800,0,0.0,2400.0,2025-12-18 13:34:00,13,PayPal,Completed,Schwartzshire,False
+SHOP-00170,Morgan Lopez,kcampbell@example.net,Coffee Mug,Home,3,400,0,0.0,1200.0,2025-03-04 21:52:00,21,COD,Completed,Dominguezborough,False
+SHOP-00171,Laura Long,vowen@example.org,Laptop Sleeve,Accessories,5,800,0,0.0,4000.0,2025-01-26 20:21:00,20,GCash,Completed,New Kathyfurt,False
+SHOP-00172,Julie Armstrong,kevinconway@example.com,Laptop Sleeve,Accessories,1,800,15,120.0,680.0,2025-10-11 11:37:00,11,GCash,Completed,North Christine,False
+SHOP-00173,Jordan Roberts,piercetony@example.net,Sticker Pack (10),Stationery,2,150,15,45.0,255.0,2025-11-02 08:17:00,8,GCash,Completed,West Jamesview,False
+SHOP-00174,Kevin Simpson,floresjonathan@example.net,Canvas Tote Bag,Bags,2,550,0,0.0,1100.0,2025-12-05 21:01:00,21,GCash,Completed,Austinberg,False
+SHOP-00175,Melinda Morris,perezronald@example.com,Sticker Pack (10),Stationery,2,150,5,15.0,285.0,2025-06-15 08:11:00,8,PayPal,Completed,Kristiborough,False
+SHOP-00176,Kristin Christensen,jjackson@example.net,Phone Case,Accessories,4,350,5,70.0,1330.0,2025-02-28 02:56:00,2,COD,Pending,Lake Jessehaven,False
+SHOP-00177,Michael Jones,shawnbrewer@example.org,Sticker Pack (10),Stationery,5,150,5,37.5,712.5,2025-02-25 15:32:00,15,GCash,Shipped,East Ronald,False
+SHOP-00178,Courtney Scott,brenda07@example.org,Classic T-Shirt,Apparel,5,450,0,0.0,2250.0,2025-08-23 18:01:00,18,Credit Card,Pending,West Victor,False
+SHOP-00179,Cassandra Salinas,william26@example.com,Coffee Mug,Home,4,400,10,160.0,1440.0,2025-02-25 15:45:00,15,COD,Completed,North James,False
+SHOP-00180,Leslie Bishop,jknight@example.org,Hoodie Premium,Apparel,3,1200,90,3240.0,360.0,2025-10-10 01:09:00,9,PayPal,Refunded,North Edward,True
+SHOP-00181,Jennifer Lawson,scott78@example.net,Sticker Pack (10),Stationery,4,150,5,30.0,570.0,2025-09-29 12:29:00,12,COD,Completed,Bensonstad,False
+SHOP-00182,Stacey Johnson,david54@example.net,Hoodie Premium,Apparel,5,1200,10,600.0,5400.0,2025-04-21 14:28:00,14,GCash,Pending,Heatherfort,False
+SHOP-00183,Brandon Neal,nchang@example.net,Sticker Pack (10),Stationery,4,150,0,0.0,600.0,2025-08-01 19:06:00,19,PayPal,Pending,New Kelseystad,False
+SHOP-00184,Michele Martin,bellchad@example.com,Sticker Pack (10),Stationery,3,150,0,0.0,450.0,2025-03-20 18:59:00,18,COD,Completed,Annetteborough,False
+SHOP-00185,Lucas Ross,watkinsxavier@example.com,Hoodie Premium,Apparel,1,1200,0,0.0,1200.0,2025-08-10 09:47:00,9,PayPal,Completed,East Rossmouth,False
+SHOP-00186,Kaitlyn Fisher,wfrancis@example.com,Classic T-Shirt,Apparel,5,450,5,112.5,2137.5,2025-10-15 13:42:00,13,Credit Card,Pending,Owenston,False
+SHOP-00187,Ellen Ellison,phobbs@example.com,Sticker Pack (10),Stationery,4,150,15,90.0,510.0,2025-01-27 12:38:00,12,PayPal,Completed,North Joseph,False
+SHOP-00188,David Moreno,bakerjeremy@example.net,Hoodie Premium,Apparel,5,1200,5,300.0,5700.0,2025-04-19 10:42:00,10,COD,Completed,North Darrenshire,False
+SHOP-00189,David Velasquez,jasonbell@example.net,Hoodie Premium,Apparel,3,1200,15,540.0,3060.0,2025-10-12 13:07:00,13,PayPal,Shipped,Connerbury,False
+SHOP-00190,Katherine Ruiz,brichard@example.org,Laptop Sleeve,Accessories,4,800,15,480.0,2720.0,2025-10-15 20:52:00,20,Credit Card,Shipped,Chaseville,False
+SHOP-00191,Kathryn Houston,dgomez@example.net,Canvas Tote Bag,Bags,1,550,0,0.0,550.0,2025-05-20 19:48:00,19,PayPal,Completed,Lake Elizabethport,False
+SHOP-00192,Shaun Carlson,laurafox@example.org,Sticker Pack (10),Stationery,1,150,0,0.0,150.0,2025-03-15 17:42:00,17,COD,Completed,Brownmouth,False
+SHOP-00193,Christopher Mitchell,sharon66@example.net,Phone Case,Accessories,1,350,0,0.0,350.0,2025-10-10 02:46:00,2,COD,Refunded,Lake Isabellaborough,True
+SHOP-00194,Anthony Logan,agutierrez@example.net,Sticker Pack (10),Stationery,2,150,0,0.0,300.0,2025-06-09 19:20:00,19,Credit Card,Completed,Wellsmouth,False
+SHOP-00195,Jennifer Zamora,goodwinbrent@example.com,Phone Case,Accessories,2,350,15,105.0,595.0,2025-11-13 08:43:00,8,Credit Card,Completed,East Melanieton,False
+SHOP-00196,Tracy Schmidt,psmith@example.com,Water Bottle,Home,4,600,0,0.0,2400.0,2025-11-07 15:26:00,15,PayPal,Completed,North Michaelland,False
+SHOP-00197,Keith Watson,nicholas44@example.net,Hoodie Premium,Apparel,3,1200,0,0.0,3600.0,2025-02-26 12:43:00,12,COD,Shipped,New Ashleyfurt,False
+SHOP-00198,Christopher Daniels,danielle50@example.com,Canvas Tote Bag,Bags,1,550,0,0.0,550.0,2025-07-22 17:03:00,17,Credit Card,Completed,North Patricia,False
+SHOP-00199,Gregory Collins,ascott@example.net,Canvas Tote Bag,Bags,2,550,15,165.0,935.0,2025-03-12 20:16:00,20,PayPal,Completed,Port Christopherberg,False
+SHOP-00200,Haley Beck,ghoward@example.org,Hoodie Premium,Apparel,1,1200,0,0.0,1200.0,2025-08-09 10:08:00,10,COD,Shipped,East Rachaelside,False
+SHOP-00201,Karen Moore,ewilkerson@example.com,Laptop Sleeve,Accessories,5,800,5,200.0,3800.0,2025-12-09 20:22:00,20,Credit Card,Pending,Mitchellfort,False
+SHOP-00202,Juan Suspicious,suspicious.buyer@fakeemail.com,Classic T-Shirt,Apparel,4,450,0,0.0,1800.0,2025-08-24 22:04:00,22,PayPal,Shipped,Craigmouth,False
+SHOP-00203,Amanda Gonzalez DVM,kenneth17@example.com,Coffee Mug,Home,5,400,0,0.0,2000.0,2025-12-30 18:26:00,18,PayPal,Completed,Janetchester,False
+SHOP-00204,Paul Russell,sheilacarson@example.com,Coffee Mug,Home,1,400,0,0.0,400.0,2025-03-29 20:39:00,20,COD,Completed,Glentown,False
+SHOP-00205,Sarah Wade,kristinehodges@example.net,Hoodie Premium,Apparel,4,1200,15,720.0,4080.0,2025-02-24 11:27:00,11,COD,Shipped,Rebeccaport,False
+SHOP-00206,Darryl Silva,bookerjasmin@example.net,Hoodie Premium,Apparel,4,1200,15,720.0,4080.0,2025-06-08 19:21:00,19,GCash,Completed,Serranoland,False
+SHOP-00207,Victoria Hart,dallen@example.com,Phone Case,Accessories,1,350,5,17.5,332.5,2025-11-21 09:33:00,9,GCash,Completed,Hineston,False
+SHOP-00208,Lori Bell,colsen@example.net,Sticker Pack (10),Stationery,2,150,0,0.0,300.0,2025-02-22 10:16:00,10,GCash,Completed,Clineburgh,False
+SHOP-00209,Rachel Johnson,devin30@example.org,Phone Case,Accessories,1,350,0,0.0,350.0,2025-11-18 15:29:00,15,COD,Shipped,Perryfurt,False
+SHOP-00210,Teresa Lopez,williamsheather@example.org,Sticker Pack (10),Stationery,3,150,0,0.0,450.0,2025-08-14 09:30:00,9,COD,Completed,East Adam,False
+SHOP-00211,Charles Garcia,vasquezmichael@example.net,Canvas Tote Bag,Bags,5,550,0,0.0,2750.0,2025-06-30 16:04:00,16,PayPal,Pending,East Maria,False
+SHOP-00212,Scott Ortiz,danielthompson@example.net,Water Bottle,Home,1,600,0,0.0,600.0,2025-07-08 21:18:00,21,Credit Card,Completed,Tabithaburgh,False
+SHOP-00213,Nancy Washington,abeck@example.net,Coffee Mug,Home,4,400,5,80.0,1520.0,2025-10-11 20:47:00,20,Credit Card,Pending,Johnsonberg,False
+SHOP-00214,Tracy Beasley,osmith@example.org,Laptop Sleeve,Accessories,3,800,5,120.0,2280.0,2025-09-01 16:09:00,16,Credit Card,Pending,New Jessica,False
+SHOP-00215,Kevin Keller,dixonsarah@example.org,Hoodie Premium,Apparel,3,1200,10,360.0,3240.0,2025-02-13 16:41:00,16,GCash,Completed,Kennethtown,False
+SHOP-00216,Adam Schaefer,robertsjohn@example.net,Laptop Sleeve,Accessories,4,800,0,0.0,3200.0,2025-09-26 16:39:00,16,GCash,Completed,North Deanna,False
+SHOP-00217,Marcus Martin,zwilliams@example.net,Sticker Pack (10),Stationery,3,150,0,0.0,450.0,2025-07-29 20:21:00,20,Credit Card,Completed,Mcgeetown,False
+SHOP-00218,Krista Herrera,patrickstout@example.net,Hoodie Premium,Apparel,3,1200,0,0.0,3600.0,2025-10-13 18:24:00,18,PayPal,Completed,North Elizabethhaven,False
+SHOP-00219,James White,chaveztheresa@example.org,Phone Case,Accessories,3,350,0,0.0,1050.0,2025-10-26 18:09:00,18,PayPal,Completed,Henryhaven,False
+SHOP-00220,Ian Gillespie,morganroger@example.com,Coffee Mug,Home,2,400,5,40.0,760.0,2025-12-29 09:19:00,9,COD,Completed,Chadmouth,False
+SHOP-00221,Briana Smith,bryan78@example.com,Phone Case,Accessories,5,350,0,0.0,1750.0,2025-11-27 18:27:00,18,PayPal,Completed,Lambertshire,False
+SHOP-00222,Christina Burke,kristengarrett@example.net,Sticker Pack (10),Stationery,3,150,0,0.0,450.0,2025-04-20 13:49:00,13,COD,Completed,West Maria,False
+SHOP-00223,Manuel Morse,alexander30@example.com,Laptop Sleeve,Accessories,2,800,0,0.0,1600.0,2025-02-09 12:54:00,12,Credit Card,Shipped,Carrollfort,False
+SHOP-00224,Nicholas Burton,josepadilla@example.com,Classic T-Shirt,Apparel,3,450,15,202.5,1147.5,2025-11-13 10:38:00,10,COD,Completed,North Sarah,False
+SHOP-00225,Danielle Mitchell,richardowens@example.org,Phone Case,Accessories,2,350,95,665.0,35.0,2025-12-21 20:39:00,20,GCash,Pending,South John,False
+SHOP-00226,Jeff Fernandez,djohnson@example.org,Classic T-Shirt,Apparel,4,450,0,0.0,1800.0,2025-12-13 19:15:00,19,COD,Shipped,East Williamland,False
+SHOP-00227,Alexis Alvarado,watsonkatherine@example.com,Canvas Tote Bag,Bags,4,550,0,0.0,2200.0,2025-10-01 11:19:00,11,COD,Completed,Dixonchester,False
+SHOP-00228,Jessica Beard,georgetroy@example.net,Sticker Pack (10),Stationery,5,150,0,0.0,750.0,2025-08-25 20:18:00,20,COD,Shipped,East Andrew,False
+SHOP-00229,Mariah Vasquez,jrichardson@example.com,Coffee Mug,Home,52,400,0,0.0,20800.0,2025-04-13 20:38:00,20,GCash,Completed,Rebeccabury,False
+SHOP-00230,James Braun,joel62@example.net,Classic T-Shirt,Apparel,4,450,15,270.0,1530.0,2025-07-10 16:59:00,16,Credit Card,Shipped,East Kristenmouth,False
+SHOP-00231,Jill Hernandez,hcrawford@example.com,Hoodie Premium,Apparel,3,1200,0,0.0,3600.0,2025-03-24 12:28:00,12,GCash,Pending,Williamsside,False
+SHOP-00232,Mr. Marcus Hughes,whitakerdiane@example.org,Hoodie Premium,Apparel,2,1200,15,360.0,2040.0,2025-10-10 00:09:00,22,Credit Card,Refunded,South Charlesborough,True
+SHOP-00233,David Clark,lisa98@example.net,Classic T-Shirt,Apparel,4,450,5,90.0,1710.0,2025-07-11 11:24:00,11,Credit Card,Completed,North Austin,False
+SHOP-00234,Paula Campbell,fosterjoseph@example.com,Laptop Sleeve,Accessories,1,800,0,0.0,800.0,2025-02-20 21:45:00,21,PayPal,Completed,Port Roger,False
+SHOP-00235,Melissa Phillips,thomas07@example.net,Phone Case,Accessories,1,350,0,0.0,350.0,2025-08-30 19:53:00,19,GCash,Pending,East Jamesport,False
+SHOP-00236,Dorothy Wilkerson,jennifervalencia@example.net,Water Bottle,Home,5,600,0,0.0,3000.0,2025-02-10 08:16:00,8,GCash,Completed,Georgeton,False
+SHOP-00237,Dr. Samantha Colon,pauljerry@example.com,Coffee Mug,Home,1,400,15,60.0,340.0,2025-05-28 11:19:00,11,Credit Card,Completed,New Thomas,False
+SHOP-00238,Kevin Fritz,joshuaperez@example.com,Laptop Sleeve,Accessories,4,800,10,320.0,2880.0,2025-11-15 15:04:00,15,Credit Card,Pending,Osbornburgh,False
+SHOP-00239,Kristin Wilson,brownjessica@example.org,Classic T-Shirt,Apparel,5,450,5,112.5,2137.5,2025-05-04 19:09:00,19,PayPal,Pending,Bonnieview,False
+SHOP-00240,Ashley Stephenson,irwinrobert@example.com,Classic T-Shirt,Apparel,5,450,0,0.0,2250.0,2025-05-04 17:26:00,17,GCash,Completed,Mcbrideberg,False
+SHOP-00241,Amber Knox,michael77@example.org,Sticker Pack (10),Stationery,1,150,5,7.5,142.5,2025-10-06 16:50:00,16,Credit Card,Pending,East Megan,False
+SHOP-00242,Robert Campbell DVM,brianwilson@example.org,Water Bottle,Home,1,600,10,60.0,540.0,2025-07-18 13:16:00,13,Credit Card,Completed,Yorkmouth,False
+SHOP-00243,Bradley Hull,amy52@example.net,Hoodie Premium,Apparel,3,1200,0,0.0,3600.0,2025-12-03 18:06:00,18,PayPal,Completed,Alexanderchester,False
+SHOP-00244,Lisa Flores,sgray@example.net,Classic T-Shirt,Apparel,3,450,5,67.5,1282.5,2025-06-23 21:41:00,21,GCash,Pending,Lake Aaron,False
+SHOP-00245,Dale Cohen,ashley59@example.org,Water Bottle,Home,2,600,15,180.0,1020.0,2025-03-11 09:45:00,9,COD,Completed,West Debbie,False
+SHOP-00246,Nicole Espinoza,collinsjennifer@example.org,Canvas Tote Bag,Bags,2,550,0,0.0,1100.0,2025-04-13 22:02:00,22,PayPal,Completed,Veronicachester,False
+SHOP-00247,Ryan Walters,omoore@example.org,Coffee Mug,Home,5,400,0,0.0,2000.0,2025-05-10 08:48:00,8,GCash,Completed,New Thomas,False
+SHOP-00248,David Robinson,brettmoon@example.net,Sticker Pack (10),Stationery,1,150,15,22.5,127.5,2025-12-02 13:17:00,13,Credit Card,Completed,Lake Christophermouth,False
+SHOP-00249,Breanna Nelson,adriantorres@example.com,Coffee Mug,Home,4,400,10,160.0,1440.0,2025-08-14 22:24:00,22,PayPal,Completed,Jamesmouth,False
+SHOP-00250,Kimberly Mendoza,sweeneyjeffery@example.org,Water Bottle,Home,4,600,0,0.0,2400.0,2025-09-23 12:51:00,12,Credit Card,Pending,Patriciaside,False
+SHOP-00251,Heather Roberts,robertschristina@example.org,Hoodie Premium,Apparel,4,1200,5,240.0,4560.0,2025-04-03 16:18:00,16,PayPal,Completed,Jenniferhaven,False
+SHOP-00252,Linda Padilla,victor62@example.com,Hoodie Premium,Apparel,3,1200,10,360.0,3240.0,2025-06-01 12:28:00,12,COD,Completed,Port Michaelton,False
+SHOP-00253,Mrs. Rachael Caldwell,ambermassey@example.org,Water Bottle,Home,3,600,0,0.0,1800.0,2025-01-22 19:55:00,19,PayPal,Shipped,Port Denisebury,False
+SHOP-00254,Jason Thomas,keycrystal@example.org,Coffee Mug,Home,3,400,10,120.0,1080.0,2025-01-30 09:42:00,9,COD,Completed,Farmerburgh,False
+SHOP-00255,Lisa Graham,tapiajerry@example.net,Phone Case,Accessories,1,350,0,0.0,350.0,2025-11-08 18:50:00,18,COD,Completed,North Regina,False
+SHOP-00256,Kathryn Perry,kevin26@example.com,Phone Case,Accessories,1,350,0,0.0,350.0,2025-11-27 13:23:00,13,COD,Shipped,Hendersonborough,False
+SHOP-00257,David Barrett,wilkersontracey@example.net,Classic T-Shirt,Apparel,5,450,0,0.0,2250.0,2025-12-14 15:23:00,15,PayPal,Pending,West Sean,False
+SHOP-00258,Melissa Simmons,candacejohnson@example.net,Hoodie Premium,Apparel,5,1200,0,0.0,6000.0,2025-09-29 13:25:00,13,PayPal,Completed,East Susan,False
+SHOP-00259,Steven Schneider,vwright@example.org,Laptop Sleeve,Accessories,1,800,0,0.0,800.0,2025-04-06 15:33:00,15,COD,Shipped,Port Deborah,False
+SHOP-00260,David Miller,tonya72@example.org,Hoodie Premium,Apparel,3,1200,15,540.0,3060.0,2025-05-14 19:28:00,19,GCash,Shipped,Jacksonland,False
+SHOP-00261,Stephen Bentley,cwong@example.com,Canvas Tote Bag,Bags,4,550,0,0.0,2200.0,2025-03-04 10:54:00,10,Credit Card,Pending,South Charlesville,False
+SHOP-00262,Lisa Butler,krogers@example.com,Phone Case,Accessories,4,350,0,0.0,1400.0,2025-12-16 21:20:00,21,PayPal,Completed,East Ryanton,False
+SHOP-00263,Heather Estrada,kennethanderson@example.com,Canvas Tote Bag,Bags,3,550,15,247.5,1402.5,2025-03-22 19:45:00,19,GCash,Completed,East Emilyview,False
+SHOP-00264,Jordan Sexton,tammy19@example.net,Laptop Sleeve,Accessories,1,800,0,0.0,800.0,2025-03-13 11:50:00,11,COD,Completed,Thomasbury,False
+SHOP-00265,Mrs. Tiffany Gallagher DVM,nathan14@example.org,Sticker Pack (10),Stationery,5,150,5,37.5,712.5,2025-07-08 15:51:00,15,GCash,Shipped,West Jacobside,False
+SHOP-00266,Brenda Cummings,robert97@example.net,Hoodie Premium,Apparel,1,1200,0,0.0,1200.0,2025-07-23 19:46:00,19,COD,Shipped,Quinnberg,False
+SHOP-00267,Bryan Rivers,robert30@example.com,Coffee Mug,Home,4,400,15,240.0,1360.0,2025-10-22 09:08:00,9,PayPal,Completed,Lake Rachelmouth,False
+SHOP-00268,Meghan Gregory,arodgers@example.net,Water Bottle,Home,4,600,10,240.0,2160.0,2025-09-22 13:08:00,13,GCash,Completed,West Sergio,False
+SHOP-00269,Stephen Brown,lisa36@example.com,Coffee Mug,Home,5,400,15,300.0,1700.0,2025-01-29 21:07:00,21,GCash,Completed,South Kurtfurt,False
+SHOP-00270,Steven Hall,joshua35@example.com,Phone Case,Accessories,2,350,0,0.0,700.0,2025-12-30 11:22:00,11,PayPal,Completed,Lake Michelle,False
+SHOP-00271,John Hunter,matthewturner@example.com,Canvas Tote Bag,Bags,2,550,10,110.0,990.0,2025-10-10 12:08:00,12,PayPal,Shipped,Lake Shari,False
+SHOP-00272,Carolyn Chavez,paul68@example.org,Hoodie Premium,Apparel,5,1200,10,600.0,5400.0,2025-03-28 17:37:00,17,GCash,Completed,Lake Samuel,False
+SHOP-00273,Matthew Roberts,robert89@example.net,Sticker Pack (10),Stationery,5,150,0,0.0,750.0,2025-01-15 09:02:00,9,PayPal,Completed,New Catherine,False
+SHOP-00274,Toni Wolf,gabrielhood@example.org,Coffee Mug,Home,5,400,10,200.0,1800.0,2025-01-16 15:56:00,15,PayPal,Completed,Masonstad,False
+SHOP-00275,Colin Mullins,walkerkayla@example.com,Water Bottle,Home,2,600,15,180.0,1020.0,2025-12-17 14:19:00,14,COD,Completed,Ashleyfort,False
+SHOP-00276,Megan Peters DDS,sanchezkevin@example.org,Classic T-Shirt,Apparel,2,450,0,0.0,900.0,2025-08-01 15:29:00,15,GCash,Completed,Claudiaberg,False
+SHOP-00277,Betty Morris,nparker@example.org,Phone Case,Accessories,3,350,15,157.5,892.5,2025-06-13 19:55:00,19,PayPal,Pending,West Kelli,False
+SHOP-00278,John Gilbert,qbradley@example.net,Phone Case,Accessories,3,350,5,52.5,997.5,2025-10-15 09:20:00,9,GCash,Pending,Troyfurt,False
+SHOP-00279,Nicholas Marshall,christopher06@example.net,Hoodie Premium,Apparel,3,1200,0,0.0,3600.0,2025-05-07 10:06:00,10,Credit Card,Completed,West Rebecca,False
+SHOP-00280,Kenneth Holmes,corey82@example.net,Coffee Mug,Home,5,400,0,0.0,2000.0,2025-05-08 21:57:00,21,GCash,Completed,Deckerberg,False
+SHOP-00281,Anthony Morales,jessicacollier@example.net,Sticker Pack (10),Stationery,2,150,15,45.0,255.0,2025-03-23 15:32:00,15,COD,Pending,East Sabrinafort,False
+SHOP-00282,Martin Russell,younglaura@example.net,Canvas Tote Bag,Bags,4,550,0,0.0,2200.0,2025-02-16 14:32:00,14,COD,Completed,Greghaven,False
+SHOP-00283,Michelle Reyes,justin88@example.net,Laptop Sleeve,Accessories,5,800,0,0.0,4000.0,2025-01-25 08:18:00,8,COD,Shipped,Lake Anthonyland,False
+SHOP-00284,Jon Tran,ztaylor@example.net,Water Bottle,Home,3,600,5,90.0,1710.0,2025-01-05 21:06:00,21,COD,Completed,East Cheryl,False
+SHOP-00285,Justin Howe,xhenry@example.org,Canvas Tote Bag,Bags,3,550,15,247.5,1402.5,2025-07-26 13:02:00,13,COD,Completed,Brianton,False
+SHOP-00286,Timothy Brown,howellbrandon@example.net,Laptop Sleeve,Accessories,3,800,5,120.0,2280.0,2025-05-28 09:24:00,9,COD,Shipped,Wallershire,False
+SHOP-00287,William Jones,amber26@example.org,Canvas Tote Bag,Bags,5,550,10,275.0,2475.0,2025-11-09 09:08:00,9,Credit Card,Pending,Jamesport,False
+SHOP-00288,Antonio Holmes,mjohnson@example.net,Sticker Pack (10),Stationery,3,150,5,22.5,427.5,2025-07-07 20:09:00,20,GCash,Shipped,South Anna,False
+SHOP-00289,Jodi Shepherd,ericawright@example.com,Coffee Mug,Home,5,400,0,0.0,2000.0,2025-01-24 08:08:00,8,PayPal,Pending,Thorntonshire,False
+SHOP-00290,Isaac Crawford,allisonfrancis@example.com,Water Bottle,Home,2,600,5,60.0,1140.0,2025-09-21 10:20:00,10,PayPal,Completed,Danielmouth,False
+SHOP-00291,Brian Johnson,benjaminburke@example.org,Coffee Mug,Home,5,400,10,200.0,1800.0,2025-06-03 17:21:00,17,COD,Shipped,Hernandezton,False
+SHOP-00292,Terry Collins,adrian74@example.com,Canvas Tote Bag,Bags,4,550,15,330.0,1870.0,2025-01-09 13:21:00,13,Credit Card,Pending,Morrisonland,False
+SHOP-00293,Juan Suspicious,suspicious.buyer@fakeemail.com,Canvas Tote Bag,Bags,1,550,5,27.5,522.5,2025-08-31 12:41:00,12,GCash,Completed,West Katie,False
+SHOP-00294,Tonya Ortiz,suzanneclark@example.net,Water Bottle,Home,2,600,5,60.0,1140.0,2025-11-19 19:39:00,19,COD,Completed,Johnfurt,False
+SHOP-00295,Alexis Jones,smithashley@example.com,Laptop Sleeve,Accessories,1,800,5,40.0,760.0,2025-12-25 09:12:00,9,Credit Card,Pending,Kyleburgh,False
+SHOP-00296,Gloria Bailey,robert81@example.org,Sticker Pack (10),Stationery,4,150,0,0.0,600.0,2025-10-10 01:23:00,19,COD,Refunded,East Connor,True
+SHOP-00297,Christopher Powers,jody62@example.com,Water Bottle,Home,1,600,10,60.0,540.0,2025-03-12 16:13:00,16,PayPal,Pending,North Stephenchester,False
+SHOP-00298,Dana Salazar,maddoxalexa@example.com,Coffee Mug,Home,3,400,0,0.0,1200.0,2025-08-24 22:34:00,22,PayPal,Shipped,New Amanda,False
+SHOP-00299,Justin Nelson,xhodges@example.org,Sticker Pack (10),Stationery,3,150,5,22.5,427.5,2025-09-05 11:15:00,11,PayPal,Shipped,Port Michael,False
+SHOP-00300,Andrew Parker,dweaver@example.com,Canvas Tote Bag,Bags,2,550,0,0.0,1100.0,2025-05-28 19:13:00,19,COD,Completed,Meganhaven,False
+SHOP-00301,Crystal Davis,millerkimberly@example.com,Water Bottle,Home,3,600,5,90.0,1710.0,2025-05-21 12:07:00,12,COD,Pending,Youngside,False
+SHOP-00302,Thomas Parker,paul67@example.com,Sticker Pack (10),Stationery,2,150,0,0.0,300.0,2025-01-22 12:45:00,12,Credit Card,Completed,Markport,False
+SHOP-00303,Gregory King,campbelljohn@example.net,Water Bottle,Home,3,600,10,180.0,1620.0,2025-09-03 11:12:00,11,PayPal,Shipped,Avilabury,False
+SHOP-00304,Charlotte Hernandez,david34@example.org,Canvas Tote Bag,Bags,2,550,0,0.0,1100.0,2025-11-12 19:37:00,19,GCash,Completed,South Anna,False
+SHOP-00305,Tracey Johnson,haynesfrancisco@example.org,Classic T-Shirt,Apparel,5,450,0,0.0,2250.0,2025-11-23 04:45:00,4,Credit Card,Pending,New Dawnhaven,False
+SHOP-00306,Anne Stewart,james85@example.com,Sticker Pack (10),Stationery,4,150,0,0.0,600.0,2025-12-15 20:08:00,20,Credit Card,Shipped,Shannonville,False
+SHOP-00307,Jamie Bradford,schen@example.com,Phone Case,Accessories,4,350,10,140.0,1260.0,2025-09-01 15:41:00,15,GCash,Completed,East Ericland,False
+SHOP-00308,Jonathan Shepard,hoodkristy@example.net,Sticker Pack (10),Stationery,3,150,10,45.0,405.0,2025-01-31 22:49:00,22,Credit Card,Shipped,Frankville,False
+SHOP-00309,Christine Tanner,mcleanheather@example.com,Laptop Sleeve,Accessories,5,800,10,400.0,3600.0,2025-01-20 22:58:00,22,GCash,Pending,West Christopher,False
+SHOP-00310,Amy Johnson,psimmons@example.com,Phone Case,Accessories,1,350,15,52.5,297.5,2025-07-23 20:31:00,20,GCash,Completed,East Dillonborough,False
+SHOP-00311,Elizabeth Evans,nelsonnicole@example.org,Classic T-Shirt,Apparel,1,450,0,0.0,450.0,2025-10-18 17:06:00,17,PayPal,Completed,Edwardsfurt,False
+SHOP-00312,Clayton Clarke,rrodriguez@example.net,Water Bottle,Home,5,600,5,150.0,2850.0,2025-09-10 22:08:00,22,COD,Completed,Duranmouth,False
+SHOP-00313,Chelsea Hickman,danielmartinez@example.com,Laptop Sleeve,Accessories,1,800,0,0.0,800.0,2025-03-25 19:29:00,19,PayPal,Completed,Hardinmouth,False
+SHOP-00314,Yolanda Hanson,michael44@example.org,Classic T-Shirt,Apparel,3,450,15,202.5,1147.5,2025-06-01 17:43:00,17,GCash,Completed,Nathanborough,False
+SHOP-00315,Caleb Rodriguez,elizabethjohnson@example.net,Coffee Mug,Home,4,400,5,80.0,1520.0,2025-06-17 09:25:00,9,Credit Card,Completed,Collinsstad,False
+SHOP-00316,Cody Burns,uwilson@example.net,Phone Case,Accessories,4,350,0,0.0,1400.0,2025-05-08 08:16:00,8,COD,Completed,Port Danastad,False
+SHOP-00317,Gregory Smith,parker42@example.org,Water Bottle,Home,3,600,0,0.0,1800.0,2025-06-04 17:46:00,17,Credit Card,Completed,West Rachelland,False
+SHOP-00318,Rachel Murphy,wendy45@example.org,Sticker Pack (10),Stationery,2,150,0,0.0,300.0,2025-12-08 09:29:00,9,PayPal,Completed,North Tracy,False
+SHOP-00319,Ashley Warren,bauervernon@example.net,Coffee Mug,Home,5,400,10,200.0,1800.0,2025-06-09 19:07:00,19,PayPal,Completed,Joshuaview,False
+SHOP-00320,Amanda King,gmccarthy@example.com,Laptop Sleeve,Accessories,2,800,0,0.0,1600.0,2025-09-02 10:29:00,10,PayPal,Pending,Matthewside,False
+SHOP-00321,Katrina Rivers,kara30@example.org,Water Bottle,Home,5,600,15,450.0,2550.0,2025-12-07 21:13:00,21,GCash,Shipped,East Jason,False
+SHOP-00322,Michael Thompson,michaelevans@example.org,Hoodie Premium,Apparel,5,1200,0,0.0,6000.0,2025-09-28 19:23:00,19,Credit Card,Shipped,West Amy,False
+SHOP-00323,Andrew Diaz,donnagarcia@example.org,Hoodie Premium,Apparel,1,1200,15,180.0,1020.0,2025-10-08 22:32:00,22,GCash,Shipped,South Thomasport,False
+SHOP-00324,Raymond Mcbride,nealgary@example.net,Phone Case,Accessories,2,350,0,0.0,700.0,2025-09-24 15:07:00,15,GCash,Shipped,New Michaelfurt,False
+SHOP-00325,Stephen Morales,evanwilliams@example.net,Water Bottle,Home,1,600,5,30.0,570.0,2025-08-17 20:03:00,20,COD,Completed,Wilsonport,False
+SHOP-00326,Wesley Chan,jonathanstone@example.com,Coffee Mug,Home,72,400,0,0.0,28800.0,2025-01-30 16:29:00,16,PayPal,Completed,North Zachary,False
+SHOP-00327,Dawn Bond,gardnerjeanette@example.org,Coffee Mug,Home,3,400,15,180.0,1020.0,2025-01-02 19:13:00,19,Credit Card,Completed,Lake Ericchester,False
+SHOP-00328,Andrea Tapia,jeffrey08@example.net,Coffee Mug,Home,3,400,10,120.0,1080.0,2025-02-02 16:03:00,16,Credit Card,Pending,Salasmouth,False
+SHOP-00329,Raven Poole,jeremiah13@example.net,Classic T-Shirt,Apparel,3,450,0,0.0,1350.0,2025-04-03 20:08:00,20,COD,Completed,Henryfort,False
+SHOP-00330,Tiffany Daniel,shannon98@example.org,Coffee Mug,Home,4,400,15,240.0,1360.0,2025-07-13 14:05:00,14,GCash,Completed,Ryanfort,False
+SHOP-00331,Amanda Martinez,mike70@example.net,Hoodie Premium,Apparel,2,1200,5,120.0,2280.0,2025-07-21 16:08:00,16,GCash,Completed,New Robert,False
+SHOP-00332,John Wade,owoods@example.org,Classic T-Shirt,Apparel,3,450,0,0.0,1350.0,2025-12-11 19:34:00,19,COD,Shipped,New Josephberg,False
+SHOP-00333,Karen Williams,msmith@example.com,Coffee Mug,Home,2,400,0,0.0,800.0,2025-08-24 13:09:00,13,PayPal,Completed,Williamburgh,False
+SHOP-00334,Jack Marsh,fthompson@example.net,Hoodie Premium,Apparel,1,1200,15,180.0,1020.0,2025-12-05 14:39:00,14,Credit Card,Completed,Smithfort,False
+SHOP-00335,Timothy Hall,jessicasmith@example.org,Laptop Sleeve,Accessories,1,800,0,0.0,800.0,2025-11-01 08:28:00,8,Credit Card,Completed,New Roger,False
+SHOP-00336,Charles Johnson,lee54@example.net,Classic T-Shirt,Apparel,4,450,0,0.0,1800.0,2025-04-30 16:13:00,16,Credit Card,Completed,Cookeborough,False
+SHOP-00337,Heather Ford,petersonkristine@example.com,Canvas Tote Bag,Bags,2,550,15,165.0,935.0,2025-10-22 13:36:00,13,PayPal,Completed,Jeremymouth,False
+SHOP-00338,Justin Gonzales IV,perkinsleonard@example.net,Canvas Tote Bag,Bags,2,550,10,110.0,990.0,2025-09-24 11:26:00,11,PayPal,Completed,New Darrenberg,False
+SHOP-00339,Lauren Hernandez,jeanettefox@example.com,Classic T-Shirt,Apparel,5,450,5,112.5,2137.5,2025-03-31 18:43:00,18,COD,Shipped,Port Donnamouth,False
+SHOP-00340,Kimberly Morse,uchapman@example.net,Water Bottle,Home,1,600,0,0.0,600.0,2025-11-26 18:24:00,18,PayPal,Pending,New Angelicaberg,False
+SHOP-00341,Caitlyn Castaneda,julieromero@example.com,Coffee Mug,Home,2,400,0,0.0,800.0,2025-07-12 10:48:00,10,COD,Completed,Howellbury,False
+SHOP-00342,William Rogers,philipchen@example.net,Laptop Sleeve,Accessories,3,800,15,360.0,2040.0,2025-12-29 10:51:00,10,COD,Completed,Michaelside,False
+SHOP-00343,Katie Spencer,robertbrown@example.org,Coffee Mug,Home,4,400,5,80.0,1520.0,2025-09-29 10:24:00,10,GCash,Completed,Lake Christopherchester,False
+SHOP-00344,Heather Yang,browningkrista@example.com,Laptop Sleeve,Accessories,3,800,10,240.0,2160.0,2025-02-10 22:28:00,22,PayPal,Completed,Matthewfurt,False
+SHOP-00345,David Ortega,rjohnson@example.com,Laptop Sleeve,Accessories,1,800,0,0.0,800.0,2025-07-13 18:38:00,18,Credit Card,Completed,Manuelmouth,False
+SHOP-00346,Ronald Hudson,erica71@example.com,Laptop Sleeve,Accessories,5,800,10,400.0,3600.0,2025-12-10 16:13:00,16,COD,Completed,Graytown,False
+SHOP-00347,Julia Keith,angelacampbell@example.org,Sticker Pack (10),Stationery,3,150,0,0.0,450.0,2025-04-19 22:12:00,22,Credit Card,Pending,Lake Matthew,False
+SHOP-00348,Elizabeth Wade,sara51@example.net,Laptop Sleeve,Accessories,5,800,10,400.0,3600.0,2025-04-15 14:58:00,14,GCash,Shipped,Lake Dylanland,False
+SHOP-00349,Denise Davis,hnelson@example.net,Sticker Pack (10),Stationery,3,150,0,0.0,450.0,2025-08-27 16:41:00,16,PayPal,Completed,Lake Blakeberg,False
+SHOP-00350,Robert Garcia,bhoward@example.net,Canvas Tote Bag,Bags,3,550,5,82.5,1567.5,2025-09-12 15:06:00,15,COD,Completed,Vincentshire,False
+SHOP-00351,Caleb Johnson,heather82@example.org,Laptop Sleeve,Accessories,3,800,0,0.0,2400.0,2025-07-31 08:36:00,8,GCash,Completed,East Anthony,False
+SHOP-00352,Kathleen Kim,brookskatrina@example.net,Classic T-Shirt,Apparel,3,450,5,67.5,1282.5,2025-10-27 17:46:00,17,COD,Completed,Gilbertshire,False
+SHOP-00353,William Richardson,cperkins@example.net,Phone Case,Accessories,2,350,0,0.0,700.0,2025-04-28 14:36:00,14,GCash,Pending,New Maria,False
+SHOP-00354,Anita Alvarez,ifletcher@example.net,Sticker Pack (10),Stationery,3,150,15,67.5,382.5,2025-09-08 19:41:00,19,COD,Pending,Jessicamouth,False
+SHOP-00355,Brandy Smith,mflores@example.com,Phone Case,Accessories,3,350,0,0.0,1050.0,2025-03-13 19:34:00,19,COD,Completed,Shawnview,False
+SHOP-00356,Jessica Allen,ruizelizabeth@example.net,Classic T-Shirt,Apparel,5,450,0,0.0,2250.0,2025-02-08 21:42:00,21,Credit Card,Completed,North Judith,False
+SHOP-00357,Jamie Nguyen,nicholascooke@example.net,Coffee Mug,Home,2,400,15,120.0,680.0,2025-11-19 03:42:00,3,GCash,Completed,Lake Charleschester,False
+SHOP-00358,Stephanie Petty,vhenry@example.com,Laptop Sleeve,Accessories,5,800,0,0.0,4000.0,2025-07-11 08:39:00,8,COD,Pending,New Richard,False
+SHOP-00359,Elizabeth Henderson,npierce@example.net,Classic T-Shirt,Apparel,1,450,5,22.5,427.5,2025-10-10 14:00:00,14,Credit Card,Shipped,Gordonstad,False
+SHOP-00360,Ryan Young DDS,robert77@example.net,Canvas Tote Bag,Bags,5,550,0,0.0,2750.0,2025-01-09 16:52:00,16,COD,Completed,Diazstad,False
+SHOP-00361,Dwayne Briggs,washingtonmonica@example.net,Hoodie Premium,Apparel,1,1200,5,60.0,1140.0,2025-03-18 11:12:00,11,PayPal,Completed,West Joshuaton,False
+SHOP-00362,Jesse Stephens,cameronnguyen@example.net,Canvas Tote Bag,Bags,4,550,0,0.0,2200.0,2025-07-11 14:29:00,14,GCash,Completed,Valerieton,False
+SHOP-00363,Elizabeth Little,petersdiane@example.com,Canvas Tote Bag,Bags,1,550,10,55.0,495.0,2025-11-29 20:02:00,20,Credit Card,Pending,Ashleyside,False
+SHOP-00364,Robert Gibson,shannon06@example.net,Coffee Mug,Home,4,400,5,80.0,1520.0,2025-09-01 08:40:00,8,Credit Card,Completed,Brooksport,False
+SHOP-00365,Aaron Johnson,robert67@example.org,Hoodie Premium,Apparel,4,1200,15,720.0,4080.0,2025-08-11 18:50:00,18,PayPal,Shipped,East Lisa,False
+SHOP-00366,Elizabeth Lopez,laurasanders@example.com,Hoodie Premium,Apparel,5,1200,0,0.0,6000.0,2025-04-28 11:57:00,11,COD,Completed,Paigeburgh,False
+SHOP-00367,Stacy Price,wilsonstephanie@example.org,Classic T-Shirt,Apparel,1,450,10,45.0,405.0,2025-05-24 22:34:00,22,Credit Card,Completed,Lake Adamchester,False
+SHOP-00368,Connie Payne,pamela12@example.com,Sticker Pack (10),Stationery,1,150,0,0.0,150.0,2025-10-28 10:48:00,10,COD,Completed,Port Lancefurt,False
+SHOP-00369,Matthew Macias,jose94@example.com,Canvas Tote Bag,Bags,2,550,80,880.0,220.0,2025-05-04 17:53:00,17,COD,Shipped,South Saraside,False
+SHOP-00370,Amanda Erickson,rcoleman@example.org,Sticker Pack (10),Stationery,4,150,15,90.0,510.0,2025-03-13 20:44:00,20,Credit Card,Shipped,Stephensshire,False
+SHOP-00371,Tina Murphy,fieldsroger@example.net,Sticker Pack (10),Stationery,1,150,0,0.0,150.0,2025-08-12 11:53:00,11,Credit Card,Completed,Hensleymouth,False
+SHOP-00372,Nicole Sanchez,mathewslatoya@example.net,Coffee Mug,Home,3,400,0,0.0,1200.0,2025-11-21 12:50:00,12,COD,Pending,Gabrielfort,False
+SHOP-00373,Lisa Martin,wesleymiddleton@example.net,Laptop Sleeve,Accessories,3,800,5,120.0,2280.0,2025-07-12 14:11:00,14,COD,Completed,Lake Davidfurt,False
+SHOP-00374,Darren Roberts,madeline61@example.org,Canvas Tote Bag,Bags,2,550,10,110.0,990.0,2025-02-07 09:17:00,9,GCash,Pending,Wilsonport,False
+SHOP-00375,Peter Flores,murphygrant@example.org,Phone Case,Accessories,4,350,0,0.0,1400.0,2025-07-04 09:05:00,9,Credit Card,Completed,East Michellefort,False
+SHOP-00376,Sarah Dennis,leviberry@example.net,Water Bottle,Home,3,600,15,270.0,1530.0,2025-05-19 09:08:00,9,Credit Card,Completed,North Alexander,False
+SHOP-00377,Michelle York,harrisrichard@example.org,Coffee Mug,Home,4,400,5,80.0,1520.0,2025-10-12 16:26:00,16,Credit Card,Completed,Chantown,False
+SHOP-00378,Christopher Roberts,jasonmorse@example.net,Hoodie Premium,Apparel,3,1200,5,180.0,3420.0,2025-02-17 17:38:00,17,PayPal,Pending,Lake Thomasmouth,False
+SHOP-00379,Brett Williams,lindsay82@example.com,Classic T-Shirt,Apparel,3,450,0,0.0,1350.0,2025-07-18 20:05:00,20,GCash,Shipped,East Jessica,False
+SHOP-00380,Kathy Martinez,saramartinez@example.com,Phone Case,Accessories,4,350,0,0.0,1400.0,2025-03-13 12:19:00,12,PayPal,Pending,Baldwinchester,False
+SHOP-00381,Eric Brown,zbrown@example.org,Phone Case,Accessories,1,350,0,0.0,350.0,2025-08-11 12:26:00,12,PayPal,Pending,North Guyside,False
+SHOP-00382,Holly Benson,michaelsalazar@example.net,Hoodie Premium,Apparel,3,1200,0,0.0,3600.0,2025-05-07 19:40:00,19,COD,Shipped,East James,False
+SHOP-00383,Wanda Wallace,johnstonbrenda@example.com,Laptop Sleeve,Accessories,4,800,0,0.0,3200.0,2025-03-11 12:00:00,12,COD,Completed,Codyside,False
+SHOP-00384,Jill Williams,eric75@example.org,Coffee Mug,Home,3,400,0,0.0,1200.0,2025-06-21 14:52:00,14,GCash,Completed,North Lisa,False
+SHOP-00385,Randy Alvarado,robertobarnett@example.com,Sticker Pack (10),Stationery,5,150,10,75.0,675.0,2025-04-13 15:20:00,15,GCash,Pending,Toddton,False
+SHOP-00386,David Robinson,gordongardner@example.com,Sticker Pack (10),Stationery,3,150,10,45.0,405.0,2025-12-22 18:31:00,18,GCash,Completed,Garciaberg,False
+SHOP-00387,Gilbert Ford,mlivingston@example.com,Coffee Mug,Home,3,400,15,180.0,1020.0,2025-07-21 13:07:00,13,GCash,Shipped,Jamieport,False
+SHOP-00388,Patrick Holland,owilliams@example.com,Phone Case,Accessories,5,350,0,0.0,1750.0,2025-08-25 19:13:00,19,COD,Completed,North Joshuafort,False
+SHOP-00389,Robert Young,shawpamela@example.org,Hoodie Premium,Apparel,4,1200,10,480.0,4320.0,2025-10-10 01:27:00,10,PayPal,Refunded,Corymouth,True
+SHOP-00390,Dr. Chelsea Boyd DVM,joshuahoward@example.com,Canvas Tote Bag,Bags,2,550,10,110.0,990.0,2025-08-05 20:24:00,20,Credit Card,Pending,East Daniel,False
+SHOP-00391,Anna Bennett,wpatterson@example.com,Water Bottle,Home,5,600,0,0.0,3000.0,2025-10-01 16:59:00,16,COD,Shipped,West Stephanie,False
+SHOP-00392,Jose Lyons,parsonssamuel@example.net,Classic T-Shirt,Apparel,3,450,10,135.0,1215.0,2025-10-02 17:40:00,17,Credit Card,Completed,Andrewhaven,False
+SHOP-00393,Krista Adams,jordanmiller@example.com,Laptop Sleeve,Accessories,3,800,0,0.0,2400.0,2025-11-28 17:02:00,17,COD,Completed,Port Amyfort,False
+SHOP-00394,Gregory Elliott,lhernandez@example.net,Coffee Mug,Home,1,400,0,0.0,400.0,2025-02-20 12:14:00,12,GCash,Pending,West Juanland,False
+SHOP-00395,Darryl Chandler,skeith@example.net,Sticker Pack (10),Stationery,4,150,0,0.0,600.0,2025-12-14 17:44:00,17,GCash,Completed,West Davidmouth,False
+SHOP-00396,Samantha Jones,peggy13@example.net,Classic T-Shirt,Apparel,4,450,0,0.0,1800.0,2025-06-01 14:58:00,14,Credit Card,Completed,Nicolefurt,False
+SHOP-00397,Margaret Baker,olsengeorge@example.org,Phone Case,Accessories,3,350,0,0.0,1050.0,2025-06-25 15:50:00,15,GCash,Shipped,Scottton,False
+SHOP-00398,Stacy Brown,haynesevan@example.org,Water Bottle,Home,3,600,0,0.0,1800.0,2025-02-19 15:46:00,15,COD,Completed,Stoutport,False
+SHOP-00399,Gary Riley,hestes@example.org,Hoodie Premium,Apparel,3,1200,0,0.0,3600.0,2025-12-30 09:01:00,9,PayPal,Completed,New Diana,False
+SHOP-00400,Joseph Gibson,john65@example.net,Phone Case,Accessories,2,350,5,35.0,665.0,2025-03-31 16:10:00,16,PayPal,Shipped,Anthonyfurt,False
+SHOP-00401,Jack Ritter,bradleykatrina@example.org,Coffee Mug,Home,4,400,0,0.0,1600.0,2025-07-27 18:11:00,18,GCash,Pending,East Sherri,False
+SHOP-00402,Heather Adams,andersonnathan@example.org,Coffee Mug,Home,1,400,10,40.0,360.0,2025-11-11 22:12:00,22,COD,Shipped,Lake Elizabeth,False
+SHOP-00403,Michele Hawkins,jlopez@example.org,Coffee Mug,Home,4,400,80,1280.0,320.0,2025-12-27 11:13:00,11,PayPal,Completed,Fordmouth,False
+SHOP-00404,Seth Dominguez,pottervictor@example.org,Hoodie Premium,Apparel,5,1200,0,0.0,6000.0,2025-10-10 01:50:00,13,COD,Refunded,Lake Kyle,True
+SHOP-00405,Mr. Brian Burton,petersonkathryn@example.net,Canvas Tote Bag,Bags,4,550,5,110.0,2090.0,2025-11-24 13:38:00,13,COD,Shipped,East Audrey,False
+SHOP-00406,Tiffany Gonzalez,edwardrobinson@example.net,Coffee Mug,Home,5,400,0,0.0,2000.0,2025-06-28 13:54:00,13,COD,Shipped,East Meghan,False
+SHOP-00407,Alyssa Elliott,hunterdalton@example.com,Phone Case,Accessories,3,350,5,52.5,997.5,2025-10-30 09:43:00,9,GCash,Completed,North Deniseton,False
+SHOP-00408,Michele Green,stacey55@example.net,Hoodie Premium,Apparel,2,1200,0,0.0,2400.0,2025-03-01 10:23:00,10,GCash,Shipped,New Richardton,False
+SHOP-00409,Tim Russell,daniel63@example.com,Coffee Mug,Home,4,400,5,80.0,1520.0,2025-03-12 17:24:00,17,COD,Completed,Dianebury,False
+SHOP-00410,Ernest Finley,hhood@example.org,Water Bottle,Home,5,600,10,300.0,2700.0,2025-10-10 01:48:00,22,GCash,Refunded,North Gerald,True
+SHOP-00411,Ryan Rhodes,katelynsmith@example.org,Canvas Tote Bag,Bags,2,550,0,0.0,1100.0,2025-06-11 21:28:00,21,Credit Card,Completed,Morsehaven,False
+SHOP-00412,Scott Pearson,hensonpatrick@example.org,Classic T-Shirt,Apparel,4,450,0,0.0,1800.0,2025-04-10 21:24:00,21,COD,Pending,West James,False
+SHOP-00413,Shari Bowman,lisa71@example.com,Water Bottle,Home,4,600,10,240.0,2160.0,2025-08-16 15:10:00,15,Credit Card,Shipped,Rogersborough,False
+SHOP-00414,Kelly Buck,kbanks@example.net,Classic T-Shirt,Apparel,2,450,0,0.0,900.0,2025-01-17 12:14:00,12,PayPal,Completed,North Shaneport,False
+SHOP-00415,Joseph Holmes,brandi21@example.org,Water Bottle,Home,5,600,10,300.0,2700.0,2025-09-11 16:32:00,16,Credit Card,Shipped,West Rebeccamouth,False
+SHOP-00416,Monica Harris,otaylor@example.net,Hoodie Premium,Apparel,3,1200,15,540.0,3060.0,2025-10-06 21:23:00,21,Credit Card,Pending,Davidside,False
+SHOP-00417,Caitlin Rodriguez,charles40@example.org,Laptop Sleeve,Accessories,4,800,0,0.0,3200.0,2025-12-01 20:15:00,20,PayPal,Completed,West Jacqueline,False
+SHOP-00418,Gary Evans,wayne41@example.org,Water Bottle,Home,3,600,0,0.0,1800.0,2025-02-14 15:55:00,15,Credit Card,Completed,West Richardfurt,False
+SHOP-00419,Emily Lopez,rebeccahowell@example.org,Laptop Sleeve,Accessories,5,800,10,400.0,3600.0,2025-06-29 21:45:00,21,COD,Completed,Troymouth,False
+SHOP-00420,Darryl Perez,max29@example.org,Phone Case,Accessories,2,350,15,105.0,595.0,2025-04-16 20:03:00,20,PayPal,Shipped,West Kelliside,False
+SHOP-00421,Kristina Lewis,danielleturner@example.org,Canvas Tote Bag,Bags,135,550,0,0.0,74250.0,2025-03-28 13:45:00,13,PayPal,Completed,South Justinton,False
+SHOP-00422,Tracy Rojas,jeffrey73@example.org,Canvas Tote Bag,Bags,5,550,10,275.0,2475.0,2025-02-18 10:48:00,10,COD,Completed,Dawnview,False
+SHOP-00423,Jill Palmer,matthewbanks@example.org,Canvas Tote Bag,Bags,2,550,10,110.0,990.0,2025-03-09 11:09:00,11,PayPal,Completed,West Emily,False
+SHOP-00424,Michelle Dougherty,ruth90@example.org,Coffee Mug,Home,4,400,0,0.0,1600.0,2025-10-23 18:17:00,18,COD,Pending,Elizabethstad,False
+SHOP-00425,Kimberly Davis,sullivanchristy@example.org,Water Bottle,Home,1,600,10,60.0,540.0,2025-10-10 01:01:00,14,PayPal,Refunded,Port Josephtown,True
+SHOP-00426,Douglas Mathews,sthompson@example.net,Water Bottle,Home,4,600,0,0.0,2400.0,2025-10-25 08:55:00,8,Credit Card,Pending,North Zacharyshire,False
+SHOP-00427,Amy Mccoy,timothyreyes@example.net,Sticker Pack (10),Stationery,1,150,15,22.5,127.5,2025-10-01 14:13:00,14,COD,Completed,East Jill,False
+SHOP-00428,Toni Robinson,griffinrobert@example.org,Water Bottle,Home,3,600,0,0.0,1800.0,2025-05-26 13:35:00,13,GCash,Shipped,Hansonland,False
+SHOP-00429,Daniel Summers,ale@example.org,Water Bottle,Home,3,600,10,180.0,1620.0,2025-01-25 08:06:00,8,COD,Completed,North Jessicaland,False
+SHOP-00430,Samantha Lindsey,douglas54@example.org,Hoodie Premium,Apparel,2,1200,0,0.0,2400.0,2025-08-22 08:27:00,8,GCash,Completed,West Aliciaville,False
+SHOP-00431,Selena Young,jonessharon@example.net,Canvas Tote Bag,Bags,2,550,15,165.0,935.0,2025-05-21 09:41:00,9,PayPal,Completed,Lake Kathrynburgh,False
+SHOP-00432,Natasha Webb,robert32@example.com,Hoodie Premium,Apparel,3,1200,10,360.0,3240.0,2025-11-29 10:03:00,10,COD,Completed,New Brianport,False
+SHOP-00433,Linda Young,megan87@example.net,Laptop Sleeve,Accessories,4,800,10,320.0,2880.0,2025-02-16 19:06:00,19,Credit Card,Completed,New Corychester,False
+SHOP-00434,Chelsea Bryant,garrisondaniel@example.org,Water Bottle,Home,1,600,0,0.0,600.0,2025-10-31 11:33:00,11,COD,Completed,Lake Dustin,False
+SHOP-00435,Angie Garner,jaredflynn@example.net,Classic T-Shirt,Apparel,3,450,15,202.5,1147.5,2025-03-03 21:27:00,21,GCash,Pending,Gonzalezstad,False
+SHOP-00436,Chad Gardner,hilljeffrey@example.net,Hoodie Premium,Apparel,2,1200,0,0.0,2400.0,2025-02-15 19:51:00,19,Credit Card,Completed,East Brandy,False
+SHOP-00437,Michael Blake,moralesdavid@example.org,Sticker Pack (10),Stationery,3,150,0,0.0,450.0,2025-03-12 14:49:00,14,GCash,Completed,Lake Rebecca,False
+SHOP-00438,David Torres,douglasdaniels@example.com,Hoodie Premium,Apparel,5,1200,5,300.0,5700.0,2025-01-05 17:41:00,17,GCash,Pending,New Michael,False
+SHOP-00439,Angel Anderson,patrick57@example.net,Sticker Pack (10),Stationery,2,150,10,30.0,270.0,2025-03-19 22:26:00,22,COD,Completed,Anthonychester,False
+SHOP-00440,Janice Edwards,farmermichelle@example.net,Hoodie Premium,Apparel,1,1200,0,0.0,1200.0,2025-03-05 17:46:00,17,COD,Completed,Haynesside,False
+SHOP-00441,Jamie Ross,jfisher@example.com,Coffee Mug,Home,3,400,15,180.0,1020.0,2025-03-13 11:17:00,11,Credit Card,Completed,South Monica,False
+SHOP-00442,Ronald Lang,estradajeanette@example.org,Canvas Tote Bag,Bags,1,550,15,82.5,467.5,2025-12-04 22:19:00,22,GCash,Shipped,East Jamesfort,False
+SHOP-00443,Douglas Fitzgerald,davidthomas@example.com,Laptop Sleeve,Accessories,4,800,0,0.0,3200.0,2025-11-27 08:50:00,8,GCash,Pending,East Katherinefurt,False
+SHOP-00444,Brittney Carr,heatheranderson@example.net,Coffee Mug,Home,1,400,0,0.0,400.0,2025-09-13 18:38:00,18,Credit Card,Shipped,Port Christina,False
+SHOP-00445,Robert Morgan,jguzman@example.com,Classic T-Shirt,Apparel,3,450,0,0.0,1350.0,2025-03-09 14:55:00,14,COD,Completed,Lake Christopherburgh,False
+SHOP-00446,Mrs. Caitlin Sullivan,tracy82@example.com,Phone Case,Accessories,4,350,15,210.0,1190.0,2025-02-07 08:37:00,8,Credit Card,Completed,East Larrymouth,False
+SHOP-00447,Christina Anderson,frederick62@example.net,Canvas Tote Bag,Bags,2,550,0,0.0,1100.0,2025-01-31 20:25:00,20,PayPal,Shipped,Amyfurt,False
+SHOP-00448,Erik Graham,brianturner@example.org,Coffee Mug,Home,4,400,10,160.0,1440.0,2025-07-25 09:40:00,9,GCash,Completed,North Charles,False
+SHOP-00449,Sherri Jefferson,rrice@example.net,Hoodie Premium,Apparel,3,1200,0,0.0,3600.0,2025-09-19 22:13:00,22,GCash,Shipped,South Williamfurt,False
+SHOP-00450,Pamela Ball,blandry@example.org,Sticker Pack (10),Stationery,4,150,5,30.0,570.0,2025-11-21 20:53:00,20,Credit Card,Completed,Chapmanmouth,False
+SHOP-00451,Amber Clark,iballard@example.org,Coffee Mug,Home,2,400,0,0.0,800.0,2025-05-06 09:59:00,9,COD,Completed,Jennaberg,False
+SHOP-00452,Emily Villanueva,aclayton@example.com,Water Bottle,Home,5,600,5,150.0,2850.0,2025-10-10 00:48:00,12,GCash,Refunded,Caitlinland,True
+SHOP-00453,Erin Liu,slee@example.net,Classic T-Shirt,Apparel,2,450,95,855.0,45.0,2025-01-06 10:31:00,10,PayPal,Shipped,Lake Larry,False
+SHOP-00454,Veronica Sims,gwilliams@example.net,Canvas Tote Bag,Bags,2,550,0,0.0,1100.0,2025-03-06 19:49:00,19,PayPal,Completed,Port Loriton,False
+SHOP-00455,Patricia Martin,yalvarez@example.com,Classic T-Shirt,Apparel,3,450,15,202.5,1147.5,2025-08-08 12:33:00,12,Credit Card,Completed,Michellechester,False
+SHOP-00456,Matthew Holder,desireeriley@example.com,Hoodie Premium,Apparel,4,1200,0,0.0,4800.0,2025-09-19 13:03:00,13,COD,Shipped,Harveyshire,False
+SHOP-00457,Kimberly Frederick,reneefigueroa@example.net,Phone Case,Accessories,3,350,0,0.0,1050.0,2025-05-11 20:06:00,20,Credit Card,Completed,West Antonio,False
+SHOP-00458,Anita Smith,tuckerdavid@example.org,Classic T-Shirt,Apparel,1,450,15,67.5,382.5,2025-01-07 11:02:00,11,COD,Completed,Paulside,False
+SHOP-00459,Erik Bradley,ralphnelson@example.org,Coffee Mug,Home,2,400,0,0.0,800.0,2025-01-19 16:51:00,16,COD,Completed,Lake Markside,False
+SHOP-00460,Paul Miller,iward@example.com,Sticker Pack (10),Stationery,2,150,0,0.0,300.0,2025-06-13 12:52:00,12,Credit Card,Shipped,New Derrickside,False
+SHOP-00461,Tammy Bruce,uward@example.org,Sticker Pack (10),Stationery,1,150,5,7.5,142.5,2025-12-11 22:03:00,22,GCash,Completed,Butlerview,False
+SHOP-00462,Elizabeth Henry,ratkins@example.com,Classic T-Shirt,Apparel,4,450,0,0.0,1800.0,2025-08-27 21:18:00,21,PayPal,Completed,Chadtown,False
+SHOP-00463,Jerry Ford,mgarza@example.org,Hoodie Premium,Apparel,5,1200,0,0.0,6000.0,2025-01-05 13:12:00,13,PayPal,Shipped,North Danielside,False
+SHOP-00464,Ronald Wood,johnsonjill@example.org,Canvas Tote Bag,Bags,5,550,0,0.0,2750.0,2025-08-26 13:37:00,13,COD,Completed,Lake Amychester,False
+SHOP-00465,Tyler White,wilsonmitchell@example.com,Laptop Sleeve,Accessories,2,800,0,0.0,1600.0,2025-07-29 08:14:00,8,PayPal,Completed,Douglasstad,False
+SHOP-00466,Tammy Anderson,gregorypatterson@example.com,Sticker Pack (10),Stationery,1,150,15,22.5,127.5,2025-12-03 14:54:00,14,PayPal,Completed,Schaefermouth,False
+SHOP-00467,Candice Long,jeffrey04@example.net,Laptop Sleeve,Accessories,5,800,0,0.0,4000.0,2025-08-03 15:03:00,15,GCash,Completed,Kimberlyborough,False
+SHOP-00468,Jennifer Lewis,kristenreid@example.org,Hoodie Premium,Apparel,1,1200,0,0.0,1200.0,2025-09-24 14:44:00,14,PayPal,Pending,Garyport,False
+SHOP-00469,Deborah Donovan,edward85@example.org,Hoodie Premium,Apparel,5,1200,0,0.0,6000.0,2025-09-16 10:40:00,10,COD,Completed,Lake Christopher,False
+SHOP-00470,Andrew Carter,davistravis@example.com,Classic T-Shirt,Apparel,4,450,10,180.0,1620.0,2025-03-08 11:18:00,11,PayPal,Completed,Pooleside,False
+SHOP-00471,Barbara Ho,annettegarcia@example.org,Coffee Mug,Home,3,400,0,0.0,1200.0,2025-08-20 12:14:00,12,Credit Card,Completed,Alyssafurt,False
+SHOP-00472,Amanda Rich,daniel59@example.com,Phone Case,Accessories,5,350,0,0.0,1750.0,2025-03-21 09:10:00,9,COD,Pending,Emilyside,False
+SHOP-00473,Shane Carroll,melissasmith@example.net,Sticker Pack (10),Stationery,4,150,0,0.0,600.0,2025-10-02 13:49:00,13,GCash,Pending,Sheltonview,False
+SHOP-00474,Dave Logan,ysmith@example.org,Canvas Tote Bag,Bags,4,550,0,0.0,2200.0,2025-03-03 09:10:00,9,PayPal,Shipped,South Austin,False
+SHOP-00475,Kevin Sanchez,ifields@example.org,Classic T-Shirt,Apparel,2,450,15,135.0,765.0,2025-06-17 10:05:00,10,GCash,Completed,Yorkhaven,False
+SHOP-00476,James Strong,markbest@example.net,Coffee Mug,Home,5,400,0,0.0,2000.0,2025-12-13 12:16:00,12,GCash,Completed,Port Danielberg,False
+SHOP-00477,April Harris,robertlewis@example.org,Coffee Mug,Home,4,400,5,80.0,1520.0,2025-10-09 11:06:00,11,COD,Completed,Timothyhaven,False
+SHOP-00478,William Davis,stevenwest@example.com,Phone Case,Accessories,1,350,0,0.0,350.0,2025-02-01 21:49:00,21,GCash,Completed,South Laurieshire,False
+SHOP-00479,Jeanette Woods,qwaters@example.net,Laptop Sleeve,Accessories,4,800,0,0.0,3200.0,2025-12-18 18:41:00,18,Credit Card,Shipped,North Courtney,False
+SHOP-00480,Anna Parsons,dperry@example.net,Canvas Tote Bag,Bags,1,550,0,0.0,550.0,2025-02-03 11:57:00,11,COD,Completed,Dianeville,False
+SHOP-00481,Ashley Sellers,michael35@example.com,Hoodie Premium,Apparel,3,1200,0,0.0,3600.0,2025-01-22 15:03:00,15,GCash,Shipped,West Ashleefort,False
+SHOP-00482,William Johnson,andrew09@example.com,Coffee Mug,Home,4,400,0,0.0,1600.0,2025-01-16 14:43:00,14,COD,Completed,North Lisamouth,False
+SHOP-00483,Curtis Williams,fatkinson@example.net,Sticker Pack (10),Stationery,2,150,0,0.0,300.0,2025-05-21 12:28:00,12,GCash,Completed,Lake Georgeport,False
+SHOP-00484,John Williams,elliottmegan@example.org,Laptop Sleeve,Accessories,3,800,0,0.0,2400.0,2025-07-30 22:35:00,22,COD,Completed,Lake Martin,False
+SHOP-00485,Cameron Brown,jacob60@example.org,Hoodie Premium,Apparel,3,1200,0,0.0,3600.0,2025-03-12 14:12:00,14,GCash,Shipped,West Johnland,False
+SHOP-00486,Gregory Case,oscarnorman@example.net,Classic T-Shirt,Apparel,4,450,15,270.0,1530.0,2025-07-03 15:34:00,15,COD,Completed,Porterfurt,False
+SHOP-00487,Teresa Cox,katherineallen@example.org,Sticker Pack (10),Stationery,4,150,0,0.0,600.0,2025-04-03 08:20:00,8,GCash,Completed,Kirkberg,False
+SHOP-00488,Michael Martin,meagan44@example.com,Canvas Tote Bag,Bags,1,550,15,82.5,467.5,2025-08-30 16:22:00,16,GCash,Completed,Lake Denise,False
+SHOP-00489,Julie Ferrell,ryan90@example.org,Hoodie Premium,Apparel,2,1200,10,240.0,2160.0,2025-05-04 12:34:00,12,Credit Card,Completed,Lake Jennifer,False
+SHOP-00490,Donald Guzman,victor39@example.com,Coffee Mug,Home,3,400,15,180.0,1020.0,2025-03-30 10:15:00,10,PayPal,Completed,East Teresafurt,False
+SHOP-00491,Brandon Marshall,davidholland@example.com,Classic T-Shirt,Apparel,3,450,5,67.5,1282.5,2025-10-16 10:36:00,10,GCash,Pending,New Joanne,False
+SHOP-00492,Frank Howard,browngeorge@example.net,Canvas Tote Bag,Bags,2,550,0,0.0,1100.0,2025-01-20 09:03:00,9,GCash,Shipped,Cynthiaberg,False
+SHOP-00493,Charlotte Reynolds,katherine01@example.net,Laptop Sleeve,Accessories,1,800,5,40.0,760.0,2025-09-02 08:21:00,8,GCash,Completed,New Patriciastad,False
+SHOP-00494,Kathy Williams,lwang@example.net,Sticker Pack (10),Stationery,2,150,15,45.0,255.0,2025-06-15 08:01:00,8,GCash,Shipped,Brownville,False
+SHOP-00495,Kevin Montgomery,heather08@example.org,Phone Case,Accessories,1,350,15,52.5,297.5,2025-09-27 21:23:00,21,Credit Card,Completed,Rachelbury,False
+SHOP-00496,Karen Little,ashley46@example.org,Coffee Mug,Home,5,400,0,0.0,2000.0,2025-06-22 12:20:00,12,GCash,Completed,Robertfurt,False
+SHOP-00497,Ruben Mitchell,stokesmelissa@example.org,Coffee Mug,Home,4,400,85,1360.0,240.0,2025-06-12 10:45:00,10,PayPal,Completed,Timothymouth,False
+SHOP-00498,Anne Carson,sandra12@example.org,Phone Case,Accessories,4,350,0,0.0,1400.0,2025-12-19 12:08:00,12,GCash,Completed,Port Kelly,False
+SHOP-00499,Brooke Smith,campbelljoseph@example.com,Coffee Mug,Home,5,400,0,0.0,2000.0,2025-04-04 17:20:00,17,GCash,Shipped,Priceshire,False
+SHOP-00500,Eric Norton,josephcox@example.org,Hoodie Premium,Apparel,4,1200,0,0.0,4800.0,2025-06-19 19:04:00,19,GCash,Completed,East Christina,False

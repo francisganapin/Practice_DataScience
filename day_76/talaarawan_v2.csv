@@ -1,0 +1,14 @@
+Petsa,Item,Uri,Halaga,Payment_Type,Status
+2023-11-01,Panimulang Puhunan,KITA,10000,CASH,PAID
+2023-11-01,Bili ng Tindahan Stocks,GASTOS,7000,CASH,PAID
+2023-11-02,Benta - Alak & Pulutan,KITA,1500,CASH,PAID
+2023-11-02,Benta - Bigas (Utang ni Mareng Susan),KITA,1200,NONE,UTANG
+2023-11-03,Bayad Internet (PLDT),GASTOS,1699,GCASH,PAID
+2023-11-03,Benta - Load & Data,KITA,500,GCASH,PAID
+2023-11-04,Benta - Canned Goods,KITA,450,CASH,PAID
+2023-11-04,Grocery Stocks (Puregold),GASTOS,3000,GCASH,PAID
+2023-11-05,Bayad Utang ni Mareng Susan (Partial),KITA,500,CASH,PAID
+2023-11-05,Benta - Softdrinks Case,KITA,800,CASH,PAID
+2023-11-06,Snacks & Merienda,KITA,350,GCASH,PAID
+2023-11-06,Pasahod kay Bantay,GASTOS,1500,CASH,PAID
+2023-11-07,Benta - Bigas (Utang ni Pareng Jojo),KITA,800,NONE,UTANG
