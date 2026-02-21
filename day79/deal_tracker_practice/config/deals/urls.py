@@ -1,9 +1,9 @@
-from django.url  import path
+from django.urls import path,reverse_lazy
 from .views import DealListView,DealCreateView,DealUpdateView
 
 
-ulrpatterns = [
+urlpatterns = [
     path('',DealListView.as_view(),name='deal_list'),
-    path('add.',DealCreateView(),name='deal_add'),
+    path('add',DealCreateView.as_view(),name='deal_adds'),
     path('edit/<int:pk>/',DealUpdateView.as_view(), name='deal_edit')
 ]

@@ -1,0 +1,26 @@
+<!-- deals/templates/deals/deal_form.html -->
+{% extends 'deals/base.html' %}
+{% block content %}
+<div class="bg-white p-6 rounded shadow max-w-lg mx-auto">
+    <h2 class="text-xl font-bold mb-4">{% if form.instance.pk %}Edit{% else %}New{% endif %} Deal</h2>
+    <form method="post">
+        {% csrf_token %}
+        <div class="mb-4">
+            <label class="block text-gray-700 text-sm font-bold mb-2">Title</label>
+            {{ form.title }} 
+            <!-- Add classes manually or use crispy forms later. For now default django render is ok but ugly. -->
+        </div>
+        <div class="mb-4">
+            <label class="block text-gray-700 text-sm font-bold mb-2">Amount</label>
+            {{ form.amount }}
+        </div>
+        <div class="mb-4">
+            <label class="block text-gray-700 text-sm font-bold mb-2">Stage</label>
+            {{ form.stage }}
+        </div>
+        <button type="submit" class="bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700">
+            Save Deal
+        </button>
+    </form>
+</div>
+{% endblock %}

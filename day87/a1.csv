@@ -1,0 +1,7 @@
+ID,Name,Department,Age,Salary,Status
+1,Alice,Sales,28,55000.50,Active
+2,Bob,Engineering,34,85000.00,Active
+3,Charlie,Sales,25,,Pending
+4,David,Engineering,42,95000.00,Active
+5,Eve,HR,,60000.00,Inactive
+6,Frank,Sales,29,58000.00,Active
