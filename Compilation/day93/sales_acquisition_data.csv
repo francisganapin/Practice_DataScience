@@ -1,0 +1,11 @@
+Date,Lead_Name,Company,Source,Status,Acquisition_Cost,Expected_Revenue
+2023-10-01,John Smith,TechCorp,LinkedIn,Contacted,50.00,5000
+2023-10-02,Sarah Jones,Innovate Inc,Cold Email,Qualified,15.00,12000
+2023-10-03,Mike Brown,Global Solutions,Referral,Closed Won,0.00,8500
+2023-10-04,Emily Davis,StartUp Co,Webinar,Lost,120.00,0
+2023-10-05,David Wilson,NextGen,LinkedIn,Qualified,50.00,3000
+2023-10-06,Lisa Taylor,Acme Corp,Cold Email,Contacted,15.00,7000
+2023-10-07,Robert Anderson,Mega Dynamics,Webinar,Qualified,120.00,15000
+2023-10-08,Maria Garcia,Zenith Partners,Referral,Closed Won,0.00,4200
+2023-10-09,James Martin,Nexus Tech,LinkedIn,Lost,50.00,0
+2023-10-10,Linda White,Pioneer Group,Cold Call,Contacted,25.00,6000

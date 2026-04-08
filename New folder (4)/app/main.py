@@ -1,0 +1,26 @@
+from fastapi import FastAPI
+from contextlib import asynccontextmanager
+from app.database import create_db_and_tables
+from app.routers import reports,webhooks
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    create_db_and_tables()
+    yield
+
+
+app = FastAPI(
+    title='Accounting Analytics API',
+    description='Accounting data analytics with n8n integration',
+    version='1.0.0',
+    lifespan=lifespan
+)
+
+app.include_router(reports.router)
+app.include_router(webhooks.router)
+
+@app.get('/')
+def root():
+    return {'message':"accounting analytics API is running"}
+

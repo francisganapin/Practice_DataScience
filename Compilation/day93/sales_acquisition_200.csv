@@ -1,0 +1,201 @@
+Date_Acquired,Company,Source,Status,Acquisition_Cost,Expected_Revenue,Priority
+1/2/2023,Company_42,Cold Call,Closed Won,64.94,1300,Standard
+1/5/2023,Company_38,Organic Search,Contacted,31.36,11300,High Value
+1/9/2023,Company_25,LinkedIn,Qualified,25.49,13600,High Value
+1/13/2023,Company_46,LinkedIn,Proposal Sent,85.24,18900,High Value
+1/14/2023,Company_33,LinkedIn,Closed Won,113.76,16200,High Value
+1/15/2023,Company_21,LinkedIn,Contacted,139.58,17100,High Value
+1/15/2023,Company_38,Cold Email,Qualified,89.78,7800,Standard
+1/21/2023,Company_49,Webinar,Qualified,131.17,5200,Standard
+1/21/2023,Company_3,LinkedIn,Closed Won,145.1,19000,High Value
+1/22/2023,Company_38,Referral,Closed Lost,31.61,1200,Standard
+1/28/2023,Company_33,Referral,Qualified,45.25,3000,Standard
+1/28/2023,Company_32,Cold Call,Contacted,60.74,14800,High Value
+1/29/2023,Company_30,LinkedIn,Contacted,56.69,18600,High Value
+2/2/2023,Company_48,LinkedIn,New Lead,66.12,9300,Standard
+2/4/2023,Company_22,Cold Call,Proposal Sent,140.5,18400,High Value
+2/4/2023,Company_25,Webinar,Closed Lost,124.04,16900,High Value
+2/5/2023,Company_29,Cold Email,Qualified,65.74,19500,High Value
+2/10/2023,Company_36,Webinar,Closed Lost,85.98,15600,High Value
+2/10/2023,Company_8,Cold Email,New Lead,114.15,8400,Standard
+2/11/2023,Company_33,LinkedIn,Proposal Sent,25.85,10300,High Value
+2/13/2023,Company_2,Cold Email,Proposal Sent,80.38,16800,High Value
+2/13/2023,Company_33,LinkedIn,Contacted,98.52,7000,Standard
+2/14/2023,Company_31,LinkedIn,Qualified,34.69,3300,Standard
+2/17/2023,Company_20,Webinar,New Lead,74.68,5700,Standard
+2/18/2023,Company_6,Cold Email,Contacted,57.12,4400,Standard
+2/19/2023,Company_31,LinkedIn,Closed Won,60.24,4300,Standard
+2/20/2023,Company_6,LinkedIn,Proposal Sent,105.41,8200,Standard
+2/21/2023,Company_19,Cold Email,Closed Lost,82.64,18600,High Value
+2/21/2023,Company_50,LinkedIn,New Lead,62.26,6600,Standard
+2/22/2023,Company_40,Referral,Contacted,121.34,11300,High Value
+2/22/2023,Company_24,Organic Search,Closed Won,135.14,4200,Standard
+2/23/2023,Company_35,Webinar,Contacted,124.32,18400,High Value
+2/24/2023,Company_29,LinkedIn,Qualified,93.39,6100,Standard
+2/28/2023,Company_22,Referral,Closed Won,28.82,12100,High Value
+3/3/2023,Company_8,Cold Call,New Lead,142.62,16600,High Value
+3/3/2023,Company_35,LinkedIn,New Lead,79.77,2500,Standard
+3/4/2023,Company_47,Organic Search,Closed Won,127.45,19800,High Value
+3/4/2023,Company_18,LinkedIn,Closed Won,121.62,1600,Standard
+3/6/2023,Company_20,Organic Search,Qualified,132.75,6600,Standard
+3/7/2023,Company_49,Webinar,Closed Won,73.34,12300,High Value
+3/13/2023,Company_49,Referral,Qualified,65.7,13500,High Value
+3/22/2023,Company_18,Cold Call,New Lead,42.1,12300,High Value
+3/22/2023,Company_23,LinkedIn,Qualified,83.23,11000,High Value
+3/27/2023,Company_24,LinkedIn,Contacted,73.31,16700,High Value
+3/29/2023,Company_37,Referral,Qualified,140.11,16200,High Value
+3/30/2023,Company_7,Webinar,Contacted,35.37,10300,High Value
+4/2/2023,Company_11,LinkedIn,Closed Won,32.91,5900,Standard
+4/6/2023,Company_4,LinkedIn,New Lead,92.78,4400,Standard
+4/6/2023,Company_39,Cold Email,New Lead,88.35,15000,High Value
+4/9/2023,Company_17,Cold Email,New Lead,80.82,6200,Standard
+4/10/2023,Company_32,LinkedIn,Closed Lost,87.95,4400,Standard
+4/11/2023,Company_46,Webinar,New Lead,107.53,19100,High Value
+4/13/2023,Company_2,Cold Call,Proposal Sent,124.39,5400,Standard
+4/13/2023,Company_2,Organic Search,Closed Won,83.43,8800,Standard
+4/16/2023,Company_7,Cold Email,Qualified,71.48,3200,Standard
+4/17/2023,Company_37,Webinar,New Lead,25.69,14600,High Value
+4/18/2023,Company_23,Webinar,Contacted,91.28,2200,Standard
+4/23/2023,Company_26,LinkedIn,New Lead,130.65,7700,Standard
+4/26/2023,Company_32,Webinar,New Lead,19.39,17600,High Value
+5/1/2023,Company_50,LinkedIn,Qualified,93.35,1400,Standard
+5/2/2023,Company_2,Cold Email,Proposal Sent,46.11,13800,High Value
+5/8/2023,Company_42,Cold Email,Contacted,144.55,12900,High Value
+5/9/2023,Company_25,LinkedIn,Contacted,27.85,14900,High Value
+5/11/2023,Company_30,Webinar,New Lead,139.15,9500,Standard
+5/11/2023,Company_19,LinkedIn,Closed Lost,117.73,2900,Standard
+5/11/2023,Company_36,Cold Call,New Lead,58.84,11500,High Value
+5/14/2023,Company_33,Webinar,Qualified,68.65,14200,High Value
+5/15/2023,Company_4,Cold Call,Contacted,58.4,2400,Standard
+5/15/2023,Company_26,Cold Email,Contacted,126.29,6600,Standard
+5/16/2023,Company_29,Webinar,Proposal Sent,65.62,5100,Standard
+5/17/2023,Company_27,Cold Email,New Lead,36.7,7700,Standard
+5/19/2023,Company_46,Cold Email,Closed Lost,30.99,6000,Standard
+5/23/2023,Company_44,Webinar,New Lead,122.4,14300,High Value
+5/30/2023,Company_2,Referral,Closed Won,36.19,5600,Standard
+6/1/2023,Company_9,Webinar,Proposal Sent,83.41,15600,High Value
+6/1/2023,Company_1,Cold Email,Contacted,49.2,5500,Standard
+6/6/2023,Company_36,Organic Search,Contacted,14.69,6500,Standard
+6/9/2023,Company_6,Cold Email,Contacted,138.78,10000,Standard
+6/9/2023,Company_48,Organic Search,New Lead,66.11,9000,Standard
+6/10/2023,Company_11,Webinar,Qualified,50.41,6600,Standard
+6/11/2023,Company_1,Cold Email,Proposal Sent,42.51,4900,Standard
+6/12/2023,Company_2,LinkedIn,Closed Lost,111.12,2000,Standard
+6/14/2023,Company_2,Cold Email,Contacted,76.09,8600,Standard
+6/16/2023,Company_20,LinkedIn,New Lead,112.32,3700,Standard
+6/19/2023,Company_46,Referral,Qualified,29.72,5400,Standard
+6/19/2023,Company_11,Webinar,Proposal Sent,18.87,9000,Standard
+6/20/2023,Company_28,Webinar,Contacted,10.65,6600,Standard
+6/21/2023,Company_33,Referral,Closed Lost,73.46,19700,High Value
+6/21/2023,Company_33,Webinar,Contacted,95.6,12200,High Value
+6/24/2023,Company_9,Webinar,Closed Lost,45.65,5900,Standard
+6/28/2023,Company_28,Cold Email,New Lead,147.88,5200,Standard
+6/29/2023,Company_42,Cold Call,New Lead,35.47,3100,Standard
+7/6/2023,Company_41,Cold Call,Proposal Sent,58.57,17000,High Value
+7/7/2023,Company_49,Cold Email,New Lead,44.79,5700,Standard
+7/7/2023,Company_48,Organic Search,New Lead,148.59,18000,High Value
+7/8/2023,Company_17,Webinar,Closed Lost,145.73,1500,Standard
+7/9/2023,Company_40,Organic Search,Qualified,21.95,5400,Standard
+7/9/2023,Company_33,Cold Email,Closed Won,123.38,7500,Standard
+7/9/2023,Company_35,Webinar,Qualified,97.88,4300,Standard
+7/10/2023,Company_48,Cold Email,Proposal Sent,52.19,11500,High Value
+7/11/2023,Company_32,LinkedIn,Qualified,26.08,13700,High Value
+7/17/2023,Company_2,LinkedIn,Qualified,38.72,20000,High Value
+7/20/2023,Company_33,Webinar,Proposal Sent,35.42,14800,High Value
+7/21/2023,Company_48,Referral,Contacted,135.94,1200,Standard
+7/25/2023,Company_50,LinkedIn,Closed Lost,103.13,19700,High Value
+7/26/2023,Company_34,Cold Email,Contacted,140.81,14200,High Value
+7/27/2023,Company_16,Referral,Qualified,121.16,8300,Standard
+8/1/2023,Company_48,LinkedIn,Closed Won,29.5,9000,Standard
+8/2/2023,Company_12,Organic Search,Qualified,132.1,2700,Standard
+8/3/2023,Company_28,Cold Email,Qualified,33.92,1400,Standard
+8/3/2023,Company_9,Cold Email,Qualified,26.37,12400,High Value
+8/4/2023,Company_7,Organic Search,New Lead,31.47,16200,High Value
+8/5/2023,Company_24,Cold Email,Proposal Sent,31.23,2600,Standard
+8/6/2023,Company_45,Cold Email,New Lead,90.68,17600,High Value
+8/6/2023,Company_49,LinkedIn,Contacted,114.67,13400,High Value
+8/10/2023,Company_35,Cold Email,Contacted,65.86,11800,High Value
+8/13/2023,Company_26,LinkedIn,Proposal Sent,89.08,10100,High Value
+8/13/2023,Company_46,Webinar,Proposal Sent,149.56,1500,Standard
+8/15/2023,Company_22,Cold Email,New Lead,89.12,3600,Standard
+8/19/2023,Company_49,Webinar,Closed Won,17.67,18400,High Value
+8/19/2023,Company_5,Referral,New Lead,138.92,1700,Standard
+8/19/2023,Company_3,Organic Search,Closed Won,68.05,12700,High Value
+8/19/2023,Company_41,LinkedIn,Qualified,107.15,7400,Standard
+8/21/2023,Company_47,Referral,Qualified,114.99,11000,High Value
+8/21/2023,Company_29,LinkedIn,Contacted,31.73,5500,Standard
+8/22/2023,Company_40,LinkedIn,Contacted,118.57,17600,High Value
+8/24/2023,Company_5,LinkedIn,Proposal Sent,84.56,4900,Standard
+8/25/2023,Company_3,LinkedIn,New Lead,96.81,10900,High Value
+8/25/2023,Company_17,Webinar,Proposal Sent,56.93,1600,Standard
+8/29/2023,Company_48,Referral,Closed Won,131.79,14400,High Value
+8/30/2023,Company_40,Organic Search,Closed Won,90.43,9100,Standard
+8/31/2023,Company_37,Cold Email,New Lead,113.25,7100,Standard
+9/1/2023,Company_3,LinkedIn,Closed Lost,76.02,12900,High Value
+9/9/2023,Company_41,Cold Call,Closed Won,141.58,13600,High Value
+9/9/2023,Company_11,Referral,Contacted,53.64,12500,High Value
+9/10/2023,Company_24,LinkedIn,Closed Lost,77.36,2600,Standard
+9/12/2023,Company_8,Cold Call,New Lead,94.94,14900,High Value
+9/14/2023,Company_38,LinkedIn,New Lead,109.01,4500,Standard
+9/15/2023,Company_26,LinkedIn,Proposal Sent,69.56,17300,High Value
+9/16/2023,Company_22,Cold Email,Qualified,39.39,18800,High Value
+9/17/2023,Company_16,LinkedIn,New Lead,62.77,12000,High Value
+9/18/2023,Company_16,LinkedIn,Contacted,99.76,12300,High Value
+9/21/2023,Company_28,Cold Email,Closed Won,33,3600,Standard
+9/22/2023,Company_39,Webinar,Qualified,127.86,1400,Standard
+9/25/2023,Company_21,LinkedIn,New Lead,91.67,14100,High Value
+9/25/2023,Company_25,Organic Search,Closed Won,47.9,5400,Standard
+9/27/2023,Company_12,Referral,New Lead,63.74,3600,Standard
+9/28/2023,Company_16,Cold Email,Closed Lost,55.13,16500,High Value
+9/28/2023,Company_32,Referral,Closed Won,97.39,12400,High Value
+9/28/2023,Company_49,Cold Email,Closed Lost,147.53,4000,Standard
+10/1/2023,Company_32,Cold Email,Qualified,141.37,17500,High Value
+10/4/2023,Company_4,Cold Email,Contacted,95.49,4900,Standard
+10/7/2023,Company_33,Referral,Proposal Sent,120.4,15000,High Value
+10/10/2023,Company_27,Cold Call,Qualified,113.1,13500,High Value
+10/10/2023,Company_24,Cold Email,Closed Won,80.31,17500,High Value
+10/11/2023,Company_29,LinkedIn,Proposal Sent,41.44,1700,Standard
+10/11/2023,Company_21,LinkedIn,Qualified,138.08,7500,Standard
+10/13/2023,Company_18,Organic Search,Contacted,102.9,16000,High Value
+10/16/2023,Company_35,Cold Call,Qualified,110.81,10400,High Value
+10/20/2023,Company_3,Cold Email,Proposal Sent,92.07,14200,High Value
+10/21/2023,Company_6,Cold Email,New Lead,43.94,8500,Standard
+10/22/2023,Company_24,LinkedIn,New Lead,100.16,1800,Standard
+10/23/2023,Company_19,LinkedIn,Qualified,56.89,18400,High Value
+10/28/2023,Company_40,Organic Search,Contacted,116.74,14700,High Value
+10/31/2023,Company_37,Cold Email,Qualified,136.91,17600,High Value
+11/3/2023,Company_19,Webinar,New Lead,140.13,9300,Standard
+11/3/2023,Company_17,LinkedIn,Qualified,19.2,12900,High Value
+11/5/2023,Company_44,LinkedIn,Qualified,55.32,14700,High Value
+11/6/2023,Company_26,Cold Email,Closed Lost,74.78,6200,Standard
+11/10/2023,Company_17,LinkedIn,New Lead,91.37,18000,High Value
+11/11/2023,Company_43,Referral,Contacted,71.71,8900,Standard
+11/12/2023,Company_41,Webinar,Closed Lost,19.31,18000,High Value
+11/14/2023,Company_35,Organic Search,Contacted,142.46,6500,Standard
+11/14/2023,Company_42,LinkedIn,Contacted,15.12,15600,High Value
+11/16/2023,Company_20,Organic Search,Closed Won,67.66,8800,Standard
+11/23/2023,Company_48,LinkedIn,Contacted,124.98,10000,Standard
+11/23/2023,Company_35,Cold Email,Qualified,58.49,17400,High Value
+11/24/2023,Company_14,Cold Call,Contacted,137.18,10400,High Value
+11/25/2023,Company_19,LinkedIn,Closed Lost,27.4,15500,High Value
+11/27/2023,Company_23,LinkedIn,Proposal Sent,103.61,3000,Standard
+11/27/2023,Company_25,Cold Email,Contacted,34.93,7100,Standard
+12/4/2023,Company_20,Referral,New Lead,84.68,1900,Standard
+12/6/2023,Company_3,LinkedIn,New Lead,11.83,11300,High Value
+12/6/2023,Company_1,Cold Email,New Lead,38.23,13000,High Value
+12/10/2023,Company_32,Cold Call,Contacted,81.07,16800,High Value
+12/10/2023,Company_35,LinkedIn,Closed Won,128.5,18800,High Value
+12/11/2023,Company_34,Cold Email,Qualified,17.26,1500,Standard
+12/11/2023,Company_35,LinkedIn,Closed Lost,57.89,11800,High Value
+12/12/2023,Company_30,Organic Search,Qualified,73.12,5700,Standard
+12/12/2023,Company_18,Referral,Qualified,29.57,6100,Standard
+12/14/2023,Company_31,Cold Call,New Lead,30.81,17800,High Value
+12/15/2023,Company_3,Cold Email,Qualified,67.46,1500,Standard
+12/17/2023,Company_5,LinkedIn,Proposal Sent,86.1,18100,High Value
+12/18/2023,Company_33,Organic Search,Proposal Sent,27.45,18900,High Value
+12/25/2023,Company_23,Organic Search,Proposal Sent,135.73,16200,High Value
+12/25/2023,Company_27,Cold Email,New Lead,69.38,16300,High Value
+12/26/2023,Company_48,Cold Email,Closed Won,12.54,7900,Standard
+12/26/2023,Company_30,LinkedIn,Closed Lost,132.81,6200,Standard
+12/26/2023,Company_33,Cold Email,New Lead,90.03,13400,High Value
+12/30/2023,Company_16,Cold Email,Proposal Sent,116.43,12200,High Value
