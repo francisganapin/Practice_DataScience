@@ -1,0 +1,101 @@
+Transaction_ID,Date,Account_ID,Account_Name,Category,Description,Debit,Credit
+TXN-115,4/2/2026,5100,Salary Expense,Expense,Employee salary payout,3436.95,0
+TXN-115,4/2/2026,1000,Cash,Asset,Employee salary payout,0,3436.95
+TXN-133,4/2/2026,5200,Office Supplies,Expense,Bought supplies on credit,522.28,0
+TXN-133,4/2/2026,2000,Accounts Payable,Liability,Bought supplies on credit,0,522.28
+TXN-111,4/3/2026,5200,Office Supplies,Expense,Bought supplies on credit,4306.71,0
+TXN-111,4/3/2026,2000,Accounts Payable,Liability,Bought supplies on credit,0,4306.71
+TXN-130,4/3/2026,5200,Office Supplies,Expense,Bought supplies on credit,3867.79,0
+TXN-130,4/3/2026,2000,Accounts Payable,Liability,Bought supplies on credit,0,3867.79
+TXN-134,4/3/2026,5000,Rent Expense,Expense,Monthly rent payment,2976.92,0
+TXN-134,4/3/2026,1000,Cash,Asset,Monthly rent payment,0,2976.92
+TXN-135,4/3/2026,5200,Office Supplies,Expense,Bought supplies on credit,2387.46,0
+TXN-135,4/3/2026,2000,Accounts Payable,Liability,Bought supplies on credit,0,2387.46
+TXN-119,4/4/2026,1200,Accounts Receivable,Asset,Invoice sent to customer,965.03,0
+TXN-119,4/4/2026,4000,Sales Revenue,Revenue,Invoice sent to customer,0,965.03
+TXN-141,4/4/2026,5200,Office Supplies,Expense,Bought supplies on credit,4542.45,0
+TXN-141,4/4/2026,2000,Accounts Payable,Liability,Bought supplies on credit,0,4542.45
+TXN-137,4/5/2026,5000,Rent Expense,Expense,Monthly rent payment,2828.32,0
+TXN-137,4/5/2026,1000,Cash,Asset,Monthly rent payment,0,2828.32
+TXN-100,4/7/2026,5000,Rent Expense,Expense,Monthly rent payment,3992.89,0
+TXN-100,4/7/2026,1000,Cash,Asset,Monthly rent payment,0,3992.89
+TXN-116,4/7/2026,5000,Rent Expense,Expense,Monthly rent payment,3069.48,0
+TXN-116,4/7/2026,1000,Cash,Asset,Monthly rent payment,0,3069.48
+TXN-140,4/7/2026,5200,Office Supplies,Expense,Bought supplies on credit,2403.08,0
+TXN-140,4/7/2026,2000,Accounts Payable,Liability,Bought supplies on credit,0,2403.08
+TXN-149,4/7/2026,1000,Cash,Asset,Cash sale to customer,4538.8,0
+TXN-149,4/7/2026,4000,Sales Revenue,Revenue,Cash sale to customer,0,4538.8
+TXN-101,4/8/2026,1200,Accounts Receivable,Asset,Invoice sent to customer,3013.36,0
+TXN-101,4/8/2026,4000,Sales Revenue,Revenue,Invoice sent to customer,0,3013.36
+TXN-118,4/8/2026,1200,Accounts Receivable,Asset,Invoice sent to customer,3789.04,0
+TXN-118,4/8/2026,4000,Sales Revenue,Revenue,Invoice sent to customer,0,3789.04
+TXN-112,4/9/2026,5100,Salary Expense,Expense,Employee salary payout,372.01,0
+TXN-112,4/9/2026,1000,Cash,Asset,Employee salary payout,0,372.01
+TXN-138,4/9/2026,1200,Accounts Receivable,Asset,Invoice sent to customer,3567.78,0
+TXN-138,4/9/2026,4000,Sales Revenue,Revenue,Invoice sent to customer,0,3567.78
+TXN-131,4/10/2026,1000,Cash,Asset,Cash sale to customer,1824.41,0
+TXN-131,4/10/2026,4000,Sales Revenue,Revenue,Cash sale to customer,0,1824.41
+TXN-139,4/10/2026,5000,Rent Expense,Expense,Monthly rent payment,2224.72,0
+TXN-139,4/10/2026,1000,Cash,Asset,Monthly rent payment,0,2224.72
+TXN-145,4/10/2026,1000,Cash,Asset,Cash sale to customer,4050.2,0
+TXN-145,4/10/2026,4000,Sales Revenue,Revenue,Cash sale to customer,0,4050.2
+TXN-110,4/12/2026,1000,Cash,Asset,Cash sale to customer,2595.46,0
+TXN-110,4/12/2026,4000,Sales Revenue,Revenue,Cash sale to customer,0,2595.46
+TXN-128,4/12/2026,5000,Rent Expense,Expense,Monthly rent payment,1502.77,0
+TXN-128,4/12/2026,1000,Cash,Asset,Monthly rent payment,0,1502.77
+TXN-147,4/12/2026,5000,Rent Expense,Expense,Monthly rent payment,973.52,0
+TXN-147,4/12/2026,1000,Cash,Asset,Monthly rent payment,0,973.52
+TXN-143,4/13/2026,5000,Rent Expense,Expense,Monthly rent payment,431.05,0
+TXN-143,4/13/2026,1000,Cash,Asset,Monthly rent payment,0,431.05
+TXN-117,4/14/2026,1200,Accounts Receivable,Asset,Invoice sent to customer,1985.75,0
+TXN-117,4/14/2026,4000,Sales Revenue,Revenue,Invoice sent to customer,0,1985.75
+TXN-136,4/15/2026,1000,Cash,Asset,Cash sale to customer,3580.56,0
+TXN-136,4/15/2026,4000,Sales Revenue,Revenue,Cash sale to customer,0,3580.56
+TXN-142,4/15/2026,5100,Salary Expense,Expense,Employee salary payout,3789.98,0
+TXN-142,4/15/2026,1000,Cash,Asset,Employee salary payout,0,3789.98
+TXN-123,4/16/2026,5200,Office Supplies,Expense,Bought supplies on credit,3749.23,0
+TXN-123,4/16/2026,2000,Accounts Payable,Liability,Bought supplies on credit,0,3749.23
+TXN-108,4/17/2026,1200,Accounts Receivable,Asset,Invoice sent to customer,2647.63,0
+TXN-108,4/17/2026,4000,Sales Revenue,Revenue,Invoice sent to customer,0,2647.63
+TXN-102,4/19/2026,5000,Rent Expense,Expense,Monthly rent payment,544.88,0
+TXN-102,4/19/2026,1000,Cash,Asset,Monthly rent payment,0,544.88
+TXN-129,4/19/2026,5000,Rent Expense,Expense,Monthly rent payment,3548.94,0
+TXN-129,4/19/2026,1000,Cash,Asset,Monthly rent payment,0,3548.94
+TXN-144,4/19/2026,1200,Accounts Receivable,Asset,Invoice sent to customer,848.05,0
+TXN-144,4/19/2026,4000,Sales Revenue,Revenue,Invoice sent to customer,0,848.05
+TXN-106,4/21/2026,1200,Accounts Receivable,Asset,Invoice sent to customer,3106.53,0
+TXN-106,4/21/2026,4000,Sales Revenue,Revenue,Invoice sent to customer,0,3106.53
+TXN-146,4/21/2026,5100,Salary Expense,Expense,Employee salary payout,4363.73,0
+TXN-146,4/21/2026,1000,Cash,Asset,Employee salary payout,0,4363.73
+TXN-104,4/22/2026,5100,Salary Expense,Expense,Employee salary payout,329.24,0
+TXN-104,4/22/2026,1000,Cash,Asset,Employee salary payout,0,329.24
+TXN-107,4/22/2026,1000,Cash,Asset,Cash sale to customer,84.98,0
+TXN-107,4/22/2026,4000,Sales Revenue,Revenue,Cash sale to customer,0,84.98
+TXN-103,4/24/2026,5000,Rent Expense,Expense,Monthly rent payment,1701.86,0
+TXN-103,4/24/2026,1000,Cash,Asset,Monthly rent payment,0,1701.86
+TXN-124,4/24/2026,5100,Salary Expense,Expense,Employee salary payout,1815.93,0
+TXN-124,4/24/2026,1000,Cash,Asset,Employee salary payout,0,1815.93
+TXN-113,4/25/2026,1200,Accounts Receivable,Asset,Invoice sent to customer,4829.88,0
+TXN-113,4/25/2026,4000,Sales Revenue,Revenue,Invoice sent to customer,0,4829.88
+TXN-122,4/25/2026,5200,Office Supplies,Expense,Bought supplies on credit,4807.8,0
+TXN-122,4/25/2026,2000,Accounts Payable,Liability,Bought supplies on credit,0,4807.8
+TXN-127,4/25/2026,1000,Cash,Asset,Cash sale to customer,4935.09,0
+TXN-127,4/25/2026,4000,Sales Revenue,Revenue,Cash sale to customer,0,4935.09
+TXN-114,4/26/2026,5200,Office Supplies,Expense,Bought supplies on credit,1557.84,0
+TXN-114,4/26/2026,2000,Accounts Payable,Liability,Bought supplies on credit,0,1557.84
+TXN-120,4/26/2026,1200,Accounts Receivable,Asset,Invoice sent to customer,2276.28,0
+TXN-120,4/26/2026,4000,Sales Revenue,Revenue,Invoice sent to customer,0,2276.28
+TXN-148,4/26/2026,1000,Cash,Asset,Cash sale to customer,654.34,0
+TXN-148,4/26/2026,4000,Sales Revenue,Revenue,Cash sale to customer,0,654.34
+TXN-109,4/28/2026,5000,Rent Expense,Expense,Monthly rent payment,4870.09,0
+TXN-109,4/28/2026,1000,Cash,Asset,Monthly rent payment,0,4870.09
+TXN-125,4/28/2026,1000,Cash,Asset,Cash sale to customer,2736.35,0
+TXN-125,4/28/2026,4000,Sales Revenue,Revenue,Cash sale to customer,0,2736.35
+TXN-132,4/28/2026,5100,Salary Expense,Expense,Employee salary payout,4322.36,0
+TXN-132,4/28/2026,1000,Cash,Asset,Employee salary payout,0,4322.36
+TXN-126,4/29/2026,1000,Cash,Asset,Cash sale to customer,4020.88,0
+TXN-126,4/29/2026,4000,Sales Revenue,Revenue,Cash sale to customer,0,4020.88
+TXN-105,4/30/2026,5100,Salary Expense,Expense,Employee salary payout,1101.08,0
+TXN-105,4/30/2026,1000,Cash,Asset,Employee salary payout,0,1101.08
+TXN-121,4/30/2026,5100,Salary Expense,Expense,Employee salary payout,4636.96,0
+TXN-121,4/30/2026,1000,Cash,Asset,Employee salary payout,0,4636.96
